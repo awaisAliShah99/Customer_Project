@@ -1,0 +1,1001 @@
+﻿customer_id,first_name,last_name,email,phone,city,customer_segment,order_id,order_date,product_category,product_name,quantity,unit_price_pkr,total_amount_pkr,payment_method,order_status
+CUST0001,Fatima,Khan,fatima.khan105@gmail.com,+923634036506,Abbottabad,Regular,ORD00001,2024-10-12,Beauty,Face Wash,2.0,23558.73,47117.46,Cash,Pending
+CUST0002,Zainab,Raza,zainab.raza460@outlook.com,+923869119330,Peshawar,Premium,ORD00002,2026-05-09,Sports,Cricket Bat,2.0,2498.92,4997.84,Debit Card,Cancelled
+CUST0003,Usman,Malik,usman.malik868@outlook.com,+923648245888,Mardan,Regular,ORD00003,2024-07-17,Home & Kitchen,Desk Lamp,4.0,8912.32,35649.28,JazzCash,Completed
+CUST0004,Omar,Ahmed,omar.ahmed197@gmail.com,+923049203558,Karachi,VIP,ORD00004,2026-01-10,Sports,Yoga Mat,5.0,25096.86,125484.3,Credit Card,Completed
+CUST0005,Omar,Siddiqui,omar.siddiqui364@yahoo.com,+923719595113,Mardan,regular,ORD00005,2024-11-29,Books,Data Science Handbook,3.0,54124.26,N/A,JazzCash,Pending
+CUST0006,Sara,Butt,sara.butt333@gmail.com,+923245938494,Peshawar,VIP,ORD00006,2025-03-25,Books,Novel,5.0,unknown,115640.4,Debit Card,Completed
+CUST0007,Hassan,Iqbal,hassan.iqbal470@yahoo.com,+923284412919,Lahore,Premium,ORD00007,2026-03-21,Beauty,Sunscreen,4.0,26918.95,107675.8,EasyPaisa,Returned
+CUST0008,Zubair,Yousafzai,zubair.yousafzai774@gmail.com,+923924602213,Islamabad,Premium,ORD00008,2026-10-07,Home & Kitchen,Water Bottle,2.0,18837.43,37674.86,EasyPaisa,Returned
+CUST0009,Maham,Ahmed,maham.ahmed882@gmail.com,+923730448745,,VIP,ORD00009,2025-05-29,Books,Business Strategy,4.0,32592.23,130368.92,Cash,Cancelled
+CUST0010,Noor,Shah,noor.shah520@gmail.com,,Mardan,Premium,ORD00010,2026-10-22,Books,Data Science Handbook,3.0,525.04,1575.12,Debit Card,Pending
+CUST0011,Iqra,Khalid,iqra.khalid20@gmail.com,+92-abc-123,Swat,VIP,ORD00011,2025-10-25,Sports,Football,,78092.32,390461.6,Cash,Pending
+CUST0012,Zubair,Ahmed,zubair.ahmed676@example.com,+923590347116,Lahore,VIP,ORD00012,2024-09-14,Electronics,Smart Watch,1.0,62279.17,62279.17,JazzCash,Returned
+CUST0013,Hassan,Raza,hassan.raza666@outlook.com,+923470406376,Faisalabad,Corporate,ORD00013,2026-03-28,Beauty,Face Wash,3.0,58716.28,176148.84,Credit Card,Pending
+CUST0014,Ahmed,Afridi,ahmed.afridi73@gmail.com,+923245824373,Islamabad,Regular,ORD00014,2025-03-27,Electronics,Keyboard,2.0,50109.16,100218.32,Cash,Pending
+CUST0015,Bilal,Ali,bilal.ali804@example.com,+923867043303,Abbottabad,Premium,ORD00015,2026-08-26,Books,Python Basics,2.0,18406.57,36813.14,Cash,Returned
+CUST0016,Hira,Yousafzai,hira.yousafzai413@outlook.com,+923859629660,Islamabad,Premium,ORD00016,2024-07-20,Books,Data Science Handbook,1.0,39830.34,39830.34,Credit Card,Returned
+CUST0017,Usman,Yousafzai,usman.yousafzai828@gmail.com,+923054318806,Faisalabad,Regular,ORD00017,06-03-2024,Clothing,T-Shirt,999.0,23856.7,47713.4,Credit Card,Pending
+CUST0018,Noor,Butt,noor.butt389@gmail.com,+923419212169,Mardan,Corporate,ORD00018,2024-04-30,Books,Business Strategy,4.0,18365.08,73460.32,Bank Transfer,Returned
+CUST0019,Usman,Malik,usman.malik322@gmail.com,+923053839920,Quetta,Premium,ORD00019,2024-05-04,Home & Kitchen,Blender,1.0,18700.15,18700.15,JazzCash,Completed
+CUST0020,Sara,Ahmed,sara.ahmed965@yahoo.com,+923621609600,Peshawar,Regular,ORD00020,2026-04-06,Sports,Cricket Bat,2.0,6009.68,12019.36,EasyPaisa,Cancelled
+CUST0021,Bilal,Malik,bilal.malik135@outlook.com,+923490941149,Swat,Regular,ORD00021,2025-06-27,Beauty,Face Wash,2.0,60947.26,121894.52,Bank Transfer,Completed
+CUST0022,Ahmed,Raza,ahmed.raza901@yahoo.com,+923396776692,MARDAN,Premium,ORD00022,2025-12-15,Clothing,Sneakers,2.0,43123.73,86247.46,JazzCash,Cancelled
+CUST0023,Maham,Khalid,maham.khalid107@yahoo.com,+923283968123,Islamabad,Regular,ORD00023,2025-09-05,Beauty,Moisturizer,5.0,45077.72,225388.6,Debit Card,Cancelled
+CUST0024,Maham,Malik,maham.malik928@gmail.com,+923099104722,Abbottabad,VIP,ORD00024,2026-09-27,Beauty,Face Wash,3.0,29309.1,87927.3,Easy Paisa,Cancelled
+CUST0025,Usman,Ali,usman.ali10@gmail.com,+923080792472,Lahore,Regular,ORD00025,2026-05-25,Home & Kitchen,Cookware Set,4.0,13944.07,55776.28,JazzCash,Pending
+CUST0026,Noor,Shah,noor.shah699@yahoo.com,+923716114302,Islamabad,VIP,ORD00026,,Electronics,Smart Watch,1.0,26374.9,26374.9,Bank Transfer,Pending
+CUST0027,Zainab,Saeed,zainab.saeed184@outlook.com,+923840081098,,Premium,ORD00027,2026-04-24,Clothing,Jacket,2.0,82983.46,165966.92,Credit Card,Completed
+CUST0028,Omar,Saeed,omar.saeed359@outlook.com,+923881044229,Karachi,Premium,ORD00028,2025-02-12,Electronics,Wireless Mouse,2.0,73015.78,146031.56,EasyPaisa,Pending
+CUST0029,Omar,Afridi,omar.afridi522@example.com,+923729627019,Faisalabad,VIP,ORD00029,2025-12-20,Home & Kitchen,Blender,3.0,73503.91,220511.73,Cash,Cancelled
+CUST0030,Sara,Iqbal,sara.iqbal747@outlook.com,+923468574364,Faisalabad,Regular,ORD00030,2026-06-08,Home & Kitchen,Desk Lamp,5.0,3492.3,17461.5,JazzCash,Pending
+CUST0031,Bilal,Khan,bilal.khan442@gmail.com,+923713219781,Swat,VIP,ORD00031,2025-02-07,Beauty,Face Wash,5.0,37205.87,186029.35,EasyPaisa,Cancelled
+CUST0032,Danish,Siddiqui,danish.siddiqui131@yahoo.com,+923451450815,Abbottabad,Premium,ORD00032,2025-08-28,Beauty,Sunscreen,4.0,34861.3,139445.2,Bank Transfer,Completed
+CUST0033,Maryam,Siddiqui,maryam.siddiqui453@example.com,+923725449223,islamabd,Corporate,ORD00033,2025-10-21,Clothing,Jeans,5.0,36683.02,183415.1,EasyPaisa,Completed
+CUST0034,Maryam,Raza,maryam.raza689@outlook.com,+923241206079,Karachi,Premium,ORD00034,2024-07-10,Beauty,Face Wash,3.0,53891.74,161675.22,Jazz cash,Pending
+CUST0035,Laiba,Iqbal,laiba.iqbal714@example.com,+923530833445,Abbottabad,Premium,ORD00035,2025-02-02,Electronics,Headphones,5.0,38846.52,194232.6,EasyPaisa,Completed
+CUST0036,Fatima,Khalid,fatima.khalid571@yahoo.com,+923985125921,Islamabad,Corporate,ORD00036,08-09-2026,Books,Data Science Handbook,5.0,18796.79,93983.95, bank transfer ,Cancelled
+CUST0037,Saad,Iqbal,saad.iqbal762@example.com,+923483258726,Mardan,Premium,ORD00037,2026-07-02,,Sunscreen,4.0,75848.72,303394.88,JazzCash,Returned
+CUST0038,Zainab,Siddiqui,zainab.siddiqui344@outlook.com,+923958880263,Faisalabad,Regular,ORD00038,2025-04-25,Books,Data Science Handbook,3.0,6816.71,20450.13,Credit Card,Pending
+CUST0039,Omar,Mehmood,omar.mehmood339@example.com,+923446434187,Peshawar,Premium,ORD00039,2026-04-29,Clothing,Sneakers,1.0,60119.02,60119.02,Bank Transfer,Completed
+CUST0040,Zubair,Yousafzai,zubair.yousafzai874@example.com,+923577909930,,Premium,ORD00040,2025-09-03,Books,Novel,3.0,749.69,2249.07,Credit Card,Cancelled
+CUST0041,Noor,Butt,noor.butt942@yahoo.com,+923668143326,PESHAWAR,Regular,ORD00041,2024-12-04,Electronics,Power Bank,4.0,33205.65,132822.6,JazzCash,Completed
+CUST0042,Ahmed,Ali,ahmed.ali267@example.com,+923351492250,Karachi,Corporate,ORD00042,2025-01-07,Books,Business Strategy,4.0,11750.53,47002.12,Debit Card,Returned
+CUST0043,Bilal,Khalid,bilal.khalid768@gmail.com,+923375767056,Karachi,Regular,ORD00043,2026-08-21,Books,Python Basics,1.0,21630.01,21630.01,Cash,Pending
+CUST0044,Hassan,Saeed,hassan.saeed686@gmail.com,+923605557720,Karachi,Corporate,ORD00044,2024-09-15,Electronics,Keyboard,2.0,52908.2,105816.4,Debit Card,Pending
+CUST0045,Maham,Iqbal,maham.iqbal593@gmail.com,+923997385005,Mardan,Corporate,ORD00045,2025-09-29,Beauty,Shampoo,2.0,61130.78,122261.56,EasyPaisa,Pending
+CUST0046,Ahmed,Iqbal,ahmed.iqbal792@outlook.com,+923912995414,Islamabad,Regular,ORD00046,2024-07-27,Beauty,Sunscreen,2.0,70640.95,141281.9,JazzCash,COMPLETED
+CUST0047,Hira,Ahmed,hira.ahmed109@example.com,+923388896443,Quetta,Premium,ORD00047,2026-05-10,Sports,Cricket Bat,1.0,55129.29,55129.29,Credit Card,Cancelled
+CUST0048,Maham,Khalid,maham.khalid607@outlook.com,,Karachi,Regular,ORD00048,2026-06-11,Sports,Dumbbells,4.0,65900.86,-100,Bank Transfer,Pending
+CUST0049,Saad,Iqbal,saad.iqbal872@outlook.com,+923195249057,Quetta,Premium,ORD00049,2024-02-28,Sports,Dumbbells,3.0,56878.97,170636.91,Debit Card,Cancelled
+CUST0050,Bilal,Iqbal,bilal.iqbal971@yahoo.com,+923091926217,Karachi,Corporate,ORD00050,2024-01-21,Beauty,Shampoo,5.0,74839.1,374195.5,JazzCash,Pending
+CUST0051,Laiba,Ali,laiba.ali227@example.com,+923742800803,Karachi,VIP,ORD00051,2024-07-09,Beauty,Sunscreen,1.0,41847.11,41847.11,Bank Transfer,Cancelled
+CUST0052,Noor,Mehmood,noor.mehmood258@yahoo.com,+923129553265,Karachi,VIP,ORD00052,2025-07-08,Sports,Yoga Mat,4.0,28284.56,113138.24,EasyPaisa,PENDING 
+CUST0053,Hassan,Malik,hassan.malik853@yahoo.com,+923318092217,Karachi,VIP,ORD00053,2025-08-02,Beauty,Moisturizer,5.0,41285.83,206429.15,Debit Card,Completed
+CUST0054,Iqra,Shah,missing-at-sign.com,+923684907325, Lahore ,Regular,ORD00054,2025-08-21,Home & Kitchen,Blender,1.0,4107.46,4107.46,JazzCash,Cancelled
+CUST0055,Laiba,Butt,laiba.butt117@gmail.com,+923430256336,Quetta,Regular,ORD00055,2025-06-01,Books,Python Basics,1.0,29124.83,29124.83,Credit Card,Pending
+CUST0056,Zubair,Siddiqui,zubair.siddiqui611@yahoo.com,+923832894596,Faisalabad,Corporate,ORD00056,2026-05-02,Electronics,Power Bank,1.0,84484.56,84484.56,Bank Transfer,Cancelled
+CUST0057,Zubair,Yousafzai,zubair.yousafzai641@yahoo.com,,Islamabad,Premium,ORD00057,2024-07-22,Home & Kitchen,Water Bottle,1.0,48441.35,48441.35,Credit Card,Completed
+CUST0058,Sara,Khan,sara.khan34@yahoo.com,+923309350265,Mardan,Corporate,ORD00058,2026-08-20,Books,Python Basics,5.0,38430.19,192150.95,EasyPaisa,Pending
+CUST0059,Bilal,Khalid,bilal.khalid558@yahoo.com,+923695392488,Lahore,VIP,ORD00059,2026-05-20,Beauty,Moisturizer,2.0,50234.67,100469.34,Cash,Completed
+CUST0060,Sara,Khalid,,+923739462365,Mardan,Corporate,ORD00060,2025-08-14,Home & Kitchen,Cookware Set,5.0,50679.98,253399.9,JazzCash,Returned
+CUST0061,Saad,Ahmed,saad.ahmed257@gmail.com,+923098061499,Karachi,Regular,ORD00061,2025-10-22,Sports,Dumbbells,4.0,3628.2,14512.8,JazzCash,Completed
+CUST0062,Sara,Butt,sara.butt447@example.com,+923097970787,Quetta,VIP,ORD00062,2025-01-06,,Cricket Bat,3.0,55465.43,166396.29,Debit Card,Cancelled
+CUST0063,Fatima,Saeed,fatima.saeed968@example.com,+923873559879,Faisalabad,Regular,ORD00063,31/02/2025,Clothing,Sneakers,4.0,28200.86,112803.44,Cash,Cancelled
+CUST0064,Bilal,Afridi,bilal.afridi891@example.com,+923443721204,Peshawar,Premium,ORD00064,2024-01-03,Electronics,Smart Watch,4.0,82473.16,329892.64,Debit Card,Returned
+CUST0065,Saad,Khalid,saad.khalid449@example.com,+923130380269,Peshawar,Premium,ORD00065,2024-09-25,Electronics,Headphones,5.0,,87507.8,Debit Card,Completed
+CUST0066,Iqra,Yousafzai,iqra.yousafzai664@yahoo.com,+923535126623,Mardan,VIP,ORD00066,"Aug 03, 2026",Electronics,Power Bank,1.0,19293.38,19293.38,Bank Transfer,Returned
+CUST0067,Zainab,Butt,zainab.butt283@example.com,,Faisalabad,VIP,ORD00067,2024-10-06,Sports,Yoga Mat,2.0,12508.41,25016.82,Debit Card,Cancelled
+CUST0068,Zubair,Iqbal,zubair.iqbal496@outlook.com,+923356954682,Faisalabad,Corporate,ORD00068,2026-07-03,Beauty,Shampoo,2.0,41747.02,83494.04,Debit Card,Pending
+CUST0069,Zainab,Iqbal,zainab.iqbal763@example.com,+923757232668,Abbottabad,Corporate,ORD00069,2024-03-30,Books,Data Science Handbook,4.0,20044.42,80177.68,Bank Transfer,Completed
+CUST0070,Usman,Raza,usman.raza539@example.com,+923016479358,Lahore,Corporate,ORD00070,2026-06-20,Sports,Football,1.0,28386.55,14193.27,Cash,Returned
+CUST0071,Bilal,Afridi,bilal.afridi880@example.com,,Quetta,,ORD00071,2025-11-03,Sports,Yoga Mat,1.0,58956.71,58956.71,Credit Card,Cancelled
+CUST0072,Zainab,Mehmood,zainab.mehmood171@outlook.com,+923970044206,Peshawar,Regular,ORD00072,2024-07-24,Electronics,Keyboard,1.0,37029.08,37029.08,Cash,Cancelled
+CUST0073,Hira,Afridi,hira.afridi699@yahoo.com,+923182518553,Lahore,Regular,ORD00073,2026-04-23,Books,Novel,5.0,12587.04,62935.2,JazzCash,Pending
+CUST0074,Laiba,Iqbal,laiba.iqbal683@gmail.com,+923965195684,Quetta,VIP,ORD00074,2026-07-30,Clothing,Scarf,3.0,19927.97,59783.91,Credit Card,Completed
+CUST0075,Saad,Afridi,saad.afridi866@outlook.com,+923213907621,Abbottabad,Corporate,ORD00075,2025-05-27,Sports,Yoga Mat,4.0,25603.32,102413.28,Credit Card,Returned
+CUST0076,Zubair,Afridi,zubair.afridi406@outlook.com,+923008695125,Peshawar,Corporate,ORD00076,2024-02-14,Sports,Dumbbells,3.0,25325.19,75975.57,Credit Card,Cancelled
+CUST0077,Zainab,Ali,,+923331714152,Quetta,Regular,ORD00077,2024-07-17,Clothing,Scarf,2.0,52870.53,105741.06,Debit Card,Pending
+CUST0078,Ahmed,Siddiqui,ahmed.siddiqui806@outlook.com,+923569998399,Faisalabad,VIP,ORD00078,2025-02-15,Home & Kitchen,Water Bottle,2.0,63599.0,127198.0,Debit Card,Returned
+CUST0079,Maryam,Mehmood,maryam.mehmood773@yahoo.com,+923923568933,Abbottabad,VIP,ORD00079,2024-06-03,Home & Kitchen,Blender,4.0,68408.71,273634.84,Bank Transfer,Completed
+CUST0080,Bilal,Raza,bilal.raza963@outlook.com,+923116335741,Karachi,Corporate,ORD00080,2026-02-19,Electronics,Wireless Mouse,3.0,38793.12,116379.36,JazzCash,Cancelled
+CUST0081,Maham,Malik,maham.malik419@gmail.com,+923150084428,Peshawar,Regular,ORD00081,2025-09-10,Beauty,Sunscreen,4.0,5607.64,22430.56,Bank Transfer,Completed
+CUST0082,Fatima,Malik,fatima.malik973@example.com,+923630651895,Lahore,Corporate,ORD00082,2026-01-29,Sports,Yoga Mat,4.0,11747.53,46990.12,Bank Transfer,Returned
+CUST0083,Bilal,Khan,bilal.khan876@outlook.com,+923106681214,Swat,VIP,ORD00083,29/06/2026,Beauty,Face Wash,4.0,31652.41,126609.64,Bank Transfer,Cancelled
+CUST0084,Hassan,Ahmed,hassan.ahmed806@outlook.com,+923261530104,Lahore,Premium,ORD00084,2024-02-13,Books,Python Basics,2.0,8019.32,16038.64,JazzCash,Pending
+CUST0085,Zubair,Malik,zubair.malik880@yahoo.com,+923139577989,Faisalabad,VIP,ORD00085,2024-01-06,Clothing,Jeans,2.0,28095.42,56190.84,Cash,Completed
+CUST0086,Usman,Khan,usman.khan179@outlook.com,+923056263020,Lahore,Corporate,ORD00086,2025-10-25,Home & Kitchen,Blender,2.0,67201.2,134402.4,EasyPaisa,Completed
+CUST0087,Laiba,Butt,laiba.butt227@gmail.com,+923780871219,Faisalabad,VIP,ORD00087,2026-07-14,Home & Kitchen,Desk Lamp,1.0,43746.92,43746.92,EasyPaisa,Completed
+CUST0088,Ali,Butt,ali.butt932@example.com,+923078910051,Islamabad,VIP,ORD00088,2026-10-01,Books,Data Science Handbook,1.0,36376.69,36376.69,Cash,Pending
+CUST0089,Bilal,Iqbal,bilal.iqbal544@outlook.com,+923487173220,Faisalabad,Corporate,ORD00089,2026-02-19,Beauty,Face Wash,-2.0,unknown,149578.98,EasyPaisa,Completed
+CUST0090,Iqra,Mehmood,iqra.mehmood848@example.com,+923428133274,Abbottabad,Regular,ORD00090,2026-04-27,Clothing,Jacket,2.0,36698.43,73396.86,Bank Transfer,Cancelled
+CUST0091,Bilal,Afridi,bilal.afridi852@gmail.com,,Abbottabad,Regular,ORD00091,2024-05-17,Clothing,Jacket,4.0,58458.08,233832.32,Credit Card,Completed
+CUST0092,Zubair,Raza,zubair.raza895@example.com,+923932106843,Peshawar,VIP,ORD00092,2026-04-21,Sports,Dumbbells,1.0,28187.5,28187.5,Debit Card,Completed
+CUST0093,Zubair,Raza,zubair.raza359@outlook.com,+923123357166,Mardan,Premium,ORD00093,2025-04-04,Clothing,Sneakers,4.0,13363.38,26726.76,JazzCash,Completed
+CUST0094,Maham,Ali,maham.ali781@outlook.com,,Swat,VIP,ORD00094,2025-07-13,Beauty,Face Wash,2.0,22916.19,45832.38,Credit Card,COMPLETED
+CUST0095,Zubair,Ali,zubair.ali544@yahoo.com,+923403935666,Abbottabad,,ORD00095,2024-07-06,Books,Business Strategy,1.0,6147.36,6147.36,Credit Card,Cancelled
+CUST0096,Maryam,Mehmood,maryam.mehmood160@yahoo.com,+923810069356,Peshawar,Regular,ORD00096,2024-06-22,Home & Kitchen,Cookware Set,,66086.82,330434.1,Bank Transfer,Returned
+CUST0097,Laiba,Iqbal,,+923304133583,Quetta,VIP,ORD00097,2024-08-21,Books,Python Basics,2.0,35352.07,70704.14,Credit Card,Returned
+CUST0098,Maham,Khan,maham.khan297@outlook.com,+923128832213,Peshawar,,ORD00098,2025-13-40,Electronics,Power Bank,2.0,17574.86,35149.72,Credit Card,Pending
+CUST0099,Omar,Raza,omar.raza407@gmail.com,+923468387228,Peshawar,Corporate,ORD00099,2025-12-26,Beauty,Face Wash,5.0,19751.88,98759.4,Debit Card,Returned
+CUST0100,Zubair,Yousafzai,zubair.yousafzai22@outlook.com,+923184547422,Quetta,VIP,ORD00100,2024-08-23,Beauty,Face Wash,3.0,54502.01,163506.03,Bank Transfer,Completed
+CUST0101,Zainab,Yousafzai,zainab.yousafzai764@outlook.com,,Swat,Premium,ORD00101,2026-03-21,Sports,Yoga Mat,1.0,34188.12,34188.12,JazzCash,Completed
+CUST0102,Danish,Raza,,+923253691745,Islamabad,Premium,ORD00102,2025-12-20,Clothing,Jacket,3.0,77026.95,231080.85,Credit Card,Pending
+CUST0103,Maham,Shah,maham.shah779@example.com,+923731361497,Swat,VIP,ORD00103,2026-08-08,Beauty,Moisturizer,4.0,6636.19,26544.76,Bank Transfer,Completed
+CUST0104,Laiba,Butt,not_an_email,+923333297890,Quetta,Corporate,ORD00104,2024-04-25,Beauty,Face Wash,3.0,25914.03,77742.09,Cash,Cancelled
+CUST0105,Maryam,Ahmed,maryam.ahmed595@gmail.com,+923482897882,Karachi,VIP,ORD00105,2026-02-26,Beauty,Shampoo,1.0,73495.19,73495.19,JazzCash,Pending
+CUST0106,Ali,Butt,ali.butt662@yahoo.com,+923042028540,Karachi,,ORD00106,2024-06-21,Electronics,Power Bank,3.0,68979.44,206938.32,JazzCash,PENDING 
+CUST0107,Hira,Afridi,hira.afridi663@outlook.com,+923070772317,Swat,Regular,ORD00107,2024-04-17,Home & Kitchen,Desk Lamp,3.0,33083.55,99250.65,Debit Card,Cancelled
+CUST0108,Maham,Saeed,maham.saeed318@example.com,+923138460786,Islamabad,VIP,ORD00108,2024-10-16,Clothing,Scarf,5.0,28502.43,142512.15,Bank Transfer,Cancelled
+CUST0109,Usman,Ali,usman.ali687@example.com,+923545985356,Swat,Regular,ORD00109,2024-07-10,Beauty,Sunscreen,5.0,70504.27,352521.35,Debit Card,Pending
+CUST0110,Hassan,Afridi,hassan.afridi303@gmail.com,+923545127678,Faisalabad,Regular,ORD00110,2024-11-13,Books,Business Strategy,2.0,16522.44,33044.88,JazzCash,Pending
+CUST0111,Maham,Yousafzai,maham.yousafzai449@gmail.com,+923441156077,Swat,Premium,ORD00111,2024-12-05,Clothing,Sneakers,5.0,14000.45,70002.25,JazzCash,Cancelled
+CUST0020,Sara,Ahmed,sara.ahmed965@yahoo.com,+923621609600,Peshawar,Regular,ORD00020,2026-04-06,Sports,Cricket Bat,2.0,6009.68,12019.36,EasyPaisa,Cancelled
+CUST0113,Maham,Shah,maham.shah957@gmail.com,+923763860982, Lahore ,Regular,ORD00113,2026-01-30,Home & Kitchen,Cookware Set,4.0,4672.24,18688.96,Cash,Pending
+CUST0114,Bilal,Butt,bilal.butt837@example.com,+923949863985,Swat,Regular,ORD00114,2024-07-06,Sports,Cricket Bat,4.0,12737.8,50951.2,Cash,Returned
+CUST0115,Danish,Afridi,danish.afridi29@outlook.com,+923999466711,Islamabad,VIP,ORD00115,2026-02-06,Clothing,Jeans,1.0,32977.58,99999999,Credit Card,Completed
+CUST0116,Maryam,Saeed,maryam.saeed631@gmail.com,+923972657073,Islamabad,Regular,ORD00116,2026-08-18,Books,Business Strategy,2.0,59242.1,118484.2,Credit Card,Pending
+CUST0117,Iqra,Mehmood,iqra.mehmood309@gmail.com,+923051270577,Karachi,Corporate,ORD00117,2025-08-13,Sports,Cricket Bat,1.0,44978.64,44978.64,Cash,Completed
+CUST0118,Laiba,Iqbal, ,+923460891752,Peshawar,VIP,ORD00118,2025-05-10,Sports,Football,5.0,1642.9,8214.5,JazzCash,Returned
+CUST0119,Sara,Ali,sara.ali558@gmail.com,+923419246503,peshawar,Regular,ORD00119,2024-05-18,Beauty,Shampoo,3.0,7505.78,22517.34,Debit Card,Cancelled
+CUST0120,Ayesha,Afridi,ayesha.afridi46@outlook.com,+923586277792,Swat,Premium,ORD00120,2025-11-11,Electronics,Power Bank,1.0,29472.01,29472.01,EasyPaisa,Returned
+CUST0022,Ahmed,Raza,ahmed.raza901@yahoo.com,+923396776692,MARDAN,Premium,ORD00022,2025-12-15,Clothing,Sneakers,2.0,43123.73,86247.46,JazzCash,Cancelled
+CUST0122,Iqra,Butt,iqra.butt883@gmail.com,+923929643817,Swat,VIP,ORD00122,2025-08-08,Home & Kitchen,Blender,2.0,3353.61,6707.22,Debit Card,Returned
+CUST0123,Omar,Mehmood,omar.mehmood509@example.com,+923394435754,,VIP,ORD00123,2025-11-25,Books,Python Basics,4.0,76070.53,304282.12,EasyPaisa,Returned
+CUST0124,Ahmed,Yousafzai,ahmed.yousafzai106@gmail.com,+923352101316,Mardan,VIP,ORD00124,"Aug 24, 2025",Sports,Cricket Bat,,84584.57,169169.14,JazzCash,Returned
+CUST0125,Sara,Mehmood,sara.mehmood446@outlook.com,+923686624943,Peshawar,Regular,ORD00125,2025-12-23,Books,Novel,1.0,30043.61,30043.61,Debit Card,Pending
+CUST0126,Ayesha,Shah,ayesha.shah69@yahoo.com,+923835924516,Swat,VIP,ORD00126,2024-03-12,Sports,Cricket Bat,4.0,57718.03,230872.12,JazzCash,Completed
+CUST0127,Maham,Shah,maham.shah782@gmail.com,+923616243819,Lahore,VIP,ORD00127,"Jan 31, 2026",Beauty,Shampoo,3.0,38380.94,115142.82,Debit Card,Cancelled
+CUST0128,Zainab,Ahmed,zainab.ahmed121@outlook.com,+923832111777,PESHAWAR,Corporate,ORD00128,2026-03-03,Electronics,Headphones,4.0,62598.44,250393.76,JazzCash,Cancelled
+CUST0129,Laiba,Malik,laiba.malik921@example.com,+923094264587,Swat,VIP,ORD00129,2026-07-14,Electronics,Wireless Mouse,1.0,11752.98,11752.98,JazzCash,Cancelled
+CUST0130,Maryam,Saeed,maryam.saeed230@gmail.com,+923215801027,Lahore,Premium,ORD00130,2026-01-10,Clothing,Sneakers,2.0,60575.82,121151.64,Cash,Cancelled
+CUST0011,Iqra,Khalid,iqra.khalid20@gmail.com,+92-abc-123,Swat,VIP,ORD00011,2025-10-25,Sports,Football,,78092.32,390461.6,Cash,Pending
+CUST0132,Noor,Saeed,noor.saeed478@outlook.com,+923137798236,Faisalabad,Premium,ORD00132,2024-05-31,Sports,Football,3.0,6500.37,29251.67,Bank Transfer,Completed
+CUST0133,Fatima,Raza,fatima.raza231@outlook.com,+923557162259,Mardan,Regular,ORD00133,2025-10-22,Clothing,Jacket,2.0,26024.56,52049.12,Credit Card,Cancelled
+CUST0134,Usman,Ali,usman.ali173@yahoo.com,+923183825267,Swat,Regular,ORD00134,2026-10-26,Home & Kitchen,Blender,1.0,52322.8,52322.8,Cash,Completed
+CUST0135,Zubair,Siddiqui,zubair.siddiqui655@gmail.com,+923534764290,Faisalabad,corporate,ORD00135,2026-05-03,Beauty,Sunscreen,5.0,18116.01,90580.05,Bank Transfer,Pending
+CUST0136,Omar,Siddiqui,omar.siddiqui426@example.com,+923498690974,Karachi,VIP,ORD00136,2024-11-19,Books,Data Science Handbook,1.0,6434.46,6434.46,Debit Card,Cancelled
+CUST0137,Hira,Yousafzai,,+923131556899,Mardan,Corporate,ORD00137,05/08/2024,Clothing,Jeans,5.0,64716.36,323581.8,Credit Card,Completed
+CUST0138,Ali,Siddiqui,ali.siddiqui834@outlook.com,+923620286733,Swat,Premium,ORD00138,2025-05-23,Books,Data Science Handbook,,73487.89,293951.56,Bank Transfer,Returned
+CUST0139,Laiba,Siddiqui,laiba.siddiqui221@outlook.com,+923052246275,Peshawar,VIP,ORD00139,2026-07-25,Books,Novel,4.0,2214.19,8856.76,JazzCash,Returned
+CUST0140,Maryam,Raza,,+923820184955,Abbottabad,VIP,ORD00140,2024-10-01,Electronics,Wireless Mouse,4.0,unknown,288191.44,Bank Transfer,Completed
+CUST0141,Zubair,Raza,zubair.raza517@example.com,+92-abc-123,Faisalabad,VIP,ORD00141,2024-05-30,Clothing,Scarf,3.0,30973.89,92921.67,EasyPaisa,Completed
+CUST0142,Usman,Ahmed,user@@gmail.com,+923536954564,Peshawar,Regular,ORD00142,2026-01-18,Books,Python Basics,3.0,31878.56,95635.68,Credit Card,Cancelled
+CUST0142,Usman,Ahmed,user@@gmail.com,+923536954564,Peshawar,Regular,ORD00142,2026-01-18,Books,Python Basics,3.0,31878.56,95635.68,Credit Card,Cancelled
+CUST0144,Zubair,Siddiqui,zubair.siddiqui113@example.com,03XX1234567,Mardan,Regular,ORD00144,2025-11-09,Books,Novel,3.0,69384.71,208154.13,Debit Card,Pending
+CUST0145,Ali,Iqbal,ali.iqbal842@yahoo.com,+923033898577,Islamabad,Premium,ORD00145,2026-02-17,Books,Python Basics,5.0,14700.9,73504.5,Bank Transfer,Cancelled
+CUST0146,Noor,Shah,noor.shah943@example.com,+923937180874,Peshawar,Premium,ORD00146,2026-10-24,Books,Data Science Handbook,4.0,58769.9,235079.6,JazzCash,Cancelled
+CUST0147,Laiba,Raza,laiba.raza351@outlook.com,+923725708356,Mardan,Corporate,ORD00147,2026-07-30,Books,Data Science Handbook,2.0,26840.53,53681.06,Credit Card,Cancelled
+CUST0148,Iqra,Siddiqui,iqra.siddiqui213@example.com,+923340419907,Quetta,VIP,ORD00148,31/02/2025,Clothing,Scarf,3.0,80040.9,240122.7,EasyPaisa,Cancelled
+CUST0149,Maryam,Ahmed,maryam.ahmed978@yahoo.com,+923311871167,Peshawar,VIP,ORD00149,,Sports,Yoga Mat,4.0,57593.74,230374.96,Debit Card,Returned
+CUST0150,Bilal,Mehmood,bilal.mehmood713@outlook.com,+923147395716,Islamabad,Premium,ORD00150,2025-07-09,Books,Data Science Handbook,5.0,18385.38,91926.9,Cash,Pending
+CUST0151,Zainab,Khan,zainab.khan790@yahoo.com,+923005563528,Faisalabad,Premium,ORD00151,2024-07-24,Electronics,Power Bank,4.0,35277.29,141109.16,EasyPaisa,Returned
+CUST0152,Laiba,Ali,laiba.ali662@gmail.com,+923974889880,Islamabad,Premium,ORD00152,2025-10-19,Clothing,Scarf,3.0,64313.46,192940.38,EasyPaisa,complete
+CUST0153,Sara,Yousafzai,sara.yousafzai191@outlook.com,+923941395813,Peshawar,Regular,ORD00153,2025-13-40,Clothing,Jacket,1.0,79399.94,79399.94,CREDIT CARD,Completed
+CUST0154,Hamza,Siddiqui,hamza.siddiqui872@example.com,+923292956587,Karachi,Regular,ORD00154,2026-10-08,Books,Business Strategy,5.0,84076.18,420380.9,Credit Card,Returned
+CUST0155,Bilal,Mehmood,bilal.mehmood691@yahoo.com,+923188436227,Abbottabad,Corporate,ORD00155,2025-08-27,Clothing,Scarf,3.0,1443.64,4330.92,Debit Card,Completed
+CUST0156,Omar,Ali,omar.ali959@yahoo.com,+923007333788,Mardan,Corporate,ORD00156,2026-09-04,Electronics,Headphones,2.0,15910.21,31820.42,Bank Transfer,Cancelled
+CUST0157,Hamza,Siddiqui,hamza.siddiqui369@yahoo.com,+923066705490,Islamabad,REGULAR,ORD00157,2025-06-19,Sports,Dumbbells,1.0,61514.29,61514.29,Credit Card,Returned
+CUST0158,Danish,Mehmood,danish.mehmood227@yahoo.com,+923143418388,Quetta,Premium,ORD00158,2026-01-22,Home & Kitchen,Desk Lamp,3.0,58752.11,176256.33,EasyPaisa,Cancelled
+CUST0159,Noor,Mehmood,noor.mehmood697@gmail.com,+923564258474,Quetta,VIP,ORD00159,2025-03-23,Sports,Yoga Mat,5.0,77609.54,388047.7,JazzCash,Completed
+CUST0160,Ali,Saeed,ali.saeed336@example.com,+923124811770,Karachi, PREMIUM ,ORD00160,2024-11-02,Sports,Yoga Mat,2.0,76769.77,153539.54,JazzCash,Returned
+CUST0161,Ali,Butt,ali.butt474@outlook.com,+923776616079,Peshawar,Corporate,ORD00161,2024-04-28,Clothing,Jacket,4.0,43747.75,174991.0,Cash,Pending
+CUST0162,Zubair,Ahmed,zubair.ahmed957@example.com,+923034075063,Mardan,Corporate,ORD00162,2024-05-03,Electronics,Headphones,1.0,36158.35,36158.35,Credit Card,Returned
+CUST0163,Hira,Yousafzai,hira.yousafzai700@yahoo.com,+923701726890,Swat,Regular,ORD00163,,Books,Data Science Handbook,4.0,73950.32,295801.28,JazzCash,Returned
+CUST0164,Danish,Shah,danish.shah475@example.com,+923571159367,Abbottabad,Premium,ORD00164,2024-02-16,Beauty,Moisturizer,1.0,83196.89,83196.89,Bank Transfer,Cancelled
+CUST0165,Usman,Siddiqui,usman.siddiqui430@gmail.com,+923258413465,Karachi,Regular,ORD00165,2024-03-06,Clothing,T-Shirt,1.0,79695.53,79695.53,JazzCash,Completed
+CUST0166,Saad,Iqbal,not_an_email,+923471332733,Karachi,Premium,ORD00166,2025-05-16,Beauty,Face Wash,1.0,59853.51,59853.51,Credit Card,Cancelled
+CUST0167,Zainab,Saeed,zainab.saeed310@yahoo.com,+923708897689,Faisalabad,Premium,ORD00167,2025-10-18,Beauty,Shampoo,5.0,49075.35,245376.75,Debit Card,Cancelled
+CUST0168,Ali,Raza,ali.raza508@gmail.com,+923369812603,Abbottabad,VIP,ORD00168,2026-05-24,Sports,Cricket Bat,2.0,74805.75,149611.5,Bank Transfer,Pending
+CUST0169,Maryam,Yousafzai,maryam.yousafzai308@yahoo.com,+923865195567,Quetta,Regular,ORD00169,2025-05-08,Clothing,Scarf,4.0,64186.76,256747.04,Bank Transfer,Returned
+CUST0170,Iqra,Raza,iqra.raza663@gmail.com,+923990232742,Quetta,VIP,ORD00170,2025-02-20,Clothing,T-Shirt,3.0,33168.51,99505.53,JazzCash,Pending
+CUST0171,Ali,Siddiqui,ali.siddiqui193@yahoo.com,+923514745610,Karachi,VIP,ORD00171,21/03/2024,Books,Business Strategy,5.0,57343.7,286718.5,Cash,Pending
+CUST0172,Hassan,Mehmood,hassan.mehmood619@yahoo.com,+923425880424,Karachi,VIP,ORD00172,2025-05-11,Electronics,Keyboard,4.0,63548.01,254192.04,Bank Transfer,Returned
+CUST0173,Iqra,Ali,iqra.ali101@example.com,,Swat,regular,ORD00173,2026-10-15,Home & Kitchen,Cookware Set,3.0,26388.79,79166.37,Debit Card,Returned
+CUST0174,Ali,Iqbal,ali.iqbal958@example.com,+923316960306,Lahore,Premium,ORD00174,2025-06-18,Clothing,Jacket,1.0,63071.14,63071.14,Credit Card,Returned
+CUST0175,Zubair,Saeed,,+92-abc-123,Lahore, PREMIUM ,ORD00175,2025-06-11,Clothing,Jeans,3.0,42565.8,99999999.0,Credit Card,Returned
+CUST0176,Sara,Raza,sara.raza968@gmail.com,+923820702588,Peshawar,Corporate,ORD00176,2024-03-10,Beauty,Moisturizer,5.0,81375.83,406879.15,EasyPaisa,cancel
+CUST0177,Ahmed,Mehmood,ahmed.mehmood62@example.com,+923707901168,,Regular,ORD00177,2026-07-22,Clothing,T-Shirt,5.0,1024.74,5123.7,JazzCash,Returned
+CUST0178,Ayesha,Khan,ayesha.khan515@example.com,+923865615974,Lahore,Regular,ORD00178,2025-08-10,Sports,Yoga Mat,5.0,61455.83,307279.15,JazzCash,Pending
+CUST0179,Zainab,Malik,zainab.malik81@outlook.com,+923435968611,Quetta,corporate,ORD00179,2025-07-01,Sports,Football,3.0,44867.14,134601.42,Debit Card,Completed
+CUST0180,Ali,Ahmed,ali.ahmed653@gmail.com,+923754674236,Lahore,Regular,ORD00180,2026-09-01,Books,Novel,5.0,32392.63,161963.15,Bank Transfer,Cancelled
+CUST0181,Zubair,Saeed,zubair.saeed923@example.com,+923291086098,Peshawar,Regular,ORD00181,2025-04-15,Electronics,Keyboard,1.0,76083.56,76083.56,JazzCash,Completed
+CUST0182,Sara,Saeed,sara.saeed841@example.com,+923997371877,Islamabad,VIP,ORD00182,"Oct 22, 2024",Home & Kitchen,Water Bottle,2.0,1577.02,3154.04,JazzCash,complete
+CUST0183,Zubair,Saeed,zubair.saeed774@yahoo.com,+923848790854,Islamabad,VIP,ORD00183,2025-11-10,Books,Python Basics,5.0,57628.71,288143.55,Cash,Returned
+CUST0184,Zainab,Saeed,zainab.saeed31@outlook.com,+923841328406,Quetta,Corporate,ORD00184,2026-03-23,Electronics,Headphones,5.0,29115.24,145576.2,Debit Card,Returned
+CUST0185,Noor,Shah,noor.shah303@yahoo.com,+923765694462,Islamabad,Regular,ORD00185,2024-06-24,Beauty,Sunscreen,4.0,49902.92,199611.68,Credit Card,Returned
+CUST0186,Usman,Mehmood,usman.mehmood966@outlook.com,+923477531502,Swat,VIP,ORD00186,not available,Books,Python Basics,1.0,27088.48,27088.48,Credit Card,Completed
+CUST0187,Sara,Yousafzai,sara.yousafzai27@gmail.com,+923380012570,Faisalabad,Regular,ORD00187,2026-04-15,Books,Business Strategy,5.0,47454.48,237272.4,Bank Transfer,Completed
+CUST0188,Maryam,Yousafzai,maryam.yousafzai534@yahoo.com,+923735852444,Abbottabad,Premium,ORD00188,2025-05-12,Books,Data Science Handbook,5.0,66284.58,331422.9,Debit Card,Cancelled
+CUST0189,Bilal,Butt,bilal.butt307@example.com,+923840381893,Islamabad,VIP,ORD00189,07-19-2025,Clothing,Jacket,4.0,5611.89,22447.56,Credit Card,Returned
+CUST0190,Maham,Iqbal,maham.iqbal972@example.com,+923356715514,MARDAN,VIP,ORD00190,2025-09-15,Clothing,Sneakers,2.0,39053.77,78107.54,Debit Card,Returned
+CUST0191,Maham,Shah,maham.shah182@example.com,+923342671456,Mardan,Corporate,ORD00191,2026-09-08,Home & Kitchen,Water Bottle,2.0,27426.37,54852.74,Debit Card,Returned
+CUST0192,Bilal,Saeed,bilal.saeed559@yahoo.com,+923731983367,Faisalabad,Regular,ORD00192,2025-02-13,Books,Novel,5.0,31185.07,155925.35,EasyPaisa,Pending
+CUST0193,Saad,Khalid,saad.khalid512@yahoo.com,+923680039397,Mardan,Premium,ORD00193,2026-04-17,Home & Kitchen,Cookware Set,1.0,70701.13,70701.13,Jazz cash,Pending
+CUST0194,Noor,Khalid,noor.khalid411@example.com,+923583734594,Peshawar,VIP,ORD00194,2026-09-08,Books,Python Basics,,6518.55,32592.75,Cash,Pending
+CUST0195,Hira,Shah,hira.shah989@example.com,+923113757100,Peshawar,Regular,ORD00195,2026-03-29,Beauty,Sunscreen,5.0,52174.45,260872.25,Credit Card,Pending
+CUST0196,Saad,Afridi,saad.afridi354@gmail.com,+923518371508,Islamabad,VIP,ORD00196,2026-10-21,Books,Novel,5.0,39494.61,197473.05,Cash,Completed
+CUST0197,Usman,Afridi,usman.afridi488@gmail.com,+923470477095,Quetta,,ORD00197,2026-09-16,Home & Kitchen,Blender,2.0,29324.9,58649.8,Debit Card,Completed
+CUST0198,Fatima,Khan,fatima.khan179@yahoo.com,+923355397438,Faisalabad,Corporate,ORD00198,2025-05-14,Home & Kitchen,Desk Lamp,2.0,55165.45,110330.9,Credit Card,Returned
+CUST0199,Sara,Shah,,+923482727494,Abbottabad,Corporate,ORD00199,2024-02-29,Beauty,Face Wash,4.0,55956.85,223827.4,EasyPaisa,return
+CUST0200,Hassan,Siddiqui,missing-at-sign.com,+923350023635,Karachi,Corporate,ORD00200,2024-07-27,Beauty,Face Wash,1.0,68789.85,68789.85,Debit Card,Returned
+CUST0201,Danish,Ali,danish.ali117@outlook.com,+923377940931,Quetta,Premium,ORD00201,2026-03-14,Home & Kitchen,Cookware Set,5.0,50843.28,254216.4,JazzCash,Completed
+CUST0202,Usman,Afridi,usman.afridi711@yahoo.com,+923548494024,Abbottabad,Corporate,ORD00202,"Jan 09, 2025",Electronics,Smart Watch,1.0,20469.04,20469.04, bank transfer ,Returned
+CUST0203,Noor,Shah,noor.shah296@yahoo.com,+923200895568,Swat,Corporate,ORD00203,2024-12-07,Books,Python Basics,2.0,54108.76,108217.52,Debit Card,COMPLETED
+CUST0204,Laiba,Shah,laiba.shah702@example.com,+923446279777,Quetta,Corporate,ORD00204,2026-10-10,Clothing,Jeans,5.0,69339.55,346697.75,Cash,Completed
+CUST0205,Zainab,Siddiqui,zainab.siddiqui800@example.com,+923607362554,Quetta,Regular,ORD00205,2025-08-14,,Smart Watch,5.0,23543.78,117718.9,Cash,Cancelled
+CUST0206,Iqra,Saeed,iqra.saeed224@example.com,+923109968815,Karachi, PREMIUM ,ORD00206,2026-06-22,Home & Kitchen,Blender,1.0,46188.18,46188.18,Bank Transfer,Cancelled
+CUST0207,Hira,Saeed,hira.saeed831@outlook.com,+923924543999,,Premium,ORD00207,2025-04-30,Electronics,Smart Watch,1.0,37461.17,37461.17,Credit Card,Pending
+CUST0208,Hassan,Khalid,hassan.khalid552@yahoo.com,+923347520416,Mardan,VIP,ORD00208,2025-07-29,Electronics,Smart Watch,5.0,48563.8,242819.0,Debit Card,Completed
+CUST0209,Usman,Khalid,usman.khalid887@yahoo.com,+92-abc-123,Lahore,VIP,ORD00209,"Sep 16, 2024",Books,Data Science Handbook,3.0,78115.65,234346.95,EasyPaisa,Returned
+CUST0210,Laiba,Shah,laiba.shah78@gmail.com,+923432557724,,VIP,ORD00210,2026-02-07,Sports,Dumbbells,4.0,53846.07,215384.28,Bank Transfer,Returned
+CUST0211,Hamza,Iqbal,,+923912794625,Islamabad,Corporate,ORD00211,2026-07-27,Electronics,Headphones,1.0,73889.93,73889.93,Bank Transfer,Pending
+CUST0212,Laiba,Siddiqui,laiba.siddiqui873@example.com,+923846434607,Swat,,ORD00212,2024-09-24,Home & Kitchen,Blender,3.0,70452.12,211356.36,Cash,Returned
+CUST0213,Ayesha,Ahmed,ayesha.ahmed706@yahoo.com,+923947198944,Mardan,Premium,ORD00213,2026-05-26,Clothing,Jacket,1.0,37648.98,37648.98,Cash,Cancelled
+CUST0214,Bilal,Ahmed,bilal.ahmed641@outlook.com,,Karachi,Corporate,ORD00214,2024-04-16,Home & Kitchen,Blender,2.0,56567.12,113134.24,EasyPaisa,Completed
+CUST0215,Ayesha,Malik,ayesha.malik697@example.com,+923009971784,Peshawar,VIP,ORD00215,2025-04-08,Books,Python Basics,5.0,6855.31,34276.55,Bank Transfer,Pending
+CUST0216,Laiba,Ahmed,laiba.ahmed377@outlook.com,+923147241457,Abbottabad,Premium,ORD00216,2024-07-30,Clothing,Jeans,1.0,32715.18,32715.18,Cash,Completed
+CUST0217,Maham,Ali,maham.ali631@example.com,+923923377730,Karachi,Regular,ORD00217,2024-11-06,Clothing,T-Shirt,2.0,37548.43,75096.86,Credit Card,Completed
+CUST0218,Zubair,Mehmood,zubair.mehmood254@outlook.com,+923692156071,Islamabad,Premium,ORD00218,2025-10-06,Books,Business Strategy,4.0,30042.65,120170.6,EasyPaisa,Completed
+CUST0219,Maryam,Malik,maryam.malik662@gmail.com,+923841600554,Karachi,Corporate,ORD00219,2026-03-13,Sports,Cricket Bat,2.0,51687.05,103374.1,Cash,Pending
+CUST0220,Laiba,Ali,laiba.ali136@example.com,+923924291998,Abbottabad,VIP,ORD00220,2026-01-09,Sports,Football,1.0,6268.27,6268.27,Bank Transfer,Completed
+CUST0221,Ayesha,Iqbal,ayesha.iqbal972@example.com,+923543968992,Mardan,Corporate,ORD00221,2024-03-22,Electronics,Power Bank,2.0,1418.99,2837.98,EasyPaisa,Returned
+CUST0222,Ahmed,Ali,ahmed.ali318@gmail.com,12345,Karachi,Premium,ORD00222,2025-07-22,Sports,Dumbbells,2.0,45816.29,91632.58,Bank Transfer,Completed
+CUST0223,Maryam,Mehmood,maryam.mehmood89@example.com,+923124539647,Quetta,Regular,ORD00223,2024-04-28,Books,Business Strategy,2.0,62113.97,124227.94,EasyPaisa,Pending
+CUST0224,Fatima,Khan,fatima.khan976@outlook.com,+923561572729,Faisalabad,VIP,ORD00224,2024-12-01,Beauty,Moisturizer,1.0,11878.7,11878.7,Debit Card,Pending
+CUST0225,Bilal,Mehmood,bilal.mehmood279@gmail.com,+923282340033,Islamabad,Corporate,ORD00225,2025-11-17,Electronics,Power Bank,1.0,65628.72,65628.72,JazzCash,Cancelled
+CUST0226,Ali,Butt,ali.butt916@gmail.com,+923245247378,Faisalabad,Regular,ORD00226,2025-06-06,Sports,Yoga Mat,2.0,14393.2,28786.4,Cash,Pending
+CUST0227,Ali,Butt,ali.butt567@example.com,+923241071485,Swat,Premium,ORD00227,2025-01-01,Home & Kitchen,Desk Lamp,2.0,32707.51,65415.02,EasyPaisa,Cancelled
+CUST0228,Bilal,Saeed,missing-at-sign.com,+923192569534,Karachi,Regular,ORD00228,2026-10-25,Electronics,Power Bank,1.0,48687.67,48687.67,Cash,Returned
+CUST0229,Maryam,Khalid,maryam.khalid378@yahoo.com,+923313097844,Mardan,Premium,ORD00229,2026-07-24,Home & Kitchen,Desk Lamp,5.0,27988.75,139943.75,Debit Card,Returned
+CUST0230,Hassan,Mehmood,hassan.mehmood955@example.com,+923025673445,Karachi,VIP,ORD00230,11-04-2024,Sports,Yoga Mat,2.0,64700.87,129401.74,Debit Card,Completed
+CUST0231,Omar,Saeed,omar.saeed244@example.com,+923528311983,Peshawar,Premium,ORD00231,2025-02-24,Beauty,Sunscreen,1.0,61881.47,61881.47,Cash,Completed
+CUST0232,Zainab,Saeed,zainab.saeed87@gmail.com,+923542698931,Lahore,Corporate,ORD00232,2026-07-27,Sports,Yoga Mat,3.0,35256.56,105769.68,JazzCash,Completed
+CUST0233,Noor,Ali,noor.ali718@outlook.com,+923341511874,Quetta,VIP,ORD00233,2025-10-07,Clothing,Jeans,3.0,20316.4,60949.2,Cash,Pending
+CUST0234,Usman,Khalid,usman.khalid478@outlook.com,,Islamabad,VIP,ORD00234,2024-12-02,Sports,Football,1.0,9485.45,9485.45,Bank Transfer,Cancelled
+CUST0235,Saad,Siddiqui,saad.siddiqui856@outlook.com,+923159261469, Lahore ,Premium,ORD00235,2024-03-23,Electronics,Keyboard,-2.0,7913.17,23739.51,Bank Transfer,Completed
+CUST0236,Maryam,Siddiqui,,+923101710492,Quetta,Regular,ORD00236,2026-07-15,Clothing,Jeans,4.0,2884.21,17305.26,cash,Completed
+CUST0237,Ali,Saeed,ali.saeed646@gmail.com,+923625265416,Mardan,Regular,ORD00237,2026-02-01,Clothing,T-Shirt,4.0,11328.12,45312.48,Cash,Pending
+CUST0238,Saad,Khalid,saad.khalid965@example.com, ,Lahore,Corporate,ORD00238,2024-09-07,Clothing,Sneakers,3.0,8045.19,24135.57,Bank Transfer,cancel
+CUST0239,Omar,Ali,omar.ali287@example.com,+923948569080,Lahore,Regular,ORD00239,18/01/2025,Books,Data Science Handbook,2.0,14895.41,29790.82,EasyPaisa,Cancelled
+CUST0240,Laiba,Yousafzai,laiba.yousafzai141@example.com,+923214166184,Faisalabad,Premium,ORD00240,2025-07-26,Sports,Yoga Mat,1.0,40847.87,40847.87,Bank Transfer,Cancelled
+CUST0241,Laiba,Raza,laiba.raza398@outlook.com,+923193075824,Peshawar,VIP,ORD00241,2026-10-25,Books,Data Science Handbook,5.0,29406.89,147034.45,Cash,Cancelled
+CUST0242,Ali,Khalid,ali.khalid103@yahoo.com,+923705302800,Karachi,VIP,ORD00242,2025-04-21,Books,Python Basics,5.0,45119.39,225596.95,Credit Card,Returned
+CUST0243,Hira,Saeed,hira.saeed715@outlook.com,+923981378552,Peshawar,VIP,ORD00243,2025-10-13,Clothing,Scarf,5.0,15174.51,75872.55,JazzCash,Pending
+CUST0173,Iqra,Ali,iqra.ali101@example.com,,Swat,regular,ORD00173,2026-10-15,Home & Kitchen,Cookware Set,3.0,26388.79,79166.37,Debit Card,Returned
+CUST0245,Maham,Malik,maham.malik23@yahoo.com,+923629866807,Lahore,Regular,ORD00245,2025-10-24,Clothing,Scarf,2.0,29129.33,87387.99,Debit Card,Completed
+CUST0246,Hira,Mehmood,hira.mehmood331@yahoo.com,+923169118504,Abbottabad,Corporate,ORD00246,2025-11-20,Beauty,Sunscreen,1.0,33776.72,33776.72,Credit Card,Cancelled
+CUST0247,Zainab,Ali,zainab.ali706@outlook.com,+923136739271,Lahore,Regular,ORD00247,2025-09-20,Sports,Cricket Bat,4.0,69275.0,277100.0,JazzCash,Completed
+CUST0248,Sara,Iqbal,sara.iqbal580@gmail.com,+923532774653,Lahore,VIP,ORD00248,2025-03-28,Home & Kitchen,Blender,5.0,78307.99,391539.95,Credit Card,cancel
+CUST0249,Hamza,Shah,hamza.shah12@outlook.com,+923225146786,Karachi,Regular,ORD00249,2025-11-18,Beauty,Sunscreen,1.0,75280.89,75280.89,Debit Card,Completed
+CUST0250,Ayesha,Khan,ayesha.khan505@example.com,+923377131597,Faisalabad, PREMIUM ,ORD00250,2024-12-06,Books,Python Basics,4.0,37389.16,149556.64,Bank Transfer,Pending
+CUST0251,Sara,Butt,sara.butt327@outlook.com,+923112447665,Islamabad,VIP,ORD00251,2025-08-26,Electronics,Headphones,1.0,67981.74,67981.74,Bank Transfer,Pending
+CUST0252,Ahmed,Raza,ahmed.raza32@example.com,+923701835431,Lahore,Corporate,ORD00252,2026-09-15,Electronics,Headphones,5.0,28891.31,144456.55,Cash,Completed
+CUST0253,Hamza,Malik,hamza.malik289@outlook.com,+923255065530,Islamabad,Regular,ORD00253,2025-06-27,Clothing,Sneakers,5.0,34936.47,174682.35,JazzCash,Returned
+CUST0254,Usman,Khan,usman.khan641@example.com,+923214399191,Islamabad,Regular,ORD00254,2025-08-26,Home & Kitchen,Water Bottle,1.0,573.37,573.37,Credit Card,Cancelled
+CUST0255,Ahmed,Butt,ahmed.butt917@outlook.com,+923097857474,Faisalabad,Corporate,ORD00255,2026-08-22,Electronics,Headphones,4.0,26382.95,105531.8,Debit Card,Returned
+CUST0256,Hira,Shah,hira.shah232@outlook.com,+923605855162,Peshawar,Premium,ORD00256,2026-08-10,Books,Python Basics,4.0,4031.28,16125.12,Cash,Cancelled
+CUST0257,Iqra,Yousafzai,iqra.yousafzai429@example.com,+923614947283,Karachi,Corporate,ORD00257,2026-03-03,Sports,Dumbbells,1.0,19531.71,19531.71,Cash,Returned
+CUST0258,Ali,Raza,ali.raza973@example.com,+923185627380,Lahore,Premium,ORD00258,2024-10-28,Sports,Football,5.0,76563.57,382817.85,Credit Card,Completed
+CUST0259,Noor,Ahmed,noor.ahmed933@gmail.com,+923093445007,Abbottabad,Corporate,ORD00259,2025-06-12,Beauty,Sunscreen,2.0,37149.58,74299.16,Debit Card,Returned
+CUST0260,Ayesha,Khalid,ayesha.khalid425@yahoo.com,+923159128258,Islamabad,Regular,ORD00260,2026-05-09,Beauty,Face Wash,5.0,53054.16,265270.8,Debit Card,Cancelled
+CUST0261,Noor,Siddiqui,noor.siddiqui177@outlook.com,+923432689999,Lahore,Corporate,ORD00261,2026-08-26,Books,Python Basics,5.0,55743.26,278716.3,Bank Transfer,Cancelled
+CUST0262,Zainab,Khan,zainab.khan346@outlook.com,+923333879270,Mardan,Corporate,ORD00262,2026-02-01,Beauty,Face Wash,3.0,40524.74,121574.22,Credit Card,Pending
+CUST0263,Maryam,Mehmood,maryam.mehmood427@gmail.com,+923201794412,Quetta,Premium,ORD00263,07-05-2025,Books,Novel,3.0,65849.12,197547.36,CREDIT CARD,Returned
+CUST0264,Danish,Saeed,danish.saeed319@example.com,+923145652883,Faisalabad,regular,ORD00264,2024-11-21,Home & Kitchen,Water Bottle,5.0,69831.22,349156.1,Credit Card,Pending
+CUST0265,Ali,Malik,ali.malik378@example.com,,Abbottabad,Regular,ORD00265,02-11-2025,Electronics,Wireless Mouse,3.0,38934.02,116802.06,Credit Card,Cancelled
+CUST0266,Laiba,Iqbal,laiba.iqbal168@outlook.com,+923804190892,Islamabad,VIP,ORD00266,2025-12-17,Books,Python Basics,4.0,15300.22,61200.88,Bank Transfer,Completed
+CUST0267,Sara,Saeed,sara.saeed231@yahoo.com,+923288926290,Abbottabad,Regular,ORD00267,2025-03-29,Sports,Yoga Mat,2.0,66340.6,132681.2,Bank Transfer,Pending
+CUST0268,Sara,Iqbal,sara.iqbal991@outlook.com,+923455059083,Abbottabad,VIP,ORD00268,2025-09-17,Electronics,Power Bank,5.0,19214.51,96072.55,Debit Card,Pending
+CUST0269,Saad,Siddiqui,saad.siddiqui105@gmail.com,+923549233665,Swat,REGULAR,ORD00269,2026-03-24,Beauty,Sunscreen,5.0,44374.06,221870.3,EasyPaisa,Completed
+CUST0270,Laiba,Ahmed,laiba.ahmed672@outlook.com,+923202250101,Lahore,Premium,ORD00270,2025-07-21,Home & Kitchen,Blender,3.0,84013.59,252040.77,JazzCash,Returned
+CUST0271,Hamza,Ali,hamza.ali929@example.com,+923434434754,Abbottabad,Regular,ORD00271,2025-08-28,Clothing,Scarf,4.0,61378.75,245515.0,EasyPaisa,Pending
+CUST0272,Hamza,Mehmood,hamza.mehmood368@outlook.com,+923907762007,Swat ,Premium,ORD00272,2026-09-01,Beauty,Sunscreen,5.0,19095.28,95476.4,Cash,Returned
+CUST0273,Usman,Mehmood,usman.mehmood922@outlook.com,+923702693852,Islamabad,Premium,ORD00273,2025-01-09,Home & Kitchen,Cookware Set,5.0,61709.57,308547.85,Credit Card,Cancelled
+CUST0274,Noor,Khalid,noor.khalid872@gmail.com,+923505234798,Peshawar,Regular,ORD00274,2025-08-25,Home & Kitchen,Desk Lamp,5.0,31750.09,158750.45,Credit Card,Completed
+CUST0275,Omar,Raza,omar.raza351@example.com,+923611392447,Quetta,Premium,ORD00275,2024-10-08,Home & Kitchen,Cookware Set,2.0,35260.84,70521.68,EasyPaisa,Pending
+CUST0276,Ahmed,Butt,ahmed.butt60@gmail.com,+923485388459,Mardan,Premium,ORD00276,2025-10-03,Home & Kitchen,Water Bottle,2.0,53730.03,107460.06,JazzCash,Pending
+CUST0277,Laiba,Khalid,laiba.khalid440@example.com,+923411582876,Peshawar,Regular,ORD00277,2026-05-29,Electronics,Smart Watch,4.0,11217.15,44868.6,Credit Card,Cancelled
+CUST0278,Ayesha,Afridi,ayesha.afridi711@outlook.com,+923335106513,Lahore,Regular,ORD00278,2025-05-24,Sports,Cricket Bat,1.0,16401.38,16401.38,JazzCash,Cancelled
+CUST0279,Sara,Ahmed,sara.ahmed533@outlook.com,+923465644493,Lahore,VIP,ORD00279,2026-07-22,Electronics,Power Bank,3.0,25522.64,76567.92,Debit Card,Pending
+CUST0216,Laiba,Ahmed,laiba.ahmed377@outlook.com,+923147241457,Abbottabad,Premium,ORD00216,2024-07-30,Clothing,Jeans,1.0,32715.18,32715.18,Cash,Completed
+CUST0281,Omar,Ali,,+923701762883,Peshawar,Regular,ORD00281,2024-04-09,Home & Kitchen,Blender,5.0,65613.41,328067.05,Bank Transfer,Returned
+CUST0282,Omar,Ahmed,omar.ahmed703@gmail.com,+923323321334,Abbottabad,Regular,ORD00282,2025-02-24,Sports,Dumbbells,2.0,21669.57,43339.14,JazzCash,Pending
+CUST0283,Noor,Saeed,noor.saeed117@gmail.com,+923534443249,Karachi,Vip,ORD00283,2024-08-29,Electronics,Keyboard,5.0,43606.81,218034.05,JazzCash,Pending
+CUST0284,Hira,Mehmood,hira.mehmood705@example.com,+923354982932,Karachi,Regular,ORD00284,2026-10-13,Books,Python Basics,1.0,25281.01,25281.01,EasyPaisa,Completed
+CUST0285,Fatima,Saeed,fatima.saeed77@gmail.com,+923971499471,Mardan,Premium,ORD00285,"Jul 03, 2024",Sports,Cricket Bat,2.0,56949.61,113899.22,Debit Card,Cancelled
+CUST0286,Saad,Khan,saad.khan821@outlook.com,+923457408869,Islamabad,Regular,ORD00286,2025-08-18,Electronics,Wireless Mouse,,69166.87,69166.87,Cash,Pending
+CUST0287,Sara,Afridi,sara.afridi96@outlook.com,+923875061242,Swat,Premium,ORD00287,2025-07-03,Home & Kitchen,Blender,5.0,76061.22,380306.1,Bank Transfer,Returned
+CUST0288,Saad,Siddiqui,saad.siddiqui908@yahoo.com,+923121393557,Lahore,Regular,ORD00288,2026-05-13,Books,Data Science Handbook,4.0,58719.23,234876.92,Cash,Returned
+CUST0289,Zubair,Butt,zubair.butt627@gmail.com,+923926183684,Lahore,Corporate,ORD00289,2026-02-16,Sports,Cricket Bat,2.0,57743.82,115487.64,Cash,Returned
+CUST0290,Saad,Khan,saad.khan890@yahoo.com,+923719239897,Swat,Regular,ORD00290,2024-01-26,Electronics,Power Bank,3.0,22421.69,67265.07,EasyPaisa,Pending
+CUST0291,Laiba,Afridi,laiba.afridi914@gmail.com,+923012503578,Lahore,Corporate,ORD00291,2024-10-31,Beauty,Shampoo,4.0,,230264.2,Credit Card,Completed
+CUST0292,Laiba,Afridi,laiba.afridi229@example.com,+923433015368,Karachi,Regular,ORD00292,,Clothing,Sneakers,3.0,28293.34,84880.02,Bank Transfer,Returned
+CUST0293,Ahmed,Saeed,ahmed.saeed670@gmail.com,+923110212429,Abbottabad,Corporate,ORD00293,2026-10-15,Books,Python Basics,five,38139.02,38139.02,JazzCash,Completed
+CUST0294,Ahmed,Khalid,ahmed.khalid688@example.com,+923365989408,Swat,Regular,ORD00294,02-27-2025,Sports,Football,3.0,81878.76,245636.28,Bank Transfer,Cancelled
+CUST0295,Iqra,Khalid,iqra.khalid100@yahoo.com,+923002358958,Swat ,VIP,ORD00295,2026-07-15,Sports,Dumbbells,3.0,51095.86,153287.58,JazzCash,Cancelled
+CUST0296,Fatima,Khan,fatima.khan626@yahoo.com, ,Islamabad,Corporate,ORD00296,2024-08-07,Clothing,Jeans,4.0,41982.78,167931.12,Bank Transfer,Pending
+CUST0297,Hamza,Ahmed,not_an_email,+923535613177,Peshawar,Regular,ORD00297,2024-09-09,Books,Novel,5.0,4190.91,20954.55,JazzCash,Returned
+CUST0298,Danish,Khalid,danish.khalid397@outlook.com,+923541284117,Abbottabad,Corporate,ORD00298,2024-09-19,Clothing,Scarf,2.0,58881.55,117763.1,EasyPaisa,Pending
+CUST0299,Bilal,Yousafzai,bilal.yousafzai423@outlook.com,+923905244278,,VIP,ORD00299,2024-09-30,Home & Kitchen,Water Bottle,4.0,82499.17,329996.68,Credit Card,Pending
+CUST0300,Maham,Mehmood,,+923762735437,Islamabad,VIP,ORD00300,2024-12-30,Home & Kitchen,Desk Lamp,2.0,58440.31,116880.62,JazzCash,Returned
+CUST0301,Iqra,Siddiqui,iqra.siddiqui391@yahoo.com,+923056978109,islamabd,Vip,ORD00301,"Aug 06, 2024",Books,Business Strategy,5.0,68753.83,343769.15,Credit Card,Cancelled
+CUST0302,Bilal,Shah,bilal.shah34@outlook.com,+923874053994,Quetta,Regular,ORD00302,2025-02-21,Electronics,Smart Watch,3.0,58777.91,176333.73,EasyPaisa,Pending
+CUST0303,Iqra,Yousafzai,iqra.yousafzai397@example.com,+923846228305,Swat,Regular,ORD00303,2024-04-06,Clothing,T-Shirt,3.0,43550.67,130652.01,EasyPaisa,Cancelled
+CUST0304,Hassan,Iqbal,hassan.iqbal988@yahoo.com,+923315870923,Quetta,Premium,ORD00304,2025-02-06,Books,Python Basics,3.0,70591.1,211773.3,Credit Card,Pending
+CUST0305,Danish,Ahmed,danish.ahmed165@outlook.com,0000000000,Swat,Corporate,ORD00305,"Jun 25, 2025",Books,Data Science Handbook,3.0,unknown,11081.25,Cash,Pending
+CUST0306,Hamza,Iqbal,hamza.iqbal809@outlook.com,+923078255153,Swat,Premium,ORD00306,2025-09-08,Electronics,Headphones,5.0,65817.77,329088.85,JazzCash,Completed
+CUST0307,Danish,Shah,danish.shah227@yahoo.com,+923712249975,,VIP,ORD00307,2024-07-07,Books,Business Strategy,4.0,46276.04,92552.08,Debit Card,Pending
+CUST0308,Maham,Raza,maham.raza355@example.com,+923258071565,Karachi,Regular,ORD00308,2024-08-22,Books,Business Strategy,1.0,84714.48,84714.48,Bank Transfer,Completed
+CUST0309,Omar,Siddiqui,abc@gmail,+923522702576,Peshawar,VIP,ORD00309,2026-02-06,Sports,Football,1.0,61606.93,61606.93,Debit Card,Completed
+CUST0310,Fatima,Shah,user@@gmail.com,+923928733904,Abbottabad,Regular,ORD00310,2025-03-07,Sports,Football,1.0,45439.19,45439.19,JazzCash,Returned
+CUST0311,Ahmed,Mehmood,ahmed.mehmood90@gmail.com,+923058269903,Lahore,VIP,ORD00311,2025-11-10,Beauty,Face Wash,4.0,13280.7,53122.8,JazzCash,Pending
+CUST0312,Bilal,Yousafzai,bilal.yousafzai18@example.com,+923722949013,peshawar,Regular,ORD00312,"Jun 05, 2026",Books,Python Basics,4.0,38482.9,153931.6,EasyPaisa,Completed
+CUST0313,Ahmed,Afridi,,+923409539711,Abbottabad,Regular,ORD00313,26/06/2024,Sports,Cricket Bat,3.0,9244.99,27734.97,Credit Card,Pending
+CUST0314,Usman,Mehmood,usman.mehmood148@outlook.com,+923727233573,Swat,Regular,ORD00314,2025-08-27,Books,Data Science Handbook,5.0,67776.29,338881.45,Cash,Completed
+CUST0315,Ayesha,Iqbal,ayesha.iqbal216@outlook.com,,Abbottabad,Premium,ORD00315,06-23-2024,Sports,Football,5.0,33648.42,168242.1,Credit Card,Pending
+CUST0316,Maham,Saeed,maham.saeed473@gmail.com,+923312085927,Islamabad,VIP,ORD00316,2024-04-21,Home & Kitchen,Blender,2.0,16719.15,33438.3,Credit Card,Returned
+CUST0317,Hamza,Afridi,hamza.afridi635@gmail.com,+923966494980,Karachi,VIP,ORD00317,2024-07-23,Clothing,Sneakers,2.0,,114284.6,Bank Transfer,Cancelled
+CUST0318,Maham,Ali,maham.ali982@example.com,+923181075299,Peshawar,VIP,ORD00318,2026-01-16,Home & Kitchen,Water Bottle,2.0,59020.58,118041.16,Credit Card,Returned
+CUST0319,Bilal,Saeed,bilal.saeed457@outlook.com,+923831899691,Mardan,Corporate,ORD00319,2026-09-09,Home & Kitchen,Blender,3.0,11632.42,34897.26,Credit Card,Completed
+CUST0320,Bilal,Saeed,,+923781067043,Islamabad,Regular,ORD00320,2025-06-23,Clothing,Scarf,2.0,75787.42,151574.84,EasyPaisa,Completed
+CUST0321,Zubair,Iqbal,zubair.iqbal267@example.com,+923702128517,Lahore,VIP,ORD00321,2024-03-16,Books,Novel,2.0,65439.72,130879.44,Credit Card,Cancelled
+CUST0322,Usman,Butt,usman.butt11@yahoo.com,+923910513561,Lahore,,ORD00322,2026-01-15,Sports,Cricket Bat,4.0,43507.42,174029.68,Credit Card,Pending
+CUST0323,Zubair,Iqbal,zubair.iqbal42@yahoo.com,+923817624738,Quetta,Premium,ORD00323,"Sep 17, 2026",Beauty,Face Wash,2.0,74168.54,148337.08,Debit Card,Cancelled
+CUST0324,Zainab,Khan,zainab.khan940@example.com,+923946559235,Peshawar,Regular,ORD00324,2026-03-05,Beauty,Sunscreen,3.0,17774.1,53322.3,Cash,Cancelled
+CUST0325,Bilal,Iqbal,bilal.iqbal602@gmail.com,+923554762561,Mardan,Corporate,ORD00325,2026-02-14,,Football,4.0,48571.07,194284.28,JazzCash,Returned
+CUST0326,Hira,Saeed,hira.saeed904@yahoo.com,+923472337634,Lahore,Premium,ORD00326,2024-01-14,Home & Kitchen,Blender,4.0,41511.52,166046.08,JazzCash,Cancelled
+CUST0327,Hassan,Shah,hassan.shah236@example.com,+923870989978,MARDAN,Regular,ORD00327,2024-08-30,Clothing,Sneakers,5.0,13586.04,67930.2,EasyPaisa,Returned
+CUST0328,Laiba,Malik,laiba.malik45@yahoo.com,+923615776454,Lahore,Premium,ORD00328,2024-02-15,Sports,Yoga Mat,4.0,13915.62,55662.48,JazzCash,Pending
+CUST0329,Ali,Shah,,+923943291833,Mardan,Regular,ORD00329,2026-04-10,Home & Kitchen,Water Bottle,5.0,78427.37,392136.85,Bank Transfer,Returned
+CUST0330,Laiba,Shah,laiba.shah841@yahoo.com,+923669168506,Faisalabad,VIP,ORD00330,2024-10-19,Clothing,Jeans,5.0,70623.31,353116.55,EasyPaisa,Cancelled
+CUST0331,Saad,Iqbal,saad.iqbal112@gmail.com,+923217270101,Faisalabad,Corporate,ORD00331,2026-02-28,Sports,Football,4.0,6084.44,24337.76,JazzCash,Completed
+CUST0332,Sara,Butt,sara.butt96@example.com,+923708017427,Lahore,Regular,ORD00332,2026-10-27,Sports,Cricket Bat,5.0,51084.22,255421.1,JazzCash,Returned
+CUST0333,Hira,Saeed,hira.saeed809@example.com,+923376365632,Islamabad,Corporate,ORD00333,2025-04-14,Electronics,Headphones,4.0,59375.23,237500.92,Debit Card,Returned
+CUST0334,Zainab,Saeed,zainab.saeed194@gmail.com,+923761442766,Peshawar,Regular,ORD00334,2026-04-16,Electronics,Smart Watch,5.0,24256.85,121284.25,Cash,Returned
+CUST0335,Hassan,Mehmood,hassan.mehmood668@outlook.com,+923280571840,Faisalabad,Corporate,ORD00335,2024-11-12,Home & Kitchen,Cookware Set,1.0,34899.62,34899.62,JazzCash,Cancelled
+CUST0336,Omar,Khalid,omar.khalid380@example.com,+923272491666,Mardan,,ORD00336,2026-09-15,Clothing,Sneakers,5.0,35271.09,176355.45,EasyPaisa,Pending
+CUST0337,Fatima,Mehmood,fatima.mehmood521@example.com,+923844048177,Swat,Regular,ORD00337,2024-07-24,Clothing,Jeans,2.0,38098.92,76197.84,Bank Transfer,Completed
+CUST0338,Ahmed,Saeed,ahmed.saeed66@outlook.com,+923238123991,Swat,Regular,ORD00338,2026-06-10,Clothing,Scarf,5.0,40223.92,201119.6,Cash,Returned
+CUST0339,Omar,Iqbal,omar.iqbal656@example.com,+923471342650,Peshawar,Premium,ORD00339,2024-04-27,Beauty,Sunscreen,5.0,44405.22,-100,Credit Card,Completed
+CUST0340,Maham,Raza,maham.raza37@outlook.com,+923256899846,Peshawar,Premium,ORD00340,2024-12-13,Sports,Yoga Mat,5.0,59443.61,297218.05,Debit Card,Returned
+CUST0341,Hira,Ali,hira.ali721@gmail.com,+923986959246,Islamabad,VIP,ORD00341,2024-02-01,Books,Business Strategy,2.0,34611.97,69223.94,Debit Card,Cancelled
+CUST0342,Zainab,Iqbal,zainab.iqbal180@example.com,+923543569021,Islamabad,Regular,ORD00342,2024-01-10,Clothing,Scarf,4.0,38790.83,155163.32,Debit Card,Cancelled
+CUST0343,Fatima,Khalid,fatima.khalid454@example.com,+923604697685,Quetta,Vip,ORD00343,2025-05-27,Sports,Dumbbells,5.0,81331.12,406655.6,Bank Transfer,Returned
+CUST0344,Zubair,Saeed,zubair.saeed649@yahoo.com,+923726829775,Karachi,VIP,ORD00344,2024-05-18,Electronics,Power Bank,3.0,41096.97,123290.91,Debit Card,Completed
+CUST0345,Bilal,Malik,bilal.malik954@yahoo.com,+923511697526,Karachi ,VIP,ORD00345,2024-06-04,Home & Kitchen,Water Bottle,3.0,8132.55,24397.65,JazzCash,Cancelled
+CUST0346,Sara,Mehmood,sara.mehmood205@yahoo.com,+923789660946,Karachi,VIP,ORD00346,,Beauty,Moisturizer,2.0,79089.13,158178.26,Credit Card,Pending
+CUST0347,Zainab,Saeed,,+923659091699,Peshawar,Regular,ORD00347,2024-09-02,Sports,Cricket Bat,1.0,30423.32,30423.32,Debit Card,Cancelled
+CUST0348,Laiba,Iqbal, ,+923058141154,peshawar,Corporate,ORD00348,2025-07-27,Home & Kitchen,Desk Lamp,5.0,41845.75,209228.75,JazzCash,Completed
+CUST0349,Danish,Afridi,danish.afridi716@example.com,+923338927967,Peshawar,Regular,ORD00349,2026-07-25,Books,Data Science Handbook,2.0,-500.0,146337.82,Bank Transfer,Completed
+CUST0350,Hamza,Afridi,hamza.afridi276@example.com,+923658293983,Swat,VIP,ORD00350,2025-06-22,Sports,Football,2.0,73291.11,146582.22,Bank Transfer,Returned
+CUST0351,Hassan,Yousafzai,hassan.yousafzai462@yahoo.com,+923613546516,Lahore,Premium,ORD00351,2026-03-31,Beauty,Face Wash,3.0,63998.59,191995.77,EasyPaisa,Cancelled
+CUST0352,Zainab,Raza,zainab.raza154@example.com,+923865079822,Peshawar,Premium,ORD00352,2024-10-25,Books,Novel,2.0,72822.17,145644.34,Bank Transfer,Pending
+CUST0353,Danish,Raza,danish.raza576@gmail.com,+923427780790,Islamabad,Premium,ORD00353,2025-09-06,Beauty,Face Wash,4.0,27007.88,108031.52,Credit Card,Cancelled
+CUST0354,Laiba,Saeed,laiba.saeed369@outlook.com,+923369517811,Peshawar,Corporate,ORD00354,2025-06-16,Beauty,Face Wash,3.0,8411.58,25234.74,Debit Card,Pending
+CUST0355,Zubair,Iqbal,zubair.iqbal333@example.com,+923831875429,Quetta,Regular,ORD00355,2025-08-05,Beauty,Shampoo,2.0,55263.85,99999999,JazzCash,COMPLETED
+CUST0356,Saad,Ali,saad.ali628@example.com,+923911500262,,Regular,ORD00356,2026-05-13,Clothing,Jeans,3.0,73834.84,221504.52,Debit Card,Pending
+CUST0357,Hamza,Afridi,not_an_email,+923838564480,Swat,Corporate,ORD00357,2026-03-20,Beauty,Shampoo,3.0,24942.45,74827.35,Credit Card,Pending
+CUST0358,Ayesha,Shah,ayesha.shah171@example.com,+923110605413,Islamabad,Regular,ORD00358,2024-06-12,Beauty,Shampoo,3.0,20134.65,60403.95,JazzCash,Completed
+CUST0359,Ayesha,Khalid,ayesha.khalid633@yahoo.com,+923090528528,Abbottabad,VIP,ORD00359,2024-07-31,Books,Data Science Handbook,1.0,44657.54,44657.54,Credit Card,Cancelled
+CUST0360,Saad,Ali,saad.ali680@outlook.com,+923923813981,Swat,Corporate,ORD00360,28/02/2024,Clothing,Sneakers,2.0,11375.74,22751.48,Easy Paisa,Cancelled
+CUST0361,Iqra,Butt,iqra.butt612@example.com,+923677582116,Abbottabad,VIP,ORD00361,2024-12-28,Clothing,Jacket,5.0,82418.71,412093.55,Bank Transfer,Pending
+CUST0362,Ahmed,Butt,ahmed.butt11@gmail.com,,Lahore,VIP,ORD00362,2024-11-14,Home & Kitchen,Cookware Set,3.0,31250.14,93750.42,Bank Transfer,Completed
+CUST0363,Laiba,Khalid,laiba.khalid237@gmail.com,+923588638365,Swat,Premium,ORD00363,2025-08-22,Books,Novel,4.0,25641.99,102567.96,JazzCash,Returned
+CUST0364,Omar,Malik,omar.malik270@gmail.com,+923453376084,Karachi,VIP,ORD00364,2026-02-13,Clothing,Jacket,4.0,60840.99,243363.96,EasyPaisa,Cancelled
+CUST0365,Noor,Malik,noor.malik467@example.com,+923292201792,Quetta,Premium,ORD00365,2024-08-14,Electronics,Keyboard,3.0,15709.01,47127.03,Cash,Pending
+CUST0366,Ali,Raza,ali.raza129@example.com,+923780725278,Peshawar,Premium,ORD00366,31/07/2025,Electronics,Wireless Mouse,1.0,16008.21,16008.21,Credit Card,Completed
+CUST0367,Laiba,Malik,laiba.malik714@gmail.com,+923354601784,Islamabad,Premium,ORD00367,2026-01-30,Home & Kitchen,Blender,4.0,35865.6,143462.4,Debit Card,Returned
+CUST0368,Ahmed,Raza,ahmed.raza125@yahoo.com,+923413173592,Quetta,Premium,ORD00368,2026-02-20,Books,Python Basics,3.0,15640.92,46922.76,Credit Card,Returned
+CUST0369,Fatima,Raza,fatima.raza985@outlook.com,+923346886458,Lahore,Regular,ORD00369,2026-03-07,Beauty,Face Wash,4.0,83484.32,333937.28,Debit Card,Returned
+CUST0370,Maryam,Malik,maryam.malik649@example.com,+923348443704,Peshawar,Premium,ORD00370,2024-08-19,Home & Kitchen,Cookware Set,2.0,75467.28,150934.56,JazzCash,Completed
+CUST0371,Omar,Khalid,,+923398786278,Islamabad,Premium,ORD00371,2026-08-31,Clothing,Jeans,1.0,1006.81,1006.81,Bank Transfer,Completed
+CUST0372,Maham,Afridi,,+923135106204,Quetta,Premium,ORD00372,2024-11-11,Beauty,Sunscreen,3.0,5339.44,16018.32,JazzCash,Cancelled
+CUST0373,Saad,Mehmood,saad.mehmood138@outlook.com,+923964932100,Peshawar,Corporate,ORD00373,2026-01-03,Clothing,Sneakers,4.0,2059.65,8238.6,JazzCash,Cancelled
+CUST0374,Iqra,Mehmood,iqra.mehmood750@example.com, ,Faisalabad,Premium,ORD00374,2025-12-13,Books,Python Basics,2.0,16333.5,32667.0,JazzCash,Pending
+CUST0375,Saad,Siddiqui,saad.siddiqui519@example.com,0000000000,Lahore,Regular,ORD00375,2024-01-02,Home & Kitchen,Cookware Set,4.0,46151.1,184604.4,JazzCash,Pending
+CUST0376,Hamza,Mehmood,hamza.mehmood537@example.com,+923822200725,Faisalabad,Premium,ORD00376,2026-03-04,Electronics,Smart Watch,5.0,56040.03,280200.15,Debit Card,Cancelled
+CUST0377,Noor,Ali,noor.ali856@yahoo.com,+923191811951,Peshawar,Premium,ORD00377,2024-05-16,Home & Kitchen,Blender,5.0,9611.84,48059.2,Bank Transfer,Pending
+CUST0378,Fatima,Khan,fatima.khan639@outlook.com,+923052705290,Swat,Premium,ORD00378,2026-09-30,Sports,Yoga Mat,4.0,54638.45,218553.8,Cash,Pending
+CUST0379,Laiba,Saeed,laiba.saeed762@example.com,+923882644252,Swat,Regular,ORD00379,2026-01-09,Electronics,Smart Watch,1.0,39918.01,39918.01,Debit Card,Completed
+CUST0380,Ahmed,Saeed,ahmed.saeed743@yahoo.com,+923570866707,Abbottabad,Premium,ORD00380,2024-07-17,Home & Kitchen,Water Bottle,2.0,6855.02,13710.04,JazzCash,Pending
+CUST0381,Zubair,Ali,zubair.ali109@outlook.com,+923724230874,Quetta,Corporate,ORD00381,2026-04-30,Clothing,T-Shirt,5.0,47576.39,237881.95,Credit Card,Pending
+CUST0382,Iqra,Yousafzai,iqra.yousafzai925@outlook.com,+923590645339,Swat ,VIP,ORD00382,2026-06-26,Sports,Cricket Bat,2.0,28854.22,57708.44,EasyPaisa,Returned
+CUST0383,Hamza,Iqbal,hamza.iqbal949@outlook.com,+923386556226,Quetta,Corporate,ORD00383,2026-02-07,Clothing,Sneakers,2.0,47976.51,95953.02,Cash,Completed
+CUST0384,Maryam,Iqbal,maryam.iqbal228@yahoo.com,+923918822815,Swat,Regular,ORD00384,2024-01-14,Electronics,Keyboard,3.0,44117.39,132352.17,JazzCash,Pending
+CUST0385,Fatima,Khan,fatima.khan911@yahoo.com,+923250175561,Mardan,VIP,ORD00385,2025-06-26,Books,Python Basics,2.0,30391.83,60783.66,JazzCash,Returned
+CUST0386,Zubair,Malik,zubair.malik500@gmail.com,+923639124632,Mardan,Regular,ORD00386,2026-09-15,Beauty,Shampoo,3.0,6792.83,0,Cash,Completed
+CUST0387,Hamza,Afridi,hamza.afridi669@gmail.com,+923680631093,Abbottabad,Regular,ORD00387,2025-04-09,Books,Business Strategy,1.0,35550.22,35550.22,JazzCash,Completed
+CUST0388,Hamza,Raza,hamza.raza52@example.com,+923478476787,Faisalabad,Regular,ORD00388,2025-03-28,Sports,Football,5.0,12926.91,64634.55,Bank Transfer,cancel
+CUST0389,Omar,Shah,omar.shah409@outlook.com,+923091352864,Abbottabad,Corporate,ORD00389,2024-04-10,Clothing,Jeans,4.0,28740.25,114961.0,Credit Card,Returned
+CUST0390,Iqra,Malik,missing-at-sign.com,+923260183853,Islamabad,,ORD00390,2025-02-05,Books,Novel,5.0,33753.27,168766.35,Debit Card,Completed
+CUST0391,Fatima,Ali,fatima.ali353@gmail.com,+923826438998,Mardan,Premium,ORD00391,2025-01-25,Books,Business Strategy,3.0,36145.07,108435.21,JazzCash,Returned
+CUST0392,Maham,Shah,maham.shah383@yahoo.com,+923813610452,Islamabad,Regular,ORD00392,2025-02-12,Books,Python Basics,2.0,9999999.0,8106.74,Credit Card,Pending
+CUST0393,Maryam,Khan,maryam.khan483@gmail.com,+923356349916,Karachi,Premium,ORD00393,,Home & Kitchen,Water Bottle,1.0,59049.15,59049.15,JazzCash,Cancelled
+CUST0394,Iqra,Butt,iqra.butt597@gmail.com,,Lahore,Regular,ORD00394,2024-02-07,Sports,Dumbbells,2.0,62111.02,124222.04,Credit Card,Cancelled
+CUST0395,Ali,Butt,ali.butt278@outlook.com,+923928016025,MARDAN,Regular,ORD00395,2026-03-06,Beauty,Sunscreen,1.0,80353.71,80353.71,EasyPaisa,Returned
+CUST0396,Zainab,Yousafzai,zainab.yousafzai888@gmail.com,+923200164147,Karachi,,ORD00396,2025-10-08,Sports,Yoga Mat,1.0,83017.86,83017.86,Cash,Pending
+CUST0270,Laiba,Ahmed,laiba.ahmed672@outlook.com,+923202250101,Lahore,Premium,ORD00270,2025-07-21,Home & Kitchen,Blender,3.0,84013.59,252040.77,JazzCash,Returned
+CUST0398,Omar,Saeed,omar.saeed350@example.com,+923705375110,Lahore,Regular,ORD00398,2025-04-06,Electronics,Power Bank,3.0,80265.59,240796.77,JazzCash,Pending
+CUST0399,Noor,Malik,noor.malik556@yahoo.com,+923222003929,Lahore,Premium,ORD00399,2025-11-05,Sports,Football,3.0,13195.49,39586.47,Debit Card,Pending
+CUST0400,Noor,Khalid,noor.khalid70@gmail.com,+923197713683,Swat,Premium,ORD00400,2024-11-19,Clothing,T-Shirt,5.0,0,279328.2,Debit Card,Returned
+CUST0401,Noor,Siddiqui,noor.siddiqui110@yahoo.com,+923198370042,Peshawar,VIP,ORD00401,2024-11-07,Books,Data Science Handbook,3.0,63440.42,190321.26,JazzCash,Pending
+CUST0402,Zainab,Ali,zainab.ali867@example.com,+923764524716,Swat,Premium,ORD00402,2024-10-01,Electronics,Power Bank,4.0,30697.4,122789.6,Bank Transfer,Returned
+CUST0403,Usman,Shah,usman.shah974@example.com,+923238965760,Karachi,Premium,ORD00403,2024-01-31,Clothing,T-Shirt,4.0,19426.64,77706.56,Credit Card,Returned
+CUST0404,Maham,Butt,missing-at-sign.com,+923652759821,Abbottabad,VIP,ORD00404,2025-05-20,Beauty,Shampoo,4.0,27784.9,111139.6,JazzCash,Completed
+CUST0405,Danish,Ahmed,danish.ahmed551@example.com,+923789382867,Peshawar,Corporate,ORD00405,2025-05-18,Books,Python Basics,1.0,38972.31,38972.31,Credit Card,Cancelled
+CUST0406,Saad,Yousafzai,saad.yousafzai433@outlook.com,+923658347916,Peshawar,REGULAR,ORD00406,2026-08-02,Home & Kitchen,Desk Lamp,3.0,65819.13,197457.39,EasyPaisa,Returned
+CUST0407,Ahmed,Mehmood,ahmed.mehmood424@outlook.com,+923484135007,Peshawar,Premium,ORD00407,2024-10-04,Sports,Cricket Bat,5.0,9841.29,49206.45,JazzCash,Pending
+CUST0408,Saad,Ahmed,saad.ahmed117@example.com,+923680830076,Swat,Regular,ORD00408,2024-09-10,Home & Kitchen,Desk Lamp,2.0,27715.34,55430.68,EasyPaisa,Pending
+CUST0409,Omar,Raza,omar.raza893@yahoo.com,+923174079423,Lahore, PREMIUM ,ORD00409,2025-11-17,Books,Python Basics,2.0,3971.04,7942.08,Bank Transfer,Cancelled
+CUST0410,Maryam,Mehmood,maryam.mehmood984@yahoo.com,+923003793417,Mardan,Regular,ORD00410,2024-08-28,Books,Novel,2.0,24724.15,49448.3,Bank Transfer,Returned
+CUST0411,Iqra,Khalid,iqra.khalid603@example.com,+923487197988,Abbottabad,Corporate,ORD00411,2025-05-02,Electronics,Wireless Mouse,4.0,51776.64,207106.56,JazzCash,Completed
+CUST0412,Zainab,Raza,,+923059124453,Swat,Regular,ORD00412,2025-03-01,Home & Kitchen,Water Bottle,5.0,52775.17,263875.85,Cash,Cancelled
+CUST0413,Hamza,Ahmed,hamza.ahmed292@yahoo.com,+923488915267,Swat,Regular,ORD00413,2024-11-26,Electronics,Wireless Mouse,2.0,9478.23,18956.46,Debit Card,Cancelled
+CUST0414,Hira,Yousafzai,hira.yousafzai483@yahoo.com,+923131021447,Mardan,VIP,ORD00414,2024-05-12,Electronics,Smart Watch,5.0,64527.96,322639.8,Bank Transfer,Pending
+CUST0415,Hassan,Iqbal,hassan.iqbal742@outlook.com,+923458545314,Swat,VIP,ORD00415,2024-06-28,Electronics,Smart Watch,5.0,9513.36,47566.8,JazzCash,Cancelled
+CUST0416,Usman,Iqbal,usman.iqbal905@yahoo.com,+923760839571,Mardan,Premium,ORD00416,2026-10-05,Sports,Yoga Mat,4.0,42319.64,169278.56,Cash,Completed
+CUST0417,Saad,Ali,saad.ali47@outlook.com,+923375433873,Faisalabad,Premium,ORD00417,2026-04-29,Electronics,Wireless Mouse,2.0,62750.44,125500.88,EasyPaisa,Pending
+CUST0418,Maryam,Siddiqui,maryam.siddiqui117@outlook.com,+923366534208,Abbottabad,Regular,ORD00418,2025-10-25,Electronics,Headphones,5.0,26333.72,131668.6,Credit Card,Cancelled
+CUST0419,Hamza,Ali,hamza.ali160@example.com,+923957840329,Faisalabad,VIP,ORD00419,2025/00/12,Books,Novel,1.0,77894.82,77894.82,Bank Transfer,Completed
+CUST0420,Danish,Siddiqui,danish.siddiqui592@outlook.com,+923858494527,Swat,Regular,ORD00420,2024-02-08,Sports,Football,3.0,61690.71,185072.13,Debit Card,Completed
+CUST0421,Hamza,Yousafzai,hamza.yousafzai610@gmail.com,,Mardan,VIP,ORD00421,2026-03-08,Beauty,Face Wash,2.0,45529.65,91059.3,Debit Card,Returned
+CUST0422,Ahmed,Butt,ahmed.butt310@yahoo.com,+923120507410,Swat,Regular,ORD00422,2025-03-18,Clothing,Jeans,3.0,31741.71,95225.13,Cash,Returned
+CUST0423,Danish,Khan,danish.khan946@example.com,+923786452604,Faisalabad,VIP,ORD00423,2025-01-24,Books,Business Strategy,2.0,76945.0,153890.0,Credit Card,Completed
+CUST0424,Danish,Ali,danish.ali731@gmail.com,+923004412943,Mardan,Regular,ORD00424,,Clothing,Scarf,1.0,17639.61,17639.61,Cash,Cancelled
+CUST0425,Saad,Khan,saad.khan777@outlook.com,+923685960873,Karachi,VIP,ORD00425,2024-02-16,Electronics,Headphones,3.0,44368.96,133106.88,Credit Card,Cancelled
+CUST0426,Bilal,Raza,bilal.raza162@outlook.com,+923122900917,Peshawar,Regular,ORD00426,2025-07-12,Home & Kitchen,Water Bottle,1.0,65743.71,65743.71,JazzCash,Cancelled
+CUST0427,Iqra,Afridi,iqra.afridi73@outlook.com,+923658486006,Swat,Corporate,ORD00427,2025-05-16,Home & Kitchen,Blender,3.0,12246.94,36740.82,Credit Card,Completed
+CUST0428,Laiba,Ali,laiba.ali402@yahoo.com,+923756641801,Quetta,VIP,ORD00428,2024-06-25,Electronics,Keyboard,1.0,9227.31,9227.31,Debit Card,Pending
+CUST0429,Iqra,Ahmed,iqra.ahmed467@outlook.com,+923734952627,Quetta,corporate,ORD00429,2026-08-17,Books,Data Science Handbook,1.0,48370.14,72555.21,Credit Card,Pending
+CUST0430,Maham,Siddiqui,maham.siddiqui500@gmail.com,+923070185347,Quetta,Regular,ORD00430,2025-10-27,Home & Kitchen,Cookware Set,3.0,33478.52,100435.56,Bank Transfer,Returned
+CUST0431,Sara,Siddiqui,sara.siddiqui838@gmail.com,+923349899956,islamabd,Regular,ORD00431,2024-07-29,Home & Kitchen,Cookware Set,2.0,51476.31,102952.62,JazzCash,Returned
+CUST0432,Omar,Iqbal,omar.iqbal394@gmail.com,+923365839040,Karachi,Corporate,ORD00432,2024-11-21,Books,Novel,2.0,20469.26,40938.52,JazzCash,Cancelled
+CUST0433,Iqra,Mehmood,iqra.mehmood607@example.com,+923349372065,Faisalabad,Regular,ORD00433,2026-09-23,Clothing,Sneakers,1.0,14918.99,14918.99,Credit Card,Cancelled
+CUST0434,Omar,Ahmed,omar.ahmed507@gmail.com,+923097209076,Karachi,Premium,ORD00434,2026-02-15,Sports,Yoga Mat,5.0,9466.11,47330.55,Credit Card,Pending
+CUST0435,Saad,Raza,saad.raza211@outlook.com,+923321838360,MARDAN,Corporate,ORD00435,2026-07-04,Home & Kitchen,Cookware Set,5.0,33301.03,166505.15,Cash,Completed
+CUST0436,Maham,Raza,maham.raza923@gmail.com,+923000905503,Faisalabad,VIP,ORD00436,"May 07, 2024",Books,Python Basics,3.0,72087.21,216261.63,Debit Card,Completed
+CUST0437,Zainab,Yousafzai,zainab.yousafzai391@example.com,+923585316847,Karachi ,Premium,ORD00437,2026-02-22,Beauty,Shampoo,3.0,50266.39,150799.17,Credit Card,Pending
+CUST0438,Iqra,Yousafzai, ,+923012458366,Islamabad,Regular,ORD00438,2025-08-13,Home & Kitchen,Water Bottle,2.0,71436.84,142873.68,EasyPaisa,Returned
+CUST0439,Noor,Shah,noor.shah619@example.com,+923669207967,Lahore,Corporate,ORD00439,2026-07-22,Electronics,Smart Watch,4.0,11879.42,47517.68, bank transfer ,Returned
+CUST0440,Omar,Afridi,omar.afridi511@yahoo.com,12345,Faisalabad,VIP,ORD00440,2024-01-16,Clothing,Sneakers,5.0,15995.79,79978.95,JazzCash,Cancelled
+CUST0441,Ali,Khan,ali.khan494@gmail.com,+923152565264,Faisalabad,VIP,ORD00441,2024-08-19,Sports,Cricket Bat,3.0,41206.97,123620.91,JazzCash,Completed
+CUST0442,Danish,Iqbal,danish.iqbal55@outlook.com,+923574487589,Peshawar,Corporate,ORD00442,2025-10-01,,Power Bank,1.0,21033.35,21033.35,JazzCash,Returned
+CUST0443,Zubair,Mehmood,zubair.mehmood37@outlook.com,+923780579928,Mardan,Regular,ORD00443,2025-08-15,Home & Kitchen,Desk Lamp,3.0,35931.12,107793.36,JazzCash,Pending
+CUST0444,Zubair,Khan,zubair.khan497@gmail.com,+923136173369,Swat ,Regular,ORD00444,2024-02-25,Beauty,Sunscreen,5.0,84183.42,420917.1,Debit Card,Pending
+CUST0445,Maham,Siddiqui,maham.siddiqui179@yahoo.com,,Quetta,VIP,ORD00445,2024-08-16,Home & Kitchen,Water Bottle,1.0,72953.5,72953.5,Debit Card,Pending
+CUST0417,Saad,Ali,saad.ali47@outlook.com,+923375433873,Faisalabad,Premium,ORD00417,2026-04-29,Electronics,Wireless Mouse,2.0,62750.44,125500.88,EasyPaisa,Pending
+CUST0447,Sara,Malik,sara.malik271@gmail.com,+923056396358,Lahore,Corporate,ORD00447,2024-04-21,Sports,Cricket Bat,3.0,62487.1,187461.3,Bank Transfer,Cancelled
+CUST0448,Laiba,Mehmood,laiba.mehmood149@example.com,+923012737840,Mardan,Corporate,ORD00448,2026-08-29,Sports,Cricket Bat,4.0,20052.8,80211.2,EasyPaisa,Cancelled
+CUST0427,Iqra,Afridi,iqra.afridi73@outlook.com,+923658486006,Swat,Corporate,ORD00427,2025-05-16,Home & Kitchen,Blender,3.0,12246.94,36740.82,Credit Card,Completed
+CUST0450,Saad,Khalid,saad.khalid346@yahoo.com,+923336370919,Faisalabad,Regular,ORD00450,2025-02-03,Beauty,Face Wash,5.0,63735.45,318677.25,Cash,Completed
+CUST0451,Noor,Ahmed,noor.ahmed743@outlook.com,+923270471388,Karachi,Regular,ORD00451,12-20-2025,Sports,Yoga Mat,4.0,9056.14,36224.56,JazzCash,Completed
+CUST0452,Ali,Iqbal,ali.iqbal981@gmail.com,+923092756659,Lahore,Corporate,ORD00452,2024-09-06,Beauty,Moisturizer,2.0,76013.7,152027.4,Cash,Pending
+CUST0453,Bilal,Siddiqui,bilal.siddiqui788@example.com,+923743267161,Swat,Vip,ORD00453,2026-07-17,Books,Data Science Handbook,1.0,56225.5,56225.5,Cash,Cancelled
+CUST0454,Ali,Yousafzai,ali.yousafzai183@example.com,0000000000,Quetta,Premium,ORD00454,2025-06-12,Books,Novel,1.0,28442.49,28442.49,Credit Card,Returned
+CUST0455,Fatima,Shah,fatima.shah733@outlook.com,+923110903699,Peshawar,Regular,ORD00455,2024-08-05,Sports,Yoga Mat,2.0,65397.95,130795.9,JazzCash,Cancelled
+CUST0456,Saad,Khan,saad.khan400@outlook.com,+923162787284,Swat,Corporate,ORD00456,2024-03-18,Books,Python Basics,1.0,12865.4,12865.4,JazzCash,Returned
+CUST0457,Laiba,Yousafzai,laiba.yousafzai394@example.com,, Lahore ,VIP,ORD00457,2025-04-07,Books,Business Strategy,1.0,71783.17,71783.17,EasyPaisa,Cancelled
+CUST0458,Omar,Khan,omar.khan874@outlook.com,+923086389815,Quetta,VIP,ORD00458,2026-01-18,Beauty,Moisturizer,1.0,84747.09,84747.09,Credit Card,Completed
+CUST0459,Omar,Ali,omar.ali706@outlook.com,+923522379207,Islamabad,Corporate,ORD00459,08-06-2024,Clothing,Jeans,4.0,25579.26,102317.04,Credit Card,Completed
+CUST0460,Hassan,Khan,hassan.khan65@outlook.com,+923536531772,Faisalabad,Corporate,ORD00460,2026-09-28,Beauty,Face Wash,2.0,84693.51,169387.02,Cash,Cancelled
+CUST0461,Ali,Afridi,ali.afridi684@example.com,+923728080516,Faisalabad,Vip,ORD00461,2025-03-09,,Moisturizer,1.0,3878.53,3878.53,Cash,Completed
+CUST0462,Usman,Butt,usman.butt719@yahoo.com,+923015424523,Lahore,Regular,ORD00462,2024-04-03,Beauty,Sunscreen,5.0,1865.59,9327.95,Cash,Returned
+CUST0463,Maham,Shah,maham.shah610@yahoo.com,+923067763965,Karachi,Corporate,ORD00463,2024-08-21,Sports,Dumbbells,1.0,5670.41,5670.41,EasyPaisa,Returned
+CUST0464,Hamza,Ahmed,hamza.ahmed783@gmail.com,+923636820440,Lahore,VIP,ORD00464,2025-10-20,Beauty,Face Wash,2.0,49063.2,49063.2,Cash,Cancelled
+CUST0465,Usman,Khalid,usman.khalid250@gmail.com,+923143205892,Islamabad,Corporate,ORD00465,2024-12-03,Books,Data Science Handbook,3.0,14492.31,43476.93,Cash,Returned
+CUST0466,Ahmed,Khan,ahmed.khan711@example.com,+923743414103,Lahore,Premium,ORD00466,2025-08-04,Electronics,Headphones,1.0,15455.24,15455.24,EasyPaisa,Cancelled
+CUST0467,Danish,Butt,danish.butt185@example.com,+923657183487,Islamabad,VIP,ORD00467,2024-03-18,Books,Business Strategy,2.0,20526.76,41053.52,Bank Transfer,Completed
+CUST0468,Iqra,Malik,iqra.malik371@yahoo.com,+923498448142,Karachi,VIP,ORD00468,not available,Clothing,T-Shirt,5.0,10208.79,51043.95,Credit Card,Completed
+CUST0469,Usman,Ali,usman.ali661@outlook.com,+923306085699,,Corporate,ORD00469,2024-03-29,Books,Business Strategy,,42414.38,84828.76,Debit Card,Returned
+CUST0470,Ali,Ahmed,ali.ahmed805@gmail.com,,Faisalabad,Regular,ORD00470,2024-12-26,Beauty,Face Wash,5.0,4695.7,23478.5,Credit Card,Returned
+CUST0471,Zubair,Iqbal,zubair.iqbal334@yahoo.com,+923105295567,Karachi,Corporate,ORD00471,2025-04-16,Home & Kitchen,Water Bottle,3.0,35765.87,107297.61,Bank Transfer,Pending
+CUST0472,Ahmed,Butt,ahmed.butt951@example.com,+923191191291,Abbottabad,corporate,ORD00472,2024-10-23,Sports,Football,4.0,41303.55,165214.2,Bank Transfer,Pending
+CUST0473,Hira,Siddiqui,hira.siddiqui140@gmail.com,+923914453695,islamabd,Corporate,ORD00473,2024-05-02,Clothing,Sneakers,1.0,28716.79,28716.79,Credit Card,Cancelled
+CUST0474,Zainab,Siddiqui,zainab.siddiqui994@yahoo.com,+923092851105,Abbottabad,Corporate,ORD00474,2024-12-14,Sports,Football,5.0,13537.79,67688.95,JazzCash,Returned
+CUST0475,Saad,Siddiqui,saad.siddiqui445@yahoo.com,+923957587252,Lahore,Regular,ORD00475,2025-05-22,Electronics,Power Bank,0,62119.0,124238.0,CREDIT CARD,Completed
+CUST0476,Laiba,Mehmood,laiba.mehmood830@gmail.com,+923485805219,Quetta,corporate,ORD00476,2026-03-18,Sports,Yoga Mat,5.0,3099.34,15496.7,cash,Completed
+CUST0477,Noor,Malik,noor.malik492@outlook.com,+923173734464,Quetta,Regular,ORD00477,2024-07-04,Clothing,Sneakers,0,30624.88,61249.76,Bank Transfer,Pending
+CUST0478,Omar,Shah,omar.shah915@outlook.com,+923570071366,Peshawar,regular,ORD00478,2024-05-24,Home & Kitchen,Desk Lamp,1.0,53372.23,53372.23,Debit Card,Pending
+CUST0479,Ahmed,Iqbal,ahmed.iqbal114@example.com, ,Quetta,Regular,ORD00479,2026-01-15,Home & Kitchen,Cookware Set,1.0,62605.73,62605.73,Debit Card,Pending
+CUST0480,Iqra,Mehmood,iqra.mehmood245@gmail.com,+923696899673, Lahore ,Premium,ORD00480,10-10-2024,Electronics,Headphones,2.0,47774.26,95548.52,Debit Card,Cancelled
+CUST0481,Bilal,Raza,bilal.raza354@example.com,+923522082166,Faisalabad,Regular,ORD00481,09/05/2024,Beauty,Shampoo,1.0,36093.24,36093.24,EasyPaisa,Cancelled
+CUST0482,Saad,Iqbal,saad.iqbal90@gmail.com,+923419492143,Lahore,Vip,ORD00482,2025-01-20,Home & Kitchen,Blender,1.0,68041.85,68041.85,Cash,Pending
+CUST0483,Bilal,Ahmed,bilal.ahmed975@gmail.com,+923314788293,Abbottabad,Premium,ORD00483,2025-02-22,Beauty,Shampoo,2.0,12789.11,25578.22,Debit Card,Returned
+CUST0484,Saad,Mehmood,saad.mehmood893@yahoo.com,+923896518070,Faisalabad,VIP,ORD00484,2024-05-08,Beauty,Shampoo,2.0,2070.62,4141.24,JazzCash,Cancelled
+CUST0485,Hamza,Butt,hamza.butt312@yahoo.com,+923964522866,Mardan,Premium,ORD00485,2026-06-30,Sports,Dumbbells,5.0,56681.24,283406.2,Credit Card,Returned
+CUST0486,Hira,Siddiqui,hira.siddiqui634@yahoo.com,,Faisalabad,VIP,ORD00486,2026-07-22,Electronics,Headphones,3.0,12821.67,38465.01,Credit Card,Pending
+CUST0487,Sara,Malik,sara.malik267@outlook.com,+923198101702,Swat ,Regular,ORD00487,2024-09-16,Electronics,Keyboard,3.0,3737.59,11212.77,Debit Card,Pending
+CUST0488,Hira,Butt,hira.butt943@gmail.com,+923434395495,Quetta,Premium,ORD00488,2025-09-09,Sports,Cricket Bat,5.0,82920.72,414603.6,Debit Card,Pending
+CUST0489,Ayesha,Mehmood,ayesha.mehmood918@outlook.com,+923809774911, Lahore ,Corporate,ORD00489,2025-08-28,Sports,Dumbbells,3.0,82932.19,248796.57,EasyPaisa,Completed
+CUST0490,Laiba,Khan,laiba.khan412@yahoo.com,+923478859534,Swat,Regular,ORD00490,2025-09-22,Clothing,Jacket,1.0,57711.21,57711.21,Cash,Pending
+CUST0491,Zubair,Raza,zubair.raza86@example.com,+923726991279,Islamabad,Corporate,ORD00491,04/02/2025,Clothing,Jeans,3.0,66463.76,199391.28,Bank Transfer,Cancelled
+CUST0492,Maham,Iqbal,maham.iqbal734@example.com,+923396887155,Abbottabad,VIP,ORD00492,2026-03-25,Sports,Yoga Mat,3.0,80203.33,240609.99,Debit Card,Cancelled
+CUST0493,Hira,Siddiqui,hira.siddiqui910@example.com,+923796209276,Abbottabad,Corporate,ORD00493,2025-03-17,Books,Business Strategy,1.0,74347.07,37173.54,Credit Card,Returned
+CUST0494,Noor,Shah,noor.shah487@outlook.com,+923070991275,peshawar,Regular,ORD00494,2025-03-01,Sports,Yoga Mat,2.0,50925.05,101850.1,Bank Transfer,Cancelled
+CUST0495,Noor,Shah,noor.shah191@example.com,+923310808710,Faisalabad,Corporate,ORD00495,2024-10-07,Sports,Yoga Mat,5.0,39414.67,197073.35,Debit Card,Cancelled
+CUST0496,Laiba,Raza,laiba.raza269@outlook.com,+923687790914,Quetta,Regular,ORD00496,2024-01-06,Beauty,Sunscreen,1.0,39527.54,39527.54,Bank Transfer,Pending
+CUST0497,Laiba,Mehmood,laiba.mehmood994@gmail.com,+923643054662,peshawar,Corporate,ORD00497,2025-07-21,Beauty,Shampoo,1.0,20992.58,20992.58,Debit Card,Returned
+CUST0498,Fatima,Afridi,fatima.afridi596@gmail.com,+923156913540,Swat,Vip,ORD00498,2025-06-15,Sports,Football,1.0,62368.13,62368.13,Debit Card,Pending
+CUST0499,Ali,Siddiqui,ali.siddiqui299@gmail.com,+923551759949,Karachi,Premium,ORD00499,2024-04-09,Home & Kitchen,Blender,0,35803.81,107411.43,Easy Paisa,Pending
+CUST0500,Iqra,Afridi,,+923102900339,Faisalabad,VIP,ORD00500,2025-07-09,Home & Kitchen,Water Bottle,3.0,70323.16,210969.48,Cash,Pending
+CUST0501,Danish,Siddiqui,danish.siddiqui105@yahoo.com,0000000000,Faisalabad,Premium,ORD00501,2025-11-27,Home & Kitchen,Water Bottle,4.0,66253.96,265015.84,JazzCash,Completed
+CUST0502,Noor,Butt,noor.butt357@outlook.com,+923742010046,Swat,Premium,ORD00502,2024-02-05,Electronics,Power Bank,2.0,10128.94,20257.88,JazzCash,Cancelled
+CUST0503,Sara,Mehmood,sara.mehmood878@yahoo.com,+923738785008,Karachi,VIP,ORD00503,2025-03-31,Home & Kitchen,Water Bottle,1.0,2687.37,2687.37,Credit Card,Pending
+CUST0504,Ahmed,Yousafzai,ahmed.yousafzai794@example.com,+923813181224,Abbottabad,Regular,ORD00504,2024-06-08,Beauty,Moisturizer,1.0,64916.26,64916.26,Cash,Completed
+CUST0505,Danish,Iqbal,danish.iqbal309@gmail.com,+923810192189,Islamabad,Regular,ORD00505,2024-03-29,Electronics,Smart Watch,3.0,40004.73,120014.19,Credit Card,Pending
+CUST0506,Sara,Ali,sara.ali357@outlook.com,+923172397121,,Premium,ORD00506,2025-07-22,Home & Kitchen,Blender,2.0,2729.71,5459.42,Cash,Completed
+CUST0507,Danish,Malik,danish.malik5@gmail.com,+923992386663,Swat ,Corporate,ORD00507,2024-12-17,Beauty,Sunscreen,3.0,16483.65,49450.95,EasyPaisa,Pending
+CUST0508,Saad,Ali,saad.ali220@yahoo.com,+923437633515,Islamabad,VIP,ORD00508,2026-02-16,Electronics,Wireless Mouse,3.0,15576.91,46730.73,Bank Transfer,PENDING 
+CUST0509,Danish,Shah,danish.shah336@example.com,+923124256201,Abbottabad,VIP,ORD00509,2024-03-24,Books,Novel,3.0,64852.69,194558.07,JazzCash,Cancelled
+CUST0510,Saad,Malik,saad.malik917@example.com,+923729211472,Swat,Premium,ORD00510,2025-01-21,Sports,Yoga Mat,4.0,34767.17,139068.68,EasyPaisa,Returned
+CUST0511,Fatima,Yousafzai,fatima.yousafzai405@example.com,+923746290420,Islamabad,Premium,ORD00511,2024-09-01,Books,Python Basics,1.0,44545.64,44545.64,Debit Card,Pending
+CUST0512,Hamza,Malik,hamza.malik859@example.com,0000000000,islamabd,VIP,ORD00512,2024-09-08,Sports,Dumbbells,4.0,71781.5,287126.0,EasyPaisa,Returned
+CUST0513,Hira,Butt,hira.butt286@yahoo.com,+923824633240,Quetta,Regular,ORD00513,2026-09-19,Beauty,Face Wash,4.0,51368.27,205473.08,Jazz cash,Returned
+CUST0514,Laiba,Malik,,+923534868281,Peshawar,Premium,ORD00514,2024-07-22,Beauty,Shampoo,1.0,80118.65,80118.65,JazzCash,Cancelled
+CUST0515,Usman,Siddiqui,usman.siddiqui207@outlook.com,+923710917196,Quetta,Corporate,ORD00515,10-05-2026,Sports,Dumbbells,1.0,53068.96,53068.96,JazzCash,Cancelled
+CUST0516,Iqra,Raza,iqra.raza393@example.com,+923337755361,Abbottabad,Corporate,ORD00516,2026-05-31,Electronics,Power Bank,1.0,80981.2,80981.2,Cash,Completed
+CUST0517,Sara,Raza,sara.raza442@yahoo.com,+923335501022,Abbottabad,Corporate,ORD00517,2024-12-02,Beauty,Face Wash,3.0,73165.57,219496.71,JazzCash,Returned
+CUST0518,Iqra,Ali,iqra.ali58@example.com,+923282813918,Quetta,Corporate,ORD00518,2024-11-16,,Dumbbells,4.0,48744.82,194979.28,Debit Card,Cancelled
+CUST0519,Ali,Khan,ali.khan598@gmail.com,+923821620818,Swat,Corporate,ORD00519,"Dec 15, 2025",Sports,Yoga Mat,3.0,4073.79,12221.37,Bank Transfer,Cancelled
+CUST0520,Hira,Yousafzai,hira.yousafzai664@outlook.com,+923636226035,Islamabad,Regular,ORD00520,2025-05-22,Home & Kitchen,Cookware Set,2.0,5034.07,10068.14,Cash,Cancelled
+CUST0521,Sara,Khan,sara.khan528@example.com,+923286279849,Peshawar,Corporate,ORD00521,2026-05-15,Sports,Yoga Mat,4.0,27888.4,111553.6,Debit Card,Returned
+CUST0522,Zubair,Yousafzai,,+923360742313,Quetta,VIP,ORD00522,2024-07-23,Home & Kitchen,Water Bottle,4.0,48772.65,195090.6,JazzCash,Cancelled
+CUST0523,Hira,Yousafzai,hira.yousafzai272@gmail.com,+923319245200,Abbottabad,Premium,ORD00523,,Clothing,Scarf,-2,42366.66,42366.66,EasyPaisa,Completed
+CUST0524,Zubair,Ahmed,zubair.ahmed215@outlook.com,+923854324560,Islamabad,VIP,ORD00524,"Aug 31, 2026",Sports,Dumbbells,1.0,28797.03,28797.03,Bank Transfer,Cancelled
+CUST0447,Sara,Malik,sara.malik271@gmail.com,+923056396358,Lahore,Corporate,ORD00447,2024-04-21,Sports,Cricket Bat,3.0,62487.1,187461.3,Bank Transfer,Cancelled
+CUST0526,Bilal,Ali,bilal.ali206@outlook.com,+923496591297,Lahore,Premium,ORD00526,2024-05-02,Sports,Football,4.0,68807.11,275228.44,EasyPaisa,Cancelled
+CUST0527,Noor,Yousafzai,noor.yousafzai274@outlook.com,+923693683022,Lahore,VIP,ORD00527,2025-02-20,Home & Kitchen,Water Bottle,1.0,73150.76,73150.76,Bank Transfer,Pending
+CUST0528,Fatima,Shah,,+923453139585,Peshawar,,ORD00528,2026-08-08,Clothing,Jeans,3.0,2597.93,7793.79,Debit Card,Pending
+CUST0529,Ayesha,Siddiqui,ayesha.siddiqui498@gmail.com,+923059407206,Islamabad,VIP,ORD00529,2024-03-27,Home & Kitchen,Cookware Set,2.0,56072.34,112144.68,Cash,Returned
+CUST0530,Hira,Ali,hira.ali115@gmail.com,+923560447662,Faisalabad,VIP,ORD00530,2024-10-14,Beauty,Shampoo,4.0,75314.72,301258.88,Cash,Pending
+CUST0531,Maham,Ahmed, ,+923454052132,Karachi,Premium,ORD00531,2026-03-09,Home & Kitchen,Blender,5.0,28156.98,140784.9,Credit Card,Pending
+CUST0532,Bilal,Butt,bilal.butt547@outlook.com,+923751208813,Islamabad,VIP,ORD00532,2024-04-24,Books,Novel,5.0,21802.43,109012.15,Bank Transfer,Pending
+CUST0533,Bilal,Khalid,bilal.khalid661@gmail.com,+923903524714,Peshawar,corporate,ORD00533,2025-09-23,Clothing,Jacket,3.0,31014.08,93042.24,JazzCash,Returned
+CUST0534,Maryam,Ali,maryam.ali398@gmail.com,+923976878604,Abbottabad,VIP,ORD00534,2025-04-29,Beauty,Sunscreen,1.0,31001.97,31001.97,Cash,Pending
+CUST0535,Maryam,Malik,maryam.malik281@gmail.com,+923883901883,Quetta,Corporate,ORD00535,2026-04-12,Clothing,Sneakers,3.0,77871.75,233615.25,Debit Card,Returned
+CUST0536,Fatima,Saeed,fatima.saeed431@outlook.com,+923486686097,Peshawar,Regular,ORD00536,2024-05-15,Clothing,Jeans,,59446.37,297231.85,EasyPaisa,Returned
+CUST0537,Usman,Khan,usman.khan85@gmail.com,+923169460558,Karachi,Premium,ORD00537,2025-10-04,Books,Novel,3.0,17206.38,51619.14,Debit Card,Returned
+CUST0538,Laiba,Saeed,laiba.saeed204@gmail.com,+923445062150,Swat,Premium,ORD00538,,Beauty,Shampoo,2.0,11564.96,23129.92,Bank Transfer,Pending
+CUST0539,Ayesha,Khan,ayesha.khan204@outlook.com,+923752973431,Lahore,Regular,ORD00539,2024-07-01,Sports,Cricket Bat,2.0,55092.29,110184.58,JazzCash,Returned
+CUST0540,Maham,Siddiqui,maham.siddiqui121@gmail.com,+923771573078,Faisalabad,Corporate,ORD00540,,Clothing,Sneakers,3.0,7797.94,23393.82,EasyPaisa,Returned
+CUST0541,Fatima,Malik,fatima.malik507@example.com,+923139800466,Abbottabad,Premium,ORD00541,2025-08-12,Beauty,Moisturizer,3.0,17466.57,52399.71,Debit Card,Pending
+CUST0542,Noor,Shah,noor.shah242@example.com,+923974236279,Karachi,VIP,ORD00542,2025-08-17,Books,Novel,1.0,67411.28,67411.28,Cash,Completed
+CUST0543,Laiba,Shah,laiba.shah393@example.com,+923790385760,Mardan,Regular,ORD00543,2025-03-10,Home & Kitchen,Blender,4.0,82830.33,331321.32,JazzCash,Completed
+CUST0544,Ali,Afridi,ali.afridi260@example.com,+923324814794,Abbottabad,VIP,ORD00544,2024-04-03,Clothing,Jeans,3.0,40161.52,120484.56,JazzCash,COMPLETED
+CUST0545,Zubair,Shah,zubair.shah136@gmail.com,+923340716951,Faisalabad,Corporate,ORD00545,2025-11-25,Home & Kitchen,Water Bottle,4.0,14646.19,58584.76,Debit Card,Completed
+CUST0546,Hamza,Khan,hamza.khan290@outlook.com,+923658130257,Mardan,VIP,ORD00546,2026-01-08,Clothing,Sneakers,3.0,42558.1,127674.3,Credit Card,Cancelled
+CUST0434,Omar,Ahmed,omar.ahmed507@gmail.com,+923097209076,Karachi,Premium,ORD00434,2026-02-15,Sports,Yoga Mat,5.0,9466.11,47330.55,Credit Card,Pending
+CUST0548,Saad,Yousafzai,saad.yousafzai366@example.com,+923491515743,Quetta,Regular,ORD00548,2024-03-24,Electronics,Headphones,,84593.35,338373.4,Cash,Cancelled
+CUST0549,Ahmed,Malik,ahmed.malik913@yahoo.com,+923626579237,Peshawar,Premium,ORD00549,2025-07-12,Home & Kitchen,Desk Lamp,2.0,15560.51,31121.02,Cash,Pending
+CUST0550,Laiba,Ali, ,+923423236607,MARDAN,Regular,ORD00550,2025-08-05,Electronics,Keyboard,1.0,75454.41,75454.41,Credit Card,Completed
+CUST0551,Ahmed,Butt,ahmed.butt674@gmail.com,+923353719460,Peshawar,Corporate,ORD00551,"Jul 05, 2025",Beauty,Sunscreen,4.0,56145.96,224583.84,EasyPaisa,Pending
+CUST0552,Hassan,Saeed,hassan.saeed762@gmail.com,+923587504515,Abbottabad,Regular,ORD00552,2025-10-23,Electronics,Power Bank,,68182.04,204546.12,Debit Card,Pending
+CUST0553,Zainab,Khalid,zainab.khalid799@example.com,+923305947579,Lahore,Regular,ORD00553,2024-11-29,Books,Business Strategy,2.0,7808.71,15617.42,Bank Transfer,Returned
+CUST0554,Maryam,Ali,maryam.ali205@example.com,+923478290147,Abbottabad,REGULAR,ORD00554,2026-01-22,Sports,Dumbbells,1.0,11376.55,11376.55,Jazz cash,return
+CUST0555,Ahmed,Khalid,ahmed.khalid646@example.com,+923099801582, Lahore ,VIP,ORD00555,2025-01-16,Books,Novel,5.0,68981.77,344908.85,EasyPaisa,Pending
+CUST0556,Usman,Butt,usman.butt480@example.com,+923085022239,Quetta,,ORD00556,2024-06-20,Sports,Football,5.0,53605.17,268025.85,Credit Card,Cancelled
+CUST0557,Zainab,Raza,zainab.raza526@gmail.com,+923548307963,Abbottabad,Corporate,ORD00557,2024-06-05,Books,Python Basics,1.0,25292.07,50584.14,Bank Transfer,Cancelled
+CUST0558,Hira,Siddiqui,hira.siddiqui759@example.com,+923192792696,Lahore,Corporate,ORD00558,2024-02-03,Sports,Yoga Mat,5.0,7179.97,35899.85,Cash,Returned
+CUST0559,Maryam,Afridi,maryam.afridi990@yahoo.com,+923226632940,Lahore,Regular,ORD00559,2025-06-26,Sports,Dumbbells,4.0,61617.02,246468.08,EasyPaisa,Completed
+CUST0560,Noor,Raza,noor.raza672@example.com,+923494096279,Abbottabad,Corporate,ORD00560,2024-01-28,Electronics,Keyboard,1.0,745.54,745.54,JazzCash,Cancelled
+CUST0561,Omar,Khalid,omar.khalid115@gmail.com,+923747359140,Karachi,Regular,ORD00561,2024-01-29,Home & Kitchen,Water Bottle,2.0,7677.08,15354.16,Bank Transfer,Pending
+CUST0562,Zainab,Yousafzai,zainab.yousafzai309@example.com,+923159091651,Quetta,REGULAR,ORD00562,01-25-2025,Beauty,Face Wash,,72981.55,364907.75,Cash,Pending
+CUST0563,Usman,Mehmood,usman.mehmood881@example.com,,Karachi,Premium,ORD00563,2026-08-23,Beauty,Sunscreen,4.0,37986.29,151945.16,JazzCash,Returned
+CUST0564,Ali,Afridi,ali.afridi755@outlook.com,+923039746932,Quetta,Corporate,ORD00564,2026-05-01,Electronics,Power Bank,4.0,8950.73,35802.92,JazzCash,Returned
+CUST0565,Zainab,Mehmood,zainab.mehmood66@outlook.com,+923958719586,,Corporate,ORD00565,2025-10-08,Electronics,Wireless Mouse,4.0,45024.17,180096.68,Bank Transfer,Cancelled
+CUST0566,Saad,Mehmood,saad.mehmood353@example.com,+923249218819,Faisalabad,Premium,ORD00566,2025-01-28,Books,Business Strategy,3.0,2013.39,6040.17,JazzCash,Returned
+CUST0567,Usman,Siddiqui,usman.siddiqui819@yahoo.com,+923667698175,Karachi,VIP,ORD00567,2026-01-07,Beauty,Face Wash,4.0,60539.89,242159.56,EasyPaisa,Returned
+CUST0568,Usman,Shah,usman.shah966@example.com,+923326043743,Karachi,Premium,ORD00568,2024-07-25,Clothing,Scarf,4.0,13497.62,53990.48,Cash,Completed
+CUST0569,Hira,Siddiqui,hira.siddiqui346@example.com,+923122373596,Karachi,Regular,ORD00569,2024-03-06,Home & Kitchen,Water Bottle,2.0,57619.64,115239.28,Bank Transfer,Cancelled
+CUST0570,Hamza,Khalid,hamza.khalid874@gmail.com,+923758496505,Peshawar,Corporate,ORD00570,2025-07-01,Home & Kitchen,Desk Lamp,5.0,65454.44,327272.2,Cash,Completed
+CUST0571,Maham,Iqbal,maham.iqbal646@gmail.com,+923935088982,Karachi,VIP,ORD00571,2024-08-03,Electronics,Headphones,1.0,70050.97,70050.97,EasyPaisa,Cancelled
+CUST0572,Saad,Khalid,saad.khalid373@outlook.com,+923879567192,Lahore,Regular,ORD00572,2024-11-11,Sports,Football,1.0,42488.64,42488.64,Bank Transfer,Returned
+CUST0573,Ayesha,Malik,ayesha.malik273@outlook.com,+923767939875,islamabd,VIP,ORD00573,2024-12-16,Books,Data Science Handbook,5.0,29176.88,145884.4,Credit Card,Returned
+CUST0574,Zainab,Shah,zainab.shah814@outlook.com,+923031957698,Quetta,Premium,ORD00574,2026-07-28,Books,Python Basics,4.0,35286.45,141145.8,EasyPaisa,Completed
+CUST0575,Ahmed,Afridi,ahmed.afridi403@gmail.com,+923708858764,Lahore,Regular,ORD00575,2026-06-07,Home & Kitchen,Cookware Set,2.0,34289.91,68579.82,Bank Transfer,Returned
+CUST0576,Iqra,Saeed,iqra.saeed847@outlook.com,+923966591543,Faisalabad,Premium,ORD00576,"Dec 05, 2025",Home & Kitchen,Desk Lamp,3.0,61401.45,184204.35,Bank Transfer,Pending
+CUST0577,Iqra,Iqbal,iqra.iqbal903@outlook.com,+923090495952,Peshawar,VIP,ORD00577,2026-04-08,Sports,Cricket Bat,3.0,55510.14,166530.42,EasyPaisa,Pending
+CUST0578,Danish,Raza,danish.raza349@yahoo.com,+923025148911,Peshawar,VIP,ORD00578,2025-10-01,Home & Kitchen,Water Bottle,5.0,18364.0,91820.0,Debit Card,Returned
+CUST0579,Danish,Ahmed,danish.ahmed520@outlook.com,+923132943217,Peshawar,Regular,ORD00579,2025-06-15,Beauty,Shampoo,3.0,5330.4,15991.2,Debit Card,Completed
+CUST0580,Saad,Afridi,missing-at-sign.com,+923716102443,Lahore,Corporate,ORD00580,2025-04-23,Clothing,Scarf,5.0,68506.6,342533.0,EasyPaisa,Pending
+CUST0581,Fatima,Afridi,fatima.afridi151@example.com,+923889528128,Abbottabad,Regular,ORD00581,2026-07-19,Sports,Yoga Mat,3.0,49605.78,148817.34,Cash,Returned
+CUST0582,Usman,Butt,usman.butt573@example.com,+923936318754,Mardan,Corporate,ORD00582,2026-04-04,Clothing,Sneakers,3.0,38062.41,114187.23,Bank Transfer,Returned
+CUST0583,Noor,Saeed,noor.saeed469@yahoo.com,+923756477620,Faisalabad,Regular,ORD00583,2026-09-19,Clothing,Jeans,2.0,12483.34,24966.68,Bank Transfer,Returned
+CUST0584,Ali,Mehmood,ali.mehmood873@example.com,+923118472553,Islamabad,VIP,ORD00584,2024-08-31,Clothing,Scarf,3.0,80259.9,240779.7,Debit Card,Completed
+CUST0585,Danish,Shah,,+923849548505,Lahore,Premium,ORD00585,2025-09-13,Electronics,Smart Watch,3.0,31731.86,95195.58,Bank Transfer,Completed
+CUST0586,Maryam,Siddiqui,maryam.siddiqui561@outlook.com,+923072546866,Peshawar,Corporate,ORD00586,2024-01-05,Clothing,Sneakers,4.0,15765.79,63063.16,JazzCash,Cancelled
+CUST0587,Zubair,Butt,zubair.butt517@example.com,+923817846365,,Corporate,ORD00587,2024-09-28,Home & Kitchen,Water Bottle,4.0,66469.36,265877.44,EasyPaisa,Cancelled
+CUST0588,Ahmed,Khalid,ahmed.khalid922@example.com,+923363996201,Faisalabad,Regular,ORD00588,2026-03-04,Sports,Cricket Bat,4.0,56566.57,226266.28,EasyPaisa,Cancelled
+CUST0589,Ahmed,Saeed,ahmed.saeed661@gmail.com, ,Faisalabad,Regular,ORD00589,2025-09-24,Clothing,Jeans,5.0,60185.93,300929.65,JazzCash,Completed
+CUST0590,Zubair,Raza,not_an_email,+923020372732,Mardan,Premium,ORD00590,2024-02-08,Clothing,Jeans,5.0,63859.84,319299.2,EasyPaisa,Returned
+CUST0591,Ahmed,Khalid,ahmed.khalid883@gmail.com,+923365025573,Abbottabad,Premium,ORD00591,2024-04-02,Sports,Cricket Bat,4.0,51680.95,206723.8,Cash,Cancelled
+CUST0592,Omar,Siddiqui,omar.siddiqui148@yahoo.com,+923274399576,Islamabad,Premium,ORD00592,2024-12-10,Electronics,Keyboard,1.0,9966.13,9966.13,Bank Transfer,Pending
+CUST0593,Ali,Iqbal,ali.iqbal102@outlook.com,+923152965855,Abbottabad,VIP,ORD00593,2025-09-02,Home & Kitchen,Cookware Set,1.0,15628.55,15628.55,Bank Transfer,COMPLETED
+CUST0594,Ali,Malik,ali.malik521@example.com,+923123567680,Mardan,Regular,ORD00594,2025-04-29,Clothing,Jacket,5.0,63993.33,319966.65,Bank Transfer,Returned
+CUST0595,Ahmed,Butt,abc@gmail,+923264479890,Faisalabad,,ORD00595,2024-02-08,Electronics,Keyboard,2.0,34785.1,69570.2,JazzCash,Returned
+CUST0596,Saad,Ahmed,user@@gmail.com,+923577174482,Abbottabad,Corporate,ORD00596,2026-02-03,Beauty,Face Wash,2.0,42661.64,85323.28,Cash,Returned
+CUST0597,Maham,Siddiqui,maham.siddiqui280@outlook.com,+923901393076,Abbottabad,VIP,ORD00597,2024-05-03,Beauty,Moisturizer,1.0,82633.93,82633.93,JazzCash,Cancelled
+CUST0598,Ali,Shah,ali.shah405@gmail.com,+923891740555,Lahore,VIP,ORD00598,2025-09-07,Beauty,Shampoo,1.0,45514.07,45514.07,Credit Card,Cancelled
+CUST0599,Hamza,Ali,hamza.ali679@outlook.com,+923366822211,Karachi,Corporate,ORD00599,2025-07-13,Home & Kitchen,Cookware Set,4.0,83274.52,666196.16,Cash,Pending
+CUST0600,Ayesha,Iqbal,ayesha.iqbal570@example.com,+923818690821,Abbottabad,Regular,ORD00600,2024-12-21,Books,Python Basics,1.0,,612.67,JazzCash,Completed
+CUST0601,Saad,Ali,saad.ali182@gmail.com,+923133964179,Quetta,VIP,ORD00601,2026-01-03,Electronics,Headphones,4.0,30166.3,120665.2,Bank Transfer,Completed
+CUST0602,Zainab,Mehmood,zainab.mehmood836@outlook.com,+923868028454,Karachi,Premium,ORD00602,2025-01-27,Electronics,Power Bank,3.0,64526.18,193578.54,Debit Card,Completed
+CUST0603,Bilal,Butt,bilal.butt841@example.com,+923119127926,,Corporate,ORD00603,2024-01-15,Beauty,Moisturizer,2.0,60165.54,120331.08,JazzCash,Pending
+CUST0604,Zubair,Ali,zubair.ali132@gmail.com,+923136827900,,Premium,ORD00604,2024-05-13,Beauty,Sunscreen,2.0,51351.92,102703.84,Credit Card,Completed
+CUST0605,Iqra,Iqbal,iqra.iqbal657@gmail.com,12345,Swat,Corporate,ORD00605,2024-01-05,Home & Kitchen,Desk Lamp,4.0,57937.66,231750.64,Easy Paisa,Completed
+CUST0606,Danish,Butt,missing-at-sign.com,+923571671189,Quetta,VIP,ORD00606,2025-04-04,Books,Python Basics,1.0,30884.74,30884.74,Bank Transfer,Pending
+CUST0607,Hamza,Ahmed,hamza.ahmed940@yahoo.com,+923211394879,Lahore,VIP,ORD00607,2026-05-17,Sports,Dumbbells,2.0,68700.28,99999999,Cash,Completed
+CUST0608,Ayesha,Butt,ayesha.butt254@gmail.com,+923508498927,Karachi,VIP,ORD00608,2025-11-15,Books,Python Basics,5.0,68733.01,343665.05,Debit Card,Pending
+CUST0609,Ahmed,Khalid,ahmed.khalid128@gmail.com,+923065162109,Peshawar,Corporate,ORD00609,2026-07-03,Sports,Dumbbells,1.0,52758.27,52758.27,EasyPaisa,Completed
+CUST0610,Usman,Khan,usman.khan105@gmail.com,+923600498762,Peshawar,VIP,ORD00610,2026-06-03,Books,Novel,5.0,4893.35,24466.75,Bank Transfer,Completed
+CUST0611,Maham,Khalid,maham.khalid394@example.com,+923853801568,,Regular,ORD00611,2024-01-22,Books,Business Strategy,5.0,20006.24,100031.2,EasyPaisa,Completed
+CUST0612,Saad,Raza,saad.raza610@gmail.com,+923636607029,Karachi,Premium,ORD00612,2024-07-29,Home & Kitchen,Cookware Set,1.0,50067.18,50067.18,Debit Card,Returned
+CUST0613,Laiba,Mehmood,laiba.mehmood62@yahoo.com,+923334649743,,VIP,ORD00613,2024-10-08,Sports,Dumbbells,2.0,37931.91,75863.82,JazzCash,Pending
+CUST0614,Usman,Butt,usman.butt531@yahoo.com,+923061544356,Karachi,Regular,ORD00614,"Jan 25, 2026",Home & Kitchen,Desk Lamp,3.0,51382.17,154146.51,Debit Card,Pending
+CUST0615,Hassan,Ali,hassan.ali488@example.com,+923643989866,Swat,VIP,ORD00615,2025-01-22,Clothing,Scarf,3.0,66801.11,200403.33,Debit Card,Returned
+CUST0616,Hamza,Shah,hamza.shah943@gmail.com,+923685870900,Karachi,Premium,ORD00616,2026-10-12,Electronics,Power Bank,1.0,38752.1,38752.1,JazzCash,Pending
+CUST0617,Zainab,Butt,zainab.butt410@yahoo.com,+923887001282,Peshawar,VIP,ORD00617,2026-02-08,Beauty,Face Wash,3.0,65367.53,196102.59,Cash,Cancelled
+CUST0618,Ayesha,Raza,ayesha.raza600@outlook.com,+923047142443,Peshawar,Premium,ORD00618,2025-02-02,Electronics,Headphones,4.0,12318.57,49274.28,Debit Card,Pending
+CUST0619,Zainab,Siddiqui,zainab.siddiqui201@gmail.com,+923189061692,Mardan,Regular,ORD00619,2025-05-18,Beauty,Face Wash,5.0,15020.61,75103.05,EasyPaisa,Pending
+CUST0620,Omar,Ali,omar.ali246@outlook.com, ,Swat,Premium,ORD00620,2025-09-16,Electronics,Smart Watch,2.0,28927.98,57855.96,JazzCash,Returned
+CUST0621,Ahmed,Ahmed,ahmed.ahmed546@example.com,+923745556818,Swat,VIP,ORD00621,2025-01-23,Clothing,Scarf,2.0,75060.78,150121.56,Bank Transfer,Pending
+CUST0622,Ali,Khalid,,+923057186389,Mardan,Premium,ORD00622,2025-08-25,,Cricket Bat,5.0,50025.87,250129.35,Credit Card,Completed
+CUST0623,Laiba,Khalid,laiba.khalid770@outlook.com,+923535354547, Lahore ,Corporate,ORD00623,2026-03-05,Beauty,Moisturizer,2.0,52361.63,104723.26,Debit Card,Cancelled
+CUST0624,Danish,Mehmood,danish.mehmood596@example.com,+923685160666,Peshawar,Premium,ORD00624,2026-08-28,Books,Data Science Handbook,4.0,60901.33,243605.32,Credit Card,Returned
+CUST0575,Ahmed,Afridi,ahmed.afridi403@gmail.com,+923708858764,Lahore,Regular,ORD00575,2026-06-07,Home & Kitchen,Cookware Set,2.0,34289.91,68579.82,Bank Transfer,Returned
+CUST0626,Zainab,Iqbal,zainab.iqbal462@example.com,+923464399416,Abbottabad,VIP,ORD00626,2025-11-19,Electronics,Power Bank,5.0,39680.2,198401.0,Debit Card,Cancelled
+CUST0627,Omar,Khan,,+923316236101,Faisalabad,Regular,ORD00627,2024-06-04,Clothing,Jacket,3.0,37683.1,113049.3,Credit Card,Completed
+CUST0628,Fatima,Ahmed,fatima.ahmed692@outlook.com,+923268460847,Mardan,VIP,ORD00628,2025-11-14,Home & Kitchen,Water Bottle,2.0,3494.35,6988.7,EasyPaisa,Pending
+CUST0629,Iqra,Siddiqui,iqra.siddiqui969@example.com,+923882466864,Peshawar,Corporate,ORD00629,2025-12-10,Electronics,Smart Watch,3.0,65513.95,196541.85,Credit Card,Returned
+CUST0630,Zainab,Malik,zainab.malik602@example.com,+923775789582,Quetta,VIP,ORD00630,2025-04-23,Beauty,Face Wash,4.0,63739.37,254957.48,Debit Card,Pending
+CUST0631,Noor,Khalid,noor.khalid31@outlook.com,+923149196669,Lahore,VIP,ORD00631,"Jul 10, 2026",Beauty,Face Wash,4.0,35649.05,142596.2,Bank Transfer,Cancelled
+CUST0632,Hamza,Malik,hamza.malik602@gmail.com,+923609431623,Peshawar,Premium,ORD00632,2025-09-05,Books,Data Science Handbook,4.0,36329.71,145318.84,Debit Card,Returned
+CUST0633,Omar,Malik,omar.malik112@outlook.com,+923611512082,Quetta,VIP,ORD00633,2025-01-20,Books,Python Basics,4.0,5649.36,22597.44,Credit Card,Completed
+CUST0634,Iqra,Shah,iqra.shah192@yahoo.com,+923074615426,Abbottabad,VIP,ORD00634,2026-09-27,Electronics,Headphones,5.0,70293.74,351468.7,Credit Card,Cancelled
+CUST0635,Danish,Ahmed,danish.ahmed335@example.com,+923419946090,Lahore,Regular,ORD00635,2024-01-23,Books,Data Science Handbook,5.0,5119.16,25595.8,JazzCash,Returned
+CUST0636,Laiba,Mehmood, ,+923878209248,Quetta,Premium,ORD00636,2024-09-23,Electronics,Smart Watch,2.0,33217.15,66434.3,JazzCash,Cancelled
+CUST0637,Zubair,Malik,,+923478600641,Islamabad,Corporate,ORD00637,2025-07-18,Sports,Football,4.0,60996.43,243985.72,JazzCash,Cancelled
+CUST0638,Zubair,Butt,zubair.butt662@example.com,+923372354161,Mardan,Corporate,ORD00638,2024-07-05,Books,Data Science Handbook,1.0,39463.44,39463.44,Bank Transfer,Pending
+CUST0639,Sara,Iqbal,sara.iqbal583@gmail.com,+923422572507,Peshawar,Premium,ORD00639,,Beauty,Moisturizer,4.0,36868.49,147473.96,Debit Card,Cancelled
+CUST0640,Ahmed,Mehmood,ahmed.mehmood781@gmail.com,+923395923044,Islamabad,Regular,ORD00640,2026-10-07,Beauty,Sunscreen,2.0,61474.2,122948.4,Bank Transfer,Returned
+CUST0641,Sara,Siddiqui,sara.siddiqui655@example.com,+923409262673,Swat,Corporate,ORD00641,2024-02-24,Clothing,Jeans,4.0,43138.97,172555.88,Bank Transfer,Completed
+CUST0642,Ayesha,Siddiqui, ,+923520506264,Quetta,Regular,ORD00642,31/10/2025,Electronics,Wireless Mouse,2.0,60346.19,120692.38,JazzCash,Pending
+CUST0643,Saad,Shah,saad.shah622@gmail.com,+923190306358,Mardan,Regular,ORD00643,2024-12-15,Books,Novel,,69781.16,139562.32,Credit Card,Completed
+CUST0644,Ayesha,Ali,ayesha.ali732@gmail.com,+923958516125,Faisalabad,Premium,ORD00644,2024-12-30,Home & Kitchen,Desk Lamp,3.0,13258.83,39776.49,EasyPaisa,Completed
+CUST0645,Danish,Ali,danish.ali316@example.com,+923056280451,Peshawar,Regular,ORD00645,2026-03-10,Beauty,Shampoo,-2.0,60965.78,60965.78,Credit Card,Pending
+CUST0646,Hira,Malik,hira.malik346@yahoo.com,+923730100976,Islamabad,Premium,ORD00646,2024-02-27,Clothing,T-Shirt,4.0,7995.0,31980.0,EasyPaisa,Pending
+CUST0647,Sara,Khan,sara.khan642@yahoo.com,+923670737907,Karachi,Corporate,ORD00647,2025-10-22,Books,Novel,3.0,43684.38,131053.14,Cash,Pending
+CUST0648,Hassan,Ahmed,hassan.ahmed324@gmail.com,+923417885994,Karachi,regular,ORD00648,2026-04-03,Home & Kitchen,Water Bottle,1.0,27655.42,27655.42,Cash,Cancelled
+CUST0649,Maham,Afridi,maham.afridi786@example.com,+923109321507,Faisalabad,Premium,ORD00649,2026-04-21,Electronics,Keyboard,2.0,5956.33,11912.66,Cash,Cancelled
+CUST0650,Omar,Ali,omar.ali494@gmail.com,+923359816489,Peshawar,Corporate,ORD00650,2025-10-13,Beauty,Shampoo,2.0,11515.94,23031.88,JazzCash,Pending
+CUST0651,Danish,Iqbal,danish.iqbal778@gmail.com,+923331623688,Karachi,Corporate,ORD00651,2024-02-13,Beauty,Moisturizer,2.0,84015.28,168030.56,JazzCash,Completed
+CUST0652,Ali,Shah,ali.shah210@gmail.com,+923255619239,Quetta, PREMIUM ,ORD00652,2024-11-06,Home & Kitchen,Water Bottle,2.0,42517.07,85034.14,Debit Card,cancel
+CUST0653,Ali,Raza,ali.raza868@outlook.com,+923368001834,Karachi,Premium,ORD00653,02-18-2024,Books,Python Basics,3.0,55171.93,165515.79,EasyPaisa,Pending
+CUST0654,Zainab,Iqbal,zainab.iqbal7@gmail.com,+923934012300,Quetta,Regular,ORD00654,2026-06-24,Books,Data Science Handbook,2.0,44444.75,88889.5,Cash,Pending
+CUST0655,Hassan,Shah,hassan.shah520@gmail.com,+923457671519,Quetta,VIP,ORD00655,2025-02-22,Electronics,Headphones,5.0,14969.03,74845.15,EasyPaisa,Pending
+CUST0656,Zainab,Yousafzai,zainab.yousafzai460@yahoo.com,+923291908293,Quetta,Regular,ORD00656,2025-08-07,Clothing,Jacket,3.0,51595.89,154787.67,Bank Transfer,Returned
+CUST0657,Sara,Butt,sara.butt840@example.com,+923021271982,Abbottabad,Corporate,ORD00657,2026-06-06,Books,Python Basics,5.0,36073.59,0,Debit Card,Pending
+CUST0658,Iqra,Mehmood,iqra.mehmood291@example.com,+923603595485,Quetta,Regular,ORD00658,2025-09-18,Clothing,Jacket,4.0,22055.47,88221.88,Credit Card,Returned
+CUST0659,Hassan,Shah,hassan.shah415@example.com,+923423751880,Swat,Corporate,ORD00659,2026-02-05,Clothing,Sneakers,5.0,604.3,3021.5,Debit Card,Completed
+CUST0660,Noor,Khan,noor.khan782@example.com,+923274081636,Swat,Corporate,ORD00660,2024-11-28,Electronics,Keyboard,5.0,32864.0,164320.0,EasyPaisa,Completed
+CUST0661,Omar,Yousafzai,,+923748904238,Lahore,VIP,ORD00661,2024-03-11,Beauty,Shampoo,4.0,21165.61,84662.44,EasyPaisa,Pending
+CUST0662,Bilal,Malik,bilal.malik790@gmail.com,+923691916428,Abbottabad,Corporate,ORD00662,2024-01-26,Sports,Yoga Mat,2.0,49264.47,98528.94,JazzCash,Pending
+CUST0663,Noor,Shah,abc@gmail,+923629298362,Mardan,Corporate,ORD00663,2026-10-22,Books,Python Basics,3.0,21680.84,65042.52,Cash,Cancelled
+CUST0664,Usman,Siddiqui,usman.siddiqui173@example.com,+923001694991,Islamabad,Regular,ORD00664,2025-09-22,Beauty,Shampoo,4.0,18007.29,72029.16,JazzCash,Returned
+CUST0665,Maryam,Mehmood,maryam.mehmood138@yahoo.com,+923522344543,Lahore,Regular,ORD00665,2025-01-16,Books,Novel,3.0,14711.25,44133.75,JazzCash,Pending
+CUST0666,Sara,Malik,sara.malik452@gmail.com,+923932396591,Lahore,Regular,ORD00666,2025-06-15,Electronics,Keyboard,2.0,63805.36,127610.72,Cash,Returned
+CUST0667,Fatima,Siddiqui,fatima.siddiqui497@gmail.com,+923010207613,Peshawar,,ORD00667,2025-04-25,Electronics,Wireless Mouse,5.0,29247.38,146236.9,EasyPaisa,Completed
+CUST0668,Fatima,Malik,fatima.malik485@outlook.com,+923648939011,PESHAWAR,VIP,ORD00668,2025-06-28,Sports,Dumbbells,4.0,67353.91,269415.64,EasyPaisa,Cancelled
+CUST0612,Saad,Raza,saad.raza610@gmail.com,+923636607029,Karachi,Premium,ORD00612,2024-07-29,Home & Kitchen,Cookware Set,1.0,50067.18,50067.18,Debit Card,Returned
+CUST0670,Usman,Khan,usman.khan770@yahoo.com,+923395598590,Quetta,Corporate,ORD00670,26/07/2025,Sports,Cricket Bat,5.0,10665.31,53326.55,EasyPaisa,Pending
+CUST0671,Ayesha,Ali,ayesha.ali334@example.com,+923250781693,Quetta,Corporate,ORD00671,2024-04-03,Home & Kitchen,Blender,3.0,1659.42,4978.26,Debit Card,Returned
+CUST0672,Laiba,Ali,laiba.ali200@yahoo.com,+923934003690,Faisalabad,Regular,ORD00672,2025-08-24,Beauty,Moisturizer,4.0,76965.93,307863.72,Bank Transfer,Completed
+CUST0673,Maryam,Saeed,maryam.saeed978@gmail.com,+923517724535,Faisalabad,Premium,ORD00673,2024-12-10,Beauty,Moisturizer,4.0,84686.83,N/A,Credit Card,Pending
+CUST0674,Ahmed,Ahmed,ahmed.ahmed925@example.com,+923822817838,Mardan,regular,ORD00674,2024-11-24,Books,Business Strategy,1.0,84437.38,84437.38,EasyPaisa,Returned
+CUST0675,Fatima,Ali,fatima.ali341@yahoo.com,+923618445315,Islamabad,VIP,ORD00675,2024-07-04,Clothing,Sneakers,4.0,78451.89,313807.56,EasyPaisa,Returned
+CUST0676,Iqra,Saeed,iqra.saeed298@gmail.com,+923119596078,Islamabad,VIP,ORD00676,2025-06-14,Books,Data Science Handbook,2.0,68765.92,137531.84,EasyPaisa,PENDING 
+CUST0677,Zubair,Afridi,zubair.afridi64@yahoo.com,+923909586665,Abbottabad,Corporate,ORD00677,2024-01-04,Clothing,Jacket,4.0,72569.74,290278.96,Debit Card,Pending
+CUST0678,Danish,Ali,danish.ali552@example.com,+923339223200,Lahore,VIP,ORD00678,2026-03-20,Sports,Football,1.0,50318.26,50318.26,Bank Transfer,Returned
+CUST0679,Usman,Iqbal,,+923293617431,Swat ,Premium,ORD00679,2025-10-17,Home & Kitchen,Desk Lamp,1.0,,12612.54,Debit Card,Returned
+CUST0680,Ali,Khalid,ali.khalid754@gmail.com,+923991233197,Lahore,Corporate,ORD00680,2025-04-05,Home & Kitchen,Desk Lamp,2.0,13191.51,26383.02,Debit Card,Pending
+CUST0681,Ayesha,Raza,ayesha.raza401@gmail.com,+923566768643,Mardan,VIP,ORD00681,2025-12-14,Books,Data Science Handbook,4.0,28845.51,115382.04,EasyPaisa,Returned
+CUST0682,Fatima,Shah,fatima.shah312@example.com,+923702907889,Lahore,Premium,ORD00682,2024-04-20,Home & Kitchen,Desk Lamp,5.0,64004.58,320022.9,EasyPaisa,Returned
+CUST0683,Maryam,Shah,maryam.shah744@gmail.com,+923728338194,Lahore,Corporate,ORD00683,2024-01-19,Clothing,Sneakers,2.0,18737.07,37474.14,EasyPaisa,Pending
+CUST0684,Ali,Ahmed,ali.ahmed528@outlook.com,+923637150229,Abbottabad,Premium,ORD00684,2024-04-17,Home & Kitchen,Desk Lamp,2.0,82809.95,165619.9,Credit Card,Completed
+CUST0685,Fatima,Malik,fatima.malik764@example.com,+923833062386,Islamabad,Corporate,ORD00685,2024-12-19,Books,Novel,5.0,41661.04,208305.2,Debit Card,Returned
+CUST0686,Hira,Khan,hira.khan685@yahoo.com,,Quetta,VIP,ORD00686,2026-09-28,Electronics,Wireless Mouse,1.0,10134.19,10134.19,JazzCash,Pending
+CUST0687,Omar,Butt,omar.butt334@gmail.com,+923766402704,Faisalabad,Premium,ORD00687,2024-09-13,Beauty,Shampoo,3.0,59806.96,179420.88,EasyPaisa,Completed
+CUST0688,Omar,Raza,,+923809073286,Karachi,Regular,ORD00688,2026-09-27,Sports,Football,5.0,66649.47,333247.35,JazzCash,Pending
+CUST0689,Ayesha,Raza,ayesha.raza589@yahoo.com,+923700767402,Lahore,,ORD00689,2024-03-21,Books,Business Strategy,1.0,68093.47,68093.47,Cash,Completed
+CUST0690,Fatima,Raza,fatima.raza968@gmail.com,+923266649918,Mardan,Regular,ORD00690,2024-12-17,Home & Kitchen,Cookware Set,5.0,31061.68,155308.4,EasyPaisa,Returned
+CUST0691,Usman,Iqbal,usman.iqbal552@yahoo.com,+923738659551,Islamabad,Regular,ORD00691,2025-12-22,Books,Data Science Handbook,5.0,59159.85,295799.25,Cash,Pending
+CUST0692,Usman,Siddiqui,usman.siddiqui368@outlook.com,+923137967359,Abbottabad,Regular,ORD00692,2025-03-18,Clothing,Scarf,5.0,81391.59,406957.95,Debit Card,Cancelled
+CUST0693,Omar,Ali,omar.ali436@yahoo.com,,Karachi,Regular,ORD00693,2025-06-04,Clothing,Jacket,1.0,34155.03,N/A,EasyPaisa,Pending
+CUST0694,Hira,Iqbal,hira.iqbal842@yahoo.com,+923339689322,Abbottabad,Corporate,ORD00694,2024-12-01,Beauty,Face Wash,5.0,55148.6,275743.0,JazzCash,Pending
+CUST0695,Ahmed,Siddiqui,ahmed.siddiqui338@gmail.com,+923389574448,Swat,VIP,ORD00695,2026-04-13,Electronics,Headphones,5.0,45292.1,226460.5,Credit Card,Cancelled
+CUST0696,Ayesha,Ahmed,ayesha.ahmed802@gmail.com,+923188690127,Faisalabad,VIP,ORD00696,2026-02-14,Books,Novel,2.0,83261.37,166522.74,Cash,Cancelled
+CUST0697,Zubair,Saeed,zubair.saeed175@outlook.com,+923807317394,Abbottabad,Premium,ORD00697,2024-07-21,Home & Kitchen,Cookware Set,5.0,46993.2,234966.0,EasyPaisa,Returned
+CUST0698,Laiba,Iqbal,laiba.iqbal130@yahoo.com,+923406734117,Mardan,Regular,ORD00698,2024-11-14,Clothing,Jacket,5.0,22205.42,111027.1,EasyPaisa,Pending
+CUST0699,Maham,Yousafzai,maham.yousafzai515@outlook.com,+923296162658,Abbottabad,Premium,ORD00699,2025-12-25,Beauty,Sunscreen,4.0,39047.41,156189.64,EasyPaisa,Completed
+CUST0700,Maryam,Yousafzai,maryam.yousafzai246@gmail.com,+923177288866,Peshawar,Regular,ORD00700,2024-06-06,Home & Kitchen,Cookware Set,1.0,71884.57,71884.57,JazzCash,Returned
+CUST0701,Ayesha,Yousafzai,ayesha.yousafzai528@gmail.com,+923435371662,Peshawar,Premium,ORD00701,2026-09-09,Beauty,Face Wash,2.0,43360.83,86721.66,EasyPaisa,Returned
+CUST0702,Iqra,Mehmood,iqra.mehmood460@yahoo.com,+923724262657,Faisalabad,Premium,ORD00702,2024-03-27,Home & Kitchen,Water Bottle,5.0,20948.17,104740.85,Cash,Cancelled
+CUST0703,Usman,Raza,usman.raza175@outlook.com,+923121583552,Swat,Premium,ORD00703,2026-10-11,Home & Kitchen,Blender,4.0,80972.99,323891.96,Debit Card,Cancelled
+CUST0704,Laiba,Siddiqui,laiba.siddiqui946@outlook.com,+923997623197,Faisalabad,Regular,ORD00704,2026-03-17,Home & Kitchen,Desk Lamp,5.0,18307.34,91536.7,JazzCash,Returned
+CUST0705,Ali,Afridi,ali.afridi110@gmail.com,+923375510815,Lahore,Corporate,ORD00705,"Sep 03, 2025",Electronics,Keyboard,,52416.19,157248.57,Cash,Completed
+CUST0706,Noor,Butt,noor.butt127@example.com,+923007420042,Lahore,VIP,ORD00706,2024-11-10,,Jeans,5.0,7432.04,37160.2,Bank Transfer,Returned
+CUST0707,Hira,Siddiqui,hira.siddiqui450@example.com,+923173768263,Lahore,VIP,ORD00707,2025-07-05,Home & Kitchen,Desk Lamp,2.0,36551.94,73103.88,Cash,Cancelled
+CUST0708,Hassan,Ahmed,hassan.ahmed762@outlook.com,+923967439037,Peshawar,Premium,ORD00708,2026-03-19,Clothing,Jeans,2.0,24395.26,48790.52,Bank Transfer,Cancelled
+CUST0603,Bilal,Butt,bilal.butt841@example.com,+923119127926,,Corporate,ORD00603,2024-01-15,Beauty,Moisturizer,2.0,60165.54,120331.08,JazzCash,Pending
+CUST0710,Hira,Raza,hira.raza850@outlook.com,+923461349329,Peshawar,Corporate,ORD00710,2024-04-16,Electronics,Power Bank,2.0,65285.87,130571.74,Debit Card,Cancelled
+CUST0711,Laiba,Ahmed,laiba.ahmed288@gmail.com,+923927892045,Mardan,Premium,ORD00711,2025-01-17,Books,Novel,2.0,21246.58,99999999.0,Credit Card,Returned
+CUST0712,Fatima,Mehmood,fatima.mehmood645@yahoo.com,+923246299407,Islamabad,Premium,ORD00712,2025-01-21,Beauty,Shampoo,2.0,42822.8,85645.6,Cash,Cancelled
+CUST0713,Hassan,Shah,hassan.shah390@example.com,+923563683515,Mardan,Premium,ORD00713,2024-07-05,Books,Data Science Handbook,2.0,1746.8,3493.6,Debit Card,cancel
+CUST0714,Laiba,Khan,laiba.khan276@outlook.com,+923301244644,Swat,Corporate,ORD00714,2025-09-15,Sports,Football,1.0,36444.42,36444.42,Debit Card,Completed
+CUST0715,Sara,Khan,sara.khan484@outlook.com,+923975475091,Islamabad,Corporate,ORD00715,2025-03-10,Electronics,Headphones,3.0,4668.07,14004.21,Debit Card,Returned
+CUST0708,Hassan,Ahmed,hassan.ahmed762@outlook.com,+923967439037,Peshawar,Premium,ORD00708,2026-03-19,Clothing,Jeans,2.0,24395.26,48790.52,Bank Transfer,Cancelled
+CUST0717,Hassan,Iqbal,hassan.iqbal761@gmail.com,+923044065218,Karachi,Premium,ORD00717,2024-09-24,Books,Novel,1.0,7642.84,7642.84,Cash,Completed
+CUST0718,Iqra,Iqbal,iqra.iqbal739@yahoo.com,+923047041818,Lahore,Premium,ORD00718,2025-02-17,Home & Kitchen,Desk Lamp,4.0,25800.13,103200.52,JazzCash,Cancelled
+CUST0719,Iqra,Afridi,iqra.afridi495@example.com,+923562385981,PESHAWAR,Regular,ORD00719,2026-06-12,Home & Kitchen,Water Bottle,1.0,38258.87,38258.87,JazzCash,Cancelled
+CUST0720,Usman,Siddiqui,usman.siddiqui835@example.com,+923531530009,Faisalabad,Regular,ORD00720,2025-01-24,Electronics,Headphones,1.0,81254.3,81254.3,Easy Paisa,Returned
+CUST0721,Iqra,Khalid,iqra.khalid4@yahoo.com,+923614070777,Karachi,Regular,ORD00721,2025-02-27,Books,Novel,3.0,34221.95,102665.85,JazzCash,Cancelled
+CUST0722,Maryam,Saeed,maryam.saeed230@gmail.com,+923572911909,Karachi,VIP,ORD00722,2024-08-31,Clothing,T-Shirt,3.0,25366.82,76100.46,EasyPaisa,PENDING 
+CUST0723,Bilal,Shah,bilal.shah548@gmail.com,+923001503196,Swat,VIP,ORD00723,2025-05-24,Home & Kitchen,Cookware Set,1.0,74269.2,74269.2,Cash,Cancelled
+CUST0724,Usman,Yousafzai,usman.yousafzai225@outlook.com,+923189768018,Mardan,Regular,ORD00724,2024-01-22,Sports,Yoga Mat,1.0,25242.38,25242.38,EasyPaisa,Returned
+CUST0725,Bilal,Saeed,bilal.saeed226@outlook.com,+923288614830,Karachi,Corporate,ORD00725,2025-02-26,Beauty,Moisturizer,5.0,54007.39,270036.95,Bank Transfer,Pending
+CUST0726,Noor,Afridi,noor.afridi471@yahoo.com,+923875741671,Lahore,Premium,ORD00726,2026-10-12,Clothing,Scarf,1.0,76708.75,76708.75,Bank Transfer,Pending
+CUST0727,Maryam,Khan,maryam.khan623@yahoo.com,+923074575794,Lahore,Regular,ORD00727,2026-03-18,Home & Kitchen,Desk Lamp,2.0,14057.36,28114.72,Credit Card,Returned
+CUST0728,Omar,Ahmed,omar.ahmed394@gmail.com,+923118149731,Peshawar,Regular,ORD00728,2024-07-23,Beauty,Moisturizer,1.0,44894.48,44894.48,Credit Card,Completed
+CUST0729,Bilal,Shah,bilal.shah754@outlook.com,+923915601355,Islamabad,Premium,ORD00729,2024-08-05,Beauty,Moisturizer,1.0,51069.25,51069.25,Bank Transfer,Returned
+CUST0730,Sara,Siddiqui,sara.siddiqui709@outlook.com,,Faisalabad,Regular,ORD00730,2024-04-24,Home & Kitchen,Blender,2.0,40837.49,81674.98,Cash,Completed
+CUST0731,Iqra,Siddiqui,iqra.siddiqui935@yahoo.com,+923025770743,Karachi,Corporate,ORD00731,2024-10-17,Electronics,Power Bank,4.0,43603.22,174412.88,Credit Card,Cancelled
+CUST0732,Maryam,Malik,maryam.malik113@yahoo.com,+923109238468,MARDAN,VIP,ORD00732,2026-10-04,Beauty,Face Wash,1.0,32857.04,32857.04,JazzCash,Cancelled
+CUST0733,Fatima,Afridi,fatima.afridi439@outlook.com,+923643827930,Lahore,Corporate,ORD00733,2024-11-05,Electronics,Headphones,5.0,76150.96,380754.8,EasyPaisa,Cancelled
+CUST0734,Maham,Saeed,maham.saeed678@outlook.com,+923284972125,Islamabad,Regular,ORD00734,2025-07-09,Home & Kitchen,Water Bottle,1.0,29775.69,29775.69,CREDIT CARD,Pending
+CUST0735,Hamza,Shah,hamza.shah592@example.com,+923780296481,Mardan,Premium,ORD00735,2024-05-17,Books,Python Basics,4.0,38107.43,152429.72,Debit Card,Pending
+CUST0736,Sara,Khalid,sara.khalid711@example.com,+923646116751,Swat ,Premium,ORD00736,2026-05-18,Books,Data Science Handbook,4.0,30133.59,120534.36,Bank Transfer,Returned
+CUST0737,Iqra,Butt,iqra.butt86@example.com,+923565803901,Karachi,Regular,ORD00737,2025-04-16,Sports,Football,5.0,45487.06,227435.3,Debit Card,Completed
+CUST0738,Hassan,Saeed,,+923387468897,Lahore,VIP,ORD00738,2024-09-30,Electronics,Power Bank,4.0,30963.27,123853.08,Credit Card,Returned
+CUST0739,Zainab,Malik,zainab.malik721@yahoo.com,,Swat ,Corporate,ORD00739,08-28-2024,Clothing,Jacket,2.0,4984.62,9969.24,Cash,Completed
+CUST0740,Zubair,Ahmed,zubair.ahmed375@yahoo.com,+923084818406,Swat ,Regular,ORD00740,2024-03-02,Books,Python Basics,2.0,71222.8,142445.6,Easy Paisa,Returned
+CUST0741,Usman,Khalid,,+923476713058,Peshawar,VIP,ORD00741,2025-09-05,Clothing,T-Shirt,2.0,40062.56,80125.12,Credit Card,Completed
+CUST0742,Ali,Iqbal,ali.iqbal697@example.com,+923595020389,Mardan,VIP,ORD00742,2026-03-22,Clothing,Jeans,1.0,42904.29,42904.29,Bank Transfer,Pending
+CUST0743,Bilal,Ahmed,bilal.ahmed634@gmail.com,+923235048971,Abbottabad, PREMIUM ,ORD00743,2025-03-09,Sports,Yoga Mat,2.0,32248.23,64496.46,EasyPaisa,Returned
+CUST0744,Laiba,Afridi,laiba.afridi823@outlook.com,+923694332141,Abbottabad,Premium,ORD00744,2024-12-03,Beauty,Sunscreen,4.0,54650.25,218601.0,Cash,Completed
+CUST0745,Ahmed,Afridi,ahmed.afridi289@yahoo.com,+923581504122,Islamabad,Regular,ORD00745,2024-02-27,Sports,Football,3.0,66253.07,198759.21,JazzCash,Completed
+CUST0746,Maryam,Malik,maryam.malik88@gmail.com,+923605310487,Quetta,Regular,ORD00746,2025-05-07,Sports,Yoga Mat,1.0,17346.27,17346.27,Debit Card,Completed
+CUST0747,Maryam,Khan,maryam.khan323@example.com,+923779201690,Swat,Premium,ORD00747,2026-10-21,Home & Kitchen,Blender,4.0,63954.83,0.0,Debit Card,Returned
+CUST0748,Danish,Ahmed,danish.ahmed816@example.com,+923512124417,Peshawar,VIP,ORD00748,2024-02-18,Sports,Football,2.0,68685.14,137370.28,Credit Card,Returned
+CUST0749,Ahmed,Ali,ahmed.ali670@yahoo.com,+923825520324,Lahore,VIP,ORD00749,2025-03-17,Electronics,Power Bank,2.0,81001.35,162002.7,Credit Card,Cancelled
+CUST0750,Maryam,Afridi,maryam.afridi793@example.com,+923256743087,Karachi,REGULAR,ORD00750,2024-03-22,Sports,Football,4.0,72791.98,291167.92,JazzCash,Returned
+CUST0751,Fatima,Khalid,fatima.khalid97@example.com,+923336852895,Lahore,,ORD00751,2024-06-27,Electronics,Headphones,3.0,12337.26,37011.78,Cash,Cancelled
+CUST0752,Zubair,Afridi,zubair.afridi485@outlook.com,+923819422169,Quetta,Premium,ORD00752,,Home & Kitchen,Blender,2.0,7812.18,15624.36,JazzCash,Returned
+CUST0753,Ali,Afridi,ali.afridi376@outlook.com,+923401239174,Islamabad,Corporate,ORD00753,2024-09-21,Home & Kitchen,Desk Lamp,5.0,34229.6,171148.0,Debit Card,Completed
+CUST0754,Maham,Ali,maham.ali874@gmail.com,+923312094443,Abbottabad,Premium,ORD00754,2024-01-17,Electronics,Smart Watch,2.0,63053.36,126106.72,Bank Transfer,Completed
+CUST0755,Zainab,Yousafzai,zainab.yousafzai658@example.com,+923117165692,Islamabad,Premium,ORD00755,2026-08-12,Books,Python Basics,3.0,56960.51,170881.53,Bank Transfer,Returned
+CUST0756,Hassan,Yousafzai,hassan.yousafzai720@example.com,+923122757072,Mardan,Corporate,ORD00756,2026-09-22,Home & Kitchen,Blender,3.0,5713.96,17141.88,JazzCash,Pending
+CUST0757,Laiba,Shah,laiba.shah793@example.com,+923067001765,Swat,Corporate,ORD00757,2024-03-05,Beauty,Shampoo,5.0,18341.59,91707.95,Credit Card,Completed
+CUST0758,Hassan,Saeed,hassan.saeed651@yahoo.com,+923089755462,Lahore,Regular,ORD00758,2025-07-06,Electronics,Keyboard,4.0,80986.66,323946.64,Bank Transfer,Completed
+CUST0759,Maryam,Saeed,maryam.saeed915@outlook.com,+923197652556,Peshawar,Regular,ORD00759,2025-03-14,Beauty,Shampoo,4.0,38507.92,154031.68,Debit Card,Cancelled
+CUST0760,Sara,Malik,sara.malik706@yahoo.com,+923748065282,Abbottabad,VIP,ORD00760,2026-08-31,Home & Kitchen,Desk Lamp,4.0,80079.55,320318.2,Cash,Pending
+CUST0761,Ahmed,Mehmood,ahmed.mehmood844@outlook.com,+923015232939,Lahore,Corporate,ORD00761,2025-10-25,Beauty,Moisturizer,2.0,49276.97,98553.94,Bank Transfer,COMPLETED
+CUST0762,Fatima,Khalid,,+923681066979,Quetta,Regular,ORD00762,2024-01-08,Beauty,Face Wash,5.0,34691.27,173456.35,Credit Card,Pending
+CUST0763,Noor,Mehmood,noor.mehmood357@yahoo.com,+923205255412,Peshawar,VIP,ORD00763,2026-02-12,Sports,Dumbbells,5.0,65879.08,329395.4,Cash,Cancelled
+CUST0679,Usman,Iqbal,,+923293617431,Swat ,Premium,ORD00679,2025-10-17,Home & Kitchen,Desk Lamp,1.0,,12612.54,Debit Card,Returned
+CUST0765,Sara,Butt,sara.butt447@example.com,+923306046409,Abbottabad,REGULAR,ORD00765,2024-11-29,Books,Python Basics,5.0,31872.05,159360.25,Cash,Completed
+CUST0766,Ahmed,Ali,ahmed.ali768@gmail.com,+923680242454,Quetta,Regular,ORD00766,2024-07-31,Electronics,Keyboard,4.0,52478.07,209912.28,Bank Transfer,Pending
+CUST0767,Zainab,Khalid,zainab.khalid974@gmail.com,+923376468571,Quetta,Corporate,ORD00767,2025-02-04,Books,Novel,1.0,46997.08,46997.08,Cash,Cancelled
+CUST0768,Zainab,Raza,zainab.raza690@yahoo.com,+923004464143,Abbottabad,Regular,ORD00768,2025-09-21,Home & Kitchen,Blender,3.0,22929.87,68789.61,Cash,Pending
+CUST0769,Hira,Saeed,hira.saeed175@example.com,+923259664179,Faisalabad,Corporate,ORD00769,2025-10-12,Sports,Football,5.0,69747.91,348739.55,JazzCash,Returned
+CUST0770,Ali,Khalid,ali.khalid926@outlook.com,+923555422035,Lahore,Corporate,ORD00770,2024-12-21,Sports,Football,4.0,36616.43,146465.72,Cash,Pending
+CUST0771,Danish,Ahmed,danish.ahmed163@outlook.com,+923218788403,Islamabad,Regular,ORD00771,2025-06-16,Beauty,Face Wash,4.0,49145.14,196580.56,CREDIT CARD,Completed
+CUST0772,Zubair,Shah,zubair.shah392@gmail.com,+923797081101,Lahore,Corporate,ORD00772,2024-06-10,Electronics,Keyboard,5.0,52633.94,526339.4,Credit Card,Pending
+CUST0773,Zainab,Siddiqui,zainab.siddiqui676@gmail.com,+923295241238,Islamabad,Premium,ORD00773,2026-02-13,Clothing,T-Shirt,2.0,45626.61,91253.22,EasyPaisa,Completed
+CUST0774,Fatima,Butt,fatima.butt917@yahoo.com,+923099618698,Islamabad,Corporate,ORD00774,not available,Sports,Dumbbells,2.0,10647.5,21295.0,Credit Card,Returned
+CUST0775,Fatima,Butt,fatima.butt704@example.com,+923402926308,Swat,Corporate,ORD00775,2024-06-05,Electronics,Headphones,4.0,35314.9,141259.6,Credit Card,Cancelled
+CUST0776,Ayesha,Shah,ayesha.shah352@outlook.com,+923519595468,Faisalabad,Regular,ORD00776,2024-03-05,Beauty,Moisturizer,5.0,48328.15,241640.75,JazzCash,Cancelled
+CUST0777,Fatima,Malik,fatima.malik888@outlook.com,+923123253165,Karachi,Regular,ORD00777,2024-11-08,Sports,Dumbbells,1.0,2754.81,2754.81,Credit Card,Pending
+CUST0778,Ahmed,Mehmood,ahmed.mehmood205@gmail.com,+923374256340,Faisalabad,VIP,ORD00778,14/07/2025,Beauty,Shampoo,3.0,79902.13,239706.39,cash,Returned
+CUST0779,Noor,Raza,noor.raza704@outlook.com,+923421793625,Islamabad,VIP,ORD00779,2024-12-20,Books,Data Science Handbook,3.0,78419.0,235257.0,Credit Card,Returned
+CUST0780,Noor,Butt,noor.butt111@example.com,+923460971296,Karachi,VIP,ORD00780,2025-10-14,Books,Business Strategy,3.0,50788.95,76183.42,EasyPaisa,Completed
+CUST0738,Hassan,Saeed,,+923387468897,Lahore,VIP,ORD00738,2024-09-30,Electronics,Power Bank,4.0,30963.27,123853.08,Credit Card,Returned
+CUST0782,Sara,Afridi,sara.afridi799@outlook.com,+923131322499,Peshawar,VIP,ORD00782,2026-01-31,Clothing,T-Shirt,3.0,,19218.81,EasyPaisa,Cancelled
+CUST0783,Hassan,Butt,hassan.butt291@yahoo.com,+923566143648,Karachi,Regular,ORD00783,2024-05-15,Sports,Dumbbells,2.0,67646.54,135293.08,EasyPaisa,Completed
+CUST0784,Zubair,Ali,zubair.ali203@yahoo.com,+923053321738,Quetta,Corporate,ORD00784,2025-10-12,Books,Python Basics,4.0,58060.68,232242.72,Debit Card,Returned
+CUST0785,Fatima,Ahmed,fatima.ahmed591@gmail.com, ,Peshawar,Regular,ORD00785,2026-02-23,Books,Novel,3.0,14754.09,44262.27,Debit Card,Pending
+CUST0786,Omar,Khan,omar.khan17@gmail.com,+923504544144,Islamabad,Corporate,ORD00786,2025-11-21,Sports,Dumbbells,1.0,78053.42,78053.42,Debit Card,Cancelled
+CUST0787,Hira,Yousafzai,hira.yousafzai49@example.com,+923320451603,Quetta,Corporate,ORD00787,2026-10-08,Electronics,Wireless Mouse,3.0,47409.15,142227.45,Debit Card,Completed
+CUST0788,Ayesha,Malik,ayesha.malik883@example.com,+923243032073,Lahore,Regular,ORD00788,2024-08-03,Electronics,Headphones,2.0,70207.44,140414.88,EasyPaisa,Cancelled
+CUST0789,Iqra,Khan,iqra.khan50@outlook.com,+923080575920,Swat ,VIP,ORD00789,2024-03-29,Beauty,Shampoo,3.0,73814.26,221442.78,Debit Card,Pending
+CUST0790,Usman,Iqbal,usman.iqbal910@example.com,+923683870083,Quetta,Regular,ORD00790,2024-10-30,Books,Data Science Handbook,0,10411.65,0.0,JazzCash,Returned
+CUST0791,Laiba,Siddiqui,laiba.siddiqui271@outlook.com,+923763839938,Islamabad,VIP,ORD00791,2025-04-07,Home & Kitchen,Water Bottle,4.0,,262926.32,EasyPaisa,Pending
+CUST0792,Ahmed,Ahmed,ahmed.ahmed839@example.com,+923201774803,Quetta, PREMIUM ,ORD00792,2025-03-18,Books,Business Strategy,1.0,5357.62,5357.62,Credit Card,Cancelled
+CUST0793,Maryam,Mehmood,maryam.mehmood225@outlook.com,+923414008800,Quetta,Premium,ORD00793,2024-08-04,Books,Novel,5.0,55785.77,278928.85,Credit Card,Completed
+CUST0794,Bilal,Yousafzai,bilal.yousafzai473@gmail.com,+923799965574,Islamabad,Premium,ORD00794,2024-07-28,Clothing,T-Shirt,5.0,58411.04,292055.2,Bank Transfer,Pending
+CUST0795,Bilal,Khan,bilal.khan122@gmail.com,+923380562915,Abbottabad,Premium,ORD00795,2025-12-21,Books,Data Science Handbook,4.0,56344.8,225379.2,Bank Transfer,Returned
+CUST0796,Danish,Afridi,danish.afridi665@example.com,+923785980740,,Premium,ORD00796,2024-07-19,Electronics,Keyboard,3.0,37653.62,112960.86,Credit Card,Returned
+CUST0797,Sara,Iqbal,sara.iqbal698@gmail.com,+923694007506,Karachi,Regular,ORD00797,2026-06-06,Home & Kitchen,Water Bottle,4.0,45130.44,270782.64,Cash,Completed
+CUST0798,Ali,Iqbal,ali.iqbal232@example.com,+923420808111,Abbottabad,Regular,ORD00798,2024-07-25,Home & Kitchen,Water Bottle,5.0,20485.51,102427.55,EasyPaisa,Cancelled
+CUST0799,Laiba,Malik,laiba.malik611@outlook.com,+923788000093, Lahore ,Regular,ORD00799,2025-08-12,Clothing,Jeans,3.0,66840.42,200521.26,cash,Returned
+CUST0800,Maryam,Saeed,maryam.saeed192@outlook.com,+923966227216,Quetta,Premium,ORD00800,2024-05-22,Beauty,Face Wash,3.0,20473.0,61419.0,EasyPaisa,Returned
+CUST0801,Noor,Afridi,noor.afridi696@gmail.com,+923637808176,Swat,Corporate,ORD00801,2024-06-06,Electronics,Smart Watch,3.0,15294.4,45883.2,CREDIT CARD,Returned
+CUST0802,Zainab,Butt,zainab.butt538@yahoo.com,+923810667004,Lahore,Regular,ORD00802,2025-08-18,Electronics,Wireless Mouse,1.0,4078.71,4078.71,Debit Card,Cancelled
+CUST0803,Saad,Butt,saad.butt499@outlook.com,+923391152693,Quetta,Regular,ORD00803,2025-06-11,Beauty,Sunscreen,5.0,29978.69,149893.45,Debit Card,Cancelled
+CUST0804,Danish,Khalid,danish.khalid277@gmail.com,+923158806824,Abbottabad,,ORD00804,18/09/2026,Beauty,Moisturizer,5.0,72877.03,364385.15,Debit Card,Returned
+CUST0805,Ayesha,Malik,ayesha.malik763@gmail.com,+923208136381,Abbottabad,Regular,ORD00805,2026-01-06,Sports,Dumbbells,4.0,63050.8,252203.2,EasyPaisa,Returned
+CUST0806,Danish,Shah,danish.shah604@example.com,+923296618097,Mardan,Premium,ORD00806,2025-11-09,Home & Kitchen,Blender,3.0,77400.24,232200.72,JazzCash,Cancelled
+CUST0807,Maham,Ahmed,maham.ahmed113@gmail.com,+923535718802,Lahore,Corporate,ORD00807,2025-12-11,Books,Data Science Handbook,5.0,67654.46,338272.3,JazzCash,Cancelled
+CUST0808,Maham,Raza,maham.raza819@outlook.com,+923016742210,Quetta,Regular,ORD00808,2025-08-13,Beauty,Moisturizer,4.0,14030.93,56123.72,Debit Card,Completed
+CUST0809,Ali,Butt,ali.butt258@yahoo.com,+923376043961,MARDAN,Premium,ORD00809,2024-01-02,Home & Kitchen,Blender,3.0,681.4,2044.2,EasyPaisa,Cancelled
+CUST0810,Usman,Mehmood,usman.mehmood33@example.com,+923380783468,Karachi,Corporate,ORD00810,2025-08-18,Clothing,Sneakers,1.0,36866.3,36866.3,Bank Transfer,Completed
+CUST0811,Bilal,Siddiqui,bilal.siddiqui897@outlook.com,+923863696719,Lahore,Premium,ORD00811,2026-06-11,Sports,Dumbbells,5.0,26584.86,132924.3,Credit Card,Returned
+CUST0812,Iqra,Malik,,12345,Abbottabad,Regular,ORD00812,2026-08-02,Home & Kitchen,Water Bottle,3.0,26098.42,78295.26,cash,Returned
+CUST0813,Hamza,Raza,hamza.raza478@example.com,,Quetta,Regular,ORD00813,2025-12-26,Beauty,Face Wash,4.0,60642.72,242570.88,Bank Transfer,Completed
+CUST0814,Usman,Iqbal,usman.iqbal636@outlook.com,+923057483870,Abbottabad,Premium,ORD00814,2026-02-03,Home & Kitchen,Desk Lamp,5.0,66917.07,334585.35,EasyPaisa,Completed
+CUST0815,Saad,Khalid,saad.khalid277@gmail.com,+923358075133,Islamabad,Vip,ORD00815,2024-06-22,Sports,Cricket Bat,1.0,-500.0,39253.71,EasyPaisa,Cancelled
+CUST0816,Ali,Ahmed,ali.ahmed210@yahoo.com,+923603495788,Quetta,REGULAR,ORD00816,2024-04-18,Beauty,Moisturizer,5.0,49796.33,248981.65,EasyPaisa,Pending
+CUST0817,Maryam,Ali,maryam.ali705@yahoo.com,+923123167705,Islamabad,Regular,ORD00817,2026-09-20,Home & Kitchen,Water Bottle,1.0,61197.29,61197.29,JazzCash,Completed
+CUST0818,Danish,Ahmed,danish.ahmed455@example.com,+923059757124,Islamabad,VIP,ORD00818,2024-02-20,Clothing,Sneakers,4.0,17563.89,70255.56,Bank Transfer,Pending
+CUST0819,Zainab,Saeed,zainab.saeed632@gmail.com,+923464236248,Lahore,Regular,ORD00819,2026-06-18,Sports,Football,5.0,22308.01,111540.05,Credit Card,Pending
+CUST0820,Sara,Raza,sara.raza297@outlook.com,+923716760816,Islamabad,Corporate,ORD00820,2026-09-02,Beauty,Sunscreen,2.0,59543.53,119087.06,EasyPaisa,Cancelled
+CUST0821,Omar,Yousafzai,omar.yousafzai152@gmail.com,+923304322294,Quetta,Regular,ORD00821,2026-05-03,Beauty,Shampoo,4.0,68037.73,272150.92,Cash,Cancelled
+CUST0822,Ali,Ali,ali.ali930@outlook.com,+923149576019,Quetta,Corporate,ORD00822,06-29-2026,Beauty,Sunscreen,5.0,75950.48,379752.4,Cash,Pending
+CUST0823,Hira,Raza,hira.raza65@yahoo.com,+923704287932, Lahore ,VIP,ORD00823,2026-03-10,Sports,Dumbbells,5.0,18113.62,0.0,Bank Transfer,Pending
+CUST0824,Bilal,Khalid,bilal.khalid496@example.com,+923506540191,Lahore,VIP,ORD00824,2024-05-19,Beauty,Moisturizer,4.0,25923.31,103693.24,EasyPaisa,Cancelled
+CUST0825,Zubair,Iqbal,zubair.iqbal31@yahoo.com,+923248790611,Islamabad,Regular,ORD00825,2024-05-18,Home & Kitchen,Desk Lamp,4.0,49785.8,99571.6,EasyPaisa,Returned
+CUST0826,Hamza,Khalid,hamza.khalid746@example.com,+923811548967,Abbottabad,Regular,ORD00826,2024-08-03,Clothing,T-Shirt,2.0,,166835.16,JazzCash,Cancelled
+CUST0827,Fatima,Khan,fatima.khan329@gmail.com,+923750251037,Quetta,Corporate,ORD00827,2024-03-01,Beauty,Moisturizer,five,6426.72,19280.16,EasyPaisa,Pending
+CUST0828,Hassan,Siddiqui,hassan.siddiqui760@yahoo.com,+923466071607,Faisalabad,Premium,ORD00828,2025-04-06,Books,Python Basics,3.0,37329.38,111988.14,JazzCash,Completed
+CUST0829,Fatima,Malik,fatima.malik582@gmail.com,+923365835988,Lahore,Corporate,ORD00829,2026-01-06,Electronics,Headphones,1.0,68898.25,34449.12,Credit Card,Returned
+CUST0830,Danish,Afridi,danish.afridi450@example.com,+923671594051,Abbottabad,Regular,ORD00830,2024-10-09,Home & Kitchen,Blender,5.0,52666.08,394995.6,Credit Card,Cancelled
+CUST0831,Fatima,Ahmed,fatima.ahmed230@outlook.com,+923990283447,Mardan,Corporate,ORD00831,2025-11-08,Books,Business Strategy,5.0,19791.1,98955.5,Cash,Pending
+CUST0832,Maryam,Ahmed,maryam.ahmed409@gmail.com,+923586200347,Islamabad,Corporate,ORD00832,2026-10-21,Sports,Dumbbells,5.0,49011.41,245057.05,EasyPaisa,Completed
+CUST0833,Ali,Afridi,ali.afridi210@outlook.com,+923992324553,Peshawar,Premium,ORD00833,2024-05-01,Books,Novel,3.0,22359.67,67079.01,Cash,Completed
+CUST0834,Hira,Ahmed,hira.ahmed491@yahoo.com,+923290456188,Peshawar,,ORD00834,2024-06-14,Books,Python Basics,5.0,50943.01,254715.05,Bank Transfer,Pending
+CUST0835,Hira,Yousafzai,hira.yousafzai27@yahoo.com,+923573577697,Abbottabad,Regular,ORD00835,"Feb 13, 2024",Books,Novel,2.0,25964.71,51929.42,Cash,Returned
+CUST0836,Omar,Mehmood, ,+923963303963,Swat,VIP,ORD00836,2024-10-09,Clothing,Jeans,4.0,36668.66,146674.64,Debit Card,Returned
+CUST0837,Ali,Malik,ali.malik766@gmail.com,+923860890866,Peshawar,Premium,ORD00837,2025-04-10,Clothing,T-Shirt,1.0,8046.22,8046.22,Cash,Completed
+CUST0838,Usman,Butt,usman.butt671@yahoo.com,+923313975774,Lahore,Corporate,ORD00838,2025-12-17,Clothing,Sneakers,3.0,24200.01,72600.03,EasyPaisa,Completed
+CUST0839,Ahmed,Ahmed,ahmed.ahmed753@outlook.com,+923963833796,Karachi,Corporate,ORD00839,2026-10-10,Home & Kitchen,Cookware Set,2.0,79776.87,159553.74,Debit Card,Cancelled
+CUST0840,Zainab,Raza,zainab.raza355@example.com,+923757526651,Quetta,VIP,ORD00840,2024-08-01,Home & Kitchen,Blender,5.0,27273.3,136366.5,Credit Card,Pending
+CUST0841,Danish,Malik,danish.malik743@yahoo.com,+923038512618,Karachi,Corporate,ORD00841,2024-09-08,Home & Kitchen,Desk Lamp,2.0,63126.76,126253.52,Cash,Completed
+CUST0842,Laiba,Saeed,laiba.saeed848@gmail.com,+923064123910,Mardan,Corporate,ORD00842,2026-02-25,Electronics,Power Bank,5.0,23157.8,115789.0,Cash,Returned
+CUST0843,Omar,Butt,omar.butt442@gmail.com,+923709101742,Mardan,Regular,ORD00843,2025-01-12,Electronics,Smart Watch,4.0,19272.01,77088.04,Debit Card,Completed
+CUST0844,Maham,Khalid,maham.khalid350@example.com,+923929583710,Abbottabad,Regular,ORD00844,2025-03-19,Home & Kitchen,Blender,3.0,78448.71,235346.13,JazzCash,Returned
+CUST0845,Maryam,Saeed,maryam.saeed984@example.com,+923501794417,Karachi,Premium,ORD00845,2025-06-16,Sports,Yoga Mat,5.0,39531.84,197659.2,Debit Card,Cancelled
+CUST0846,Ahmed,Malik,ahmed.malik631@outlook.com,+923388366909,Mardan,VIP,ORD00846,2026-03-19,Sports,Yoga Mat,5.0,25321.16,126605.8,Cash,Cancelled
+CUST0847,Zubair,Ali,zubair.ali18@example.com,+923009524841,Quetta,Regular,ORD00847,2026-06-27,Home & Kitchen,Cookware Set,2.0,71100.98,142201.96,Bank Transfer,Pending
+CUST0848,Noor,Khan,noor.khan452@yahoo.com,+923277032861,Mardan,VIP,ORD00848,2025-10-05,Sports,Cricket Bat,3.0,79816.2,239448.6,Credit Card,Pending
+CUST0849,Sara,Shah,sara.shah40@yahoo.com,+923734913342,Faisalabad,Corporate,ORD00849,2024-08-22,Sports,Dumbbells,2.0,55844.15,111688.3,Cash,Pending
+CUST0850,Ali,Mehmood,ali.mehmood736@gmail.com,+923644866619,Karachi,VIP,ORD00850,2025-12-24,Home & Kitchen,Blender,1.0,82905.18,82905.18,Cash,Returned
+CUST0851,Fatima,Raza,fatima.raza426@gmail.com,+923689220950,Abbottabad,VIP,ORD00851,2026-01-30,Electronics,Headphones,3.0,20333.95,61001.85,Cash,Cancelled
+CUST0852,Maham,Khalid,maham.khalid966@outlook.com,,Peshawar,Premium,ORD00852,02-06-2026,Home & Kitchen,Cookware Set,4.0,28640.05,171840.3,Cash,Cancelled
+CUST0853,Usman,Iqbal,usman.iqbal733@outlook.com,03XX1234567,Abbottabad,Regular,ORD00853,2025-10-03,Electronics,Headphones,2.0,9253.17,18506.34,Bank Transfer,Completed
+CUST0854,Ahmed,Malik,ahmed.malik751@gmail.com,+923910098281,Faisalabad,Regular,ORD00854,2026-05-06,Sports,Cricket Bat,5.0,42921.28,214606.4,EasyPaisa,Returned
+CUST0855,Hamza,Siddiqui,hamza.siddiqui249@outlook.com,+923247917000,Quetta,VIP,ORD00855,2025-05-14,Clothing,T-Shirt,3.0,71101.76,213305.28,EasyPaisa,Pending
+CUST0856,Saad,Mehmood,saad.mehmood670@example.com,,Karachi,Corporate,ORD00856,2024-06-05,Books,Novel,3.0,30919.43,92758.29,Credit Card,Pending
+CUST0857,Iqra,Malik,iqra.malik350@outlook.com,+923126662904,Islamabad,Corporate,ORD00857,2025-06-17,Books,Novel,2.0,57380.41,114760.82,JazzCash,Pending
+CUST0858,Zubair,Butt,zubair.butt16@yahoo.com,,Abbottabad,Vip,ORD00858,2025-01-03,Beauty,Shampoo,2.0,74952.15,74952.15,EasyPaisa,Completed
+CUST0859,Usman,Saeed,usman.saeed136@example.com,+923970942203,Abbottabad,VIP,ORD00859,2024-12-07,Electronics,Headphones,1.0,70919.51,70919.51,Bank Transfer,Pending
+CUST0860,Maryam,Ahmed,,+923793225078,Swat,Corporate,ORD00860,2024-08-08,Home & Kitchen,Desk Lamp,3.0,76306.88,228920.64,EasyPaisa,Returned
+CUST0861,Noor,Siddiqui,noor.siddiqui918@gmail.com,+923637322987,,REGULAR,ORD00861,2024-06-20,Books,Novel,2.0,59584.64,99999999.0,Debit Card,Returned
+CUST0847,Zubair,Ali,zubair.ali18@example.com,+923009524841,Quetta,Regular,ORD00847,2026-06-27,Home & Kitchen,Cookware Set,2.0,71100.98,142201.96,Bank Transfer,Pending
+CUST0863,Hamza,Khalid,hamza.khalid532@outlook.com,+923617549533,Swat,Regular,ORD00863,2025-03-07,Clothing,Jacket,1.0,81060.28,81060.28,Debit Card,Pending
+CUST0864,Fatima,Siddiqui,fatima.siddiqui962@outlook.com,+92-abc-123,Islamabad,Premium,ORD00864,2024-12-12,Home & Kitchen,Cookware Set,2.0,41492.38,82984.76,Credit Card,Completed
+CUST0865,Hassan,Raza,hassan.raza551@yahoo.com,+923007156607,Quetta,Regular,ORD00865,2024-03-22,Sports,Dumbbells,1.0,64224.79,64224.79,Credit Card,Cancelled
+CUST0866,Zubair,Yousafzai,zubair.yousafzai941@gmail.com,12345,Islamabad,Corporate,ORD00866,2026-07-18,Beauty,Shampoo,2.0,37948.89,75897.78,Bank Transfer,Cancelled
+CUST0867,Ahmed,Saeed,ahmed.saeed763@yahoo.com,+923780998560,Islamabad,VIP,ORD00867,2025-12-25,Clothing,Jeans,1.0,84413.3,84413.3,JazzCash,Cancelled
+CUST0868,Bilal,Butt,bilal.butt444@gmail.com,+923757099319,Faisalabad,VIP,ORD00868,2025-10-06,Beauty,Moisturizer,1.0,62585.47,62585.47,JazzCash,Completed
+CUST0869,Ayesha,Malik,ayesha.malik482@yahoo.com,+923520235608,Lahore,Corporate,ORD00869,2025-02-04,Clothing,Jacket,2.0,49942.6,99885.2,Credit Card,Pending
+CUST0870,Ahmed,Raza,ahmed.raza503@yahoo.com,+923762346505,Lahore,Regular,ORD00870,2026-06-08,Beauty,Shampoo,1.0,,63765.55,EasyPaisa,Cancelled
+CUST0871,Maham,Yousafzai,maham.yousafzai673@yahoo.com,,Mardan,Premium,ORD00871,2026-09-18,Beauty,Sunscreen,3.0,49735.44,149206.32,EasyPaisa,Returned
+CUST0872,Laiba,Khalid,laiba.khalid99@yahoo.com,+923120653592,PESHAWAR,Corporate,ORD00872,2026-09-12,Beauty,Shampoo,3.0,33489.8,100469.4,Debit Card,Pending
+CUST0873,Noor,Ahmed,noor.ahmed714@example.com,+923756793425,Lahore,Corporate,ORD00873,2024-08-20,Clothing,Sneakers,3.0,39636.37,118909.11,JazzCash,Returned
+CUST0874,Zainab,Khan,zainab.khan576@outlook.com,+923280896497,Swat,Corporate,ORD00874,2026-04-17,Home & Kitchen,Desk Lamp,2.0,22956.55,45913.1,Bank Transfer,Returned
+CUST0875,Omar,Siddiqui,missing-at-sign.com,+923331260784,Quetta,Corporate,ORD00875,2025-11-26,Electronics,Headphones,2.0,22989.89,45979.78,JazzCash,Pending
+CUST0876,Iqra,Malik,iqra.malik620@gmail.com,+923775487184,Peshawar,Corporate,ORD00876,2025-11-06,Beauty,Face Wash,5.0,9599.25,47996.25,EasyPaisa,COMPLETED
+CUST0877,Hira,Khalid,hira.khalid549@yahoo.com,+923168569854,Faisalabad,Vip,ORD00877,2025-03-07,Sports,Football,1.0,5628.64,5628.64,Debit Card,Pending
+CUST0878,Hira,Afridi,hira.afridi866@gmail.com,+923810805871,Faisalabad,Regular,ORD00878,2024-01-28,Books,Novel,2.0,18523.38,37046.76,Bank Transfer,Completed
+CUST0879,Sara,Siddiqui,sara.siddiqui768@gmail.com,+923872947639,Abbottabad,Corporate,ORD00879,2024-03-10,Home & Kitchen,Water Bottle,2.0,2304.71,4609.42,EasyPaisa,Cancelled
+CUST0880,Ahmed,Ahmed,ahmed.ahmed761@yahoo.com,+923102603195,Abbottabad,Premium,ORD00880,2024-02-11,Electronics,Smart Watch,4.0,43007.19,172028.76,Debit Card,Cancelled
+CUST0881,Noor,Raza,noor.raza103@outlook.com,+923704429087,Quetta,Corporate,ORD00881,2026-07-28,Beauty,Sunscreen,3.0,2235.86,6707.58,cash,Completed
+CUST0882,Zainab,Yousafzai,zainab.yousafzai18@example.com,+923781208866,Abbottabad,VIP,ORD00882,2025-05-15,Sports,Yoga Mat,3.0,23857.78,71573.34,Bank Transfer,Pending
+CUST0883,Zubair,Khan,zubair.khan577@gmail.com,+923690221180,Mardan,VIP,ORD00883,2026-01-27,Books,Data Science Handbook,4.0,65609.69,262438.76,EasyPaisa,Completed
+CUST0884,Fatima,Raza,,+923661949453,Quetta,Premium,ORD00884,2025-05-26,Clothing,T-Shirt,4.0,17851.03,71404.12,Bank Transfer,Cancelled
+CUST0885,Noor,Siddiqui,missing-at-sign.com,+923935688601,Peshawar,VIP,ORD00885,2024-03-15,Beauty,Moisturizer,2.0,28884.35,57768.7,JazzCash,Returned
+CUST0886,Iqra,Butt,iqra.butt726@example.com,+923552366203,Faisalabad,Regular,ORD00886,2025-10-21,Home & Kitchen,Blender,2.0,81565.53,163131.06,Bank Transfer,Completed
+CUST0887,Omar,Shah,omar.shah449@gmail.com,+923041942442,Abbottabad,Corporate,ORD00887,2024-12-06,Electronics,Headphones,1.0,13987.39,13987.39,EasyPaisa,Returned
+CUST0888,Usman,Mehmood,usman.mehmood446@outlook.com,+923773032900,Mardan,VIP,ORD00888,2025-08-30,Sports,Dumbbells,1.0,35687.99,35687.99,JazzCash,Pending
+CUST0889,Usman,Siddiqui,usman.siddiqui620@outlook.com,+923506924290,Quetta,Premium,ORD00889,2026-01-30,Sports,Dumbbells,5.0,58305.77,291528.85,EasyPaisa,Pending
+CUST0890,Sara,Raza,sara.raza184@yahoo.com,+923505188483,Islamabad,Regular,ORD00890,2025-10-12,Beauty,Sunscreen,1.0,70542.33,70542.33,EasyPaisa,Pending
+CUST0891,Hassan,Mehmood,hassan.mehmood640@example.com,+923638290623,Lahore,Regular,ORD00891,2024-07-12,Electronics,Keyboard,3.0,45822.74,137468.22,EasyPaisa,Pending
+CUST0892,Hira,Ali,hira.ali599@outlook.com,+923394358316,peshawar,VIP,ORD00892,2025-08-05,Electronics,Smart Watch,3.0,78887.79,236663.37,JazzCash,Pending
+CUST0893,Ahmed,Iqbal,ahmed.iqbal270@gmail.com,+923136047478,Faisalabad,Corporate,ORD00893,2025-07-27,Clothing,Jacket,2.0,8977.24,17954.48,JazzCash,Cancelled
+CUST0760,Sara,Malik,sara.malik706@yahoo.com,+923748065282,Abbottabad,VIP,ORD00760,2026-08-31,Home & Kitchen,Desk Lamp,4.0,80079.55,320318.2,Cash,Pending
+CUST0895,Ali,Shah,ali.shah310@gmail.com,+923258527922,Faisalabad,Corporate,ORD00895,2026-08-24,Sports,Cricket Bat,4.0,68663.11,274652.44,Bank Transfer,Returned
+CUST0896,Hira,Siddiqui,hira.siddiqui969@outlook.com,+923763803756,Lahore,Corporate,ORD00896,2025-03-14,Sports,Cricket Bat,1.0,27113.37,27113.37,Bank Transfer,Cancelled
+CUST0897,Fatima,Raza,fatima.raza876@example.com,+923827580907,Swat,Corporate,ORD00897,2024-02-21,Books,Data Science Handbook,2.0,55514.81,111029.62,JazzCash,Pending
+CUST0898,Omar,Afridi,omar.afridi370@yahoo.com,+923006028563,Mardan,VIP,ORD00898,2025-02-05,Clothing,T-Shirt,1.0,79338.06,79338.06,Debit Card,Cancelled
+CUST0899,Danish,Khan,danish.khan45@outlook.com,+923294391911,Peshawar,Regular,ORD00899,2026-09-07,Sports,Cricket Bat,3.0,23389.11,70167.33,JazzCash,Returned
+CUST0900,Laiba,Shah,,+923658118367,Lahore,Premium,ORD00900,2024-07-31,Books,Data Science Handbook,5.0,63807.08,319035.4,Cash,Returned
+CUST0901,Fatima,Khan,fatima.khan879@outlook.com,+923915446370,Karachi,Regular,ORD00901,2025-10-05,Books,Business Strategy,1.0,54276.27,54276.27,EasyPaisa,Cancelled
+CUST0902,Sara,Iqbal,,+923899491426,Peshawar,Regular,ORD00902,2024-01-30,Beauty,Moisturizer,5.0,80279.51,401397.55,JazzCash,return
+CUST0903,Bilal,Ahmed,,+923185723207,Peshawar,VIP,ORD00903,2025-02-10,Clothing,Jacket,3.0,37828.05,113484.15,CREDIT CARD,Cancelled
+CUST0904,Fatima,Afridi,fatima.afridi120@gmail.com,+923195958920,Islamabad,Premium,ORD00904,2026-08-06,Books,Business Strategy,1.0,48402.68,48402.68,JazzCash,Completed
+CUST0905,Sara,Khalid,sara.khalid899@yahoo.com,+923330478745,Karachi,Premium,ORD00905,2026-07-31,Electronics,Keyboard,3.0,18685.32,56055.96,Cash,Returned
+CUST0906,Maryam,Shah,maryam.shah856@yahoo.com,+923292916147,Karachi,Premium,ORD00906,2026-04-27,Home & Kitchen,Cookware Set,3.0,12151.11,36453.33,Debit Card,Returned
+CUST0907,Bilal,Ahmed,bilal.ahmed536@example.com,+923890668920,Lahore,Regular,ORD00907,2025-12-15,Books,Novel,3.0,30349.23,91047.69,Credit Card,Pending
+CUST0908,Noor,Afridi,noor.afridi717@outlook.com,+923097450121,Faisalabad,Premium,ORD00908,2025-02-28,Beauty,Sunscreen,3.0,68974.48,206923.44,Credit Card,Returned
+CUST0909,Bilal,Khan,bilal.khan479@outlook.com,+923399735559,Abbottabad,Regular,ORD00909,2026-08-31,Electronics,Keyboard,2.0,44068.28,88136.56,EasyPaisa,Completed
+CUST0910,Hira,Saeed,hira.saeed664@gmail.com,+92-abc-123,Swat,VIP,ORD00910,2025-11-16,Electronics,Headphones,4.0,13704.1,54816.4,Bank Transfer,PENDING 
+CUST0911,Ayesha,Butt,ayesha.butt409@example.com,+923895604200, Lahore ,VIP,ORD00911,2026-06-09,Sports,Dumbbells,5.0,38933.77,194668.85,JazzCash,Cancelled
+CUST0912,Laiba,Ali,laiba.ali437@outlook.com,+923620073011,Abbottabad,REGULAR,ORD00912,2024-08-08,Books,Data Science Handbook,2.0,25689.69,51379.38,JazzCash,Pending
+CUST0913,Maryam,Iqbal,maryam.iqbal680@outlook.com,+923846719967,Peshawar,Regular,ORD00913,2024-10-12,Beauty,Sunscreen,2.0,80156.23,160312.46,Credit Card,Cancelled
+CUST0914,Saad,Yousafzai,saad.yousafzai309@outlook.com,+923086302290,Lahore,Premium,ORD00914,2025-02-14,Clothing,Jeans,2.0,39284.81,78569.62,Bank Transfer,Completed
+CUST0915,Zainab,Shah,zainab.shah164@outlook.com,+923107281279,Quetta,Corporate,ORD00915,2024-01-11,Beauty,Moisturizer,3.0,47315.76,99999999,Bank Transfer,Returned
+CUST0916,Saad,Mehmood,saad.mehmood326@yahoo.com,+923429371703,Swat,VIP,ORD00916,2026-03-04,Clothing,Sneakers,1.0,64919.01,64919.01,JazzCash,Returned
+CUST0917,Iqra,Ahmed,iqra.ahmed907@yahoo.com,+923824466143,Karachi,VIP,ORD00917,"Feb 25, 2024",Home & Kitchen,Cookware Set,5.0,41634.22,208171.1,Debit Card,Completed
+CUST0918,Maham,Iqbal,maham.iqbal193@gmail.com,+923226809000,Mardan,Corporate,ORD00918,2024-10-09,Books,Python Basics,0,77761.16,155522.32,Debit Card,Returned
+CUST0919,Sara,Yousafzai,sara.yousafzai268@example.com,+923192755937,Lahore,Corporate,ORD00919,2026-09-11,Clothing,Scarf,4.0,24400.71,97602.84,Cash,cancel
+CUST0920,Ahmed,Afridi,ahmed.afridi327@yahoo.com,+923617060322,Faisalabad,Corporate,ORD00920,2024-01-26,Beauty,Shampoo,4.0,62343.84,249375.36,Cash,Returned
+CUST0921,Omar,Yousafzai,omar.yousafzai827@example.com,+923539084522,Swat,Corporate,ORD00921,2024-08-25,Electronics,Keyboard,3.0,25925.39,77776.17,CREDIT CARD,Cancelled
+CUST0922,Fatima,Khalid,fatima.khalid82@yahoo.com,,Swat,VIP,ORD00922,2026-02-24,Clothing,Jeans,5.0,83367.25,416836.25,JazzCash,Returned
+CUST0923,Noor,Khan,noor.khan376@gmail.com,+923954734652,Swat,VIP,ORD00923,2026-09-29,Books,Novel,1.0,,24125.26,Easy Paisa,Cancelled
+CUST0924,Ayesha,Raza,ayesha.raza458@outlook.com,+923319635063,Peshawar,Regular,ORD00924,2026-05-04,Home & Kitchen,Cookware Set,3.0,15397.21,46191.63,EasyPaisa,Completed
+CUST0925,Iqra,Mehmood,iqra.mehmood745@yahoo.com,,Quetta,Corporate,ORD00925,2024-07-12,Books,Business Strategy,1.0,21321.11,21321.11,Debit Card,Returned
+CUST0926,Maham,Malik,maham.malik79@outlook.com,+923400285937,Peshawar,Premium,ORD00926,2026-07-27,Beauty,Face Wash,5.0,69786.16,348930.8,Bank Transfer,Completed
+CUST0927,Hamza,Ali,hamza.ali974@outlook.com,+923774805614,Islamabad,Corporate,ORD00927,2024-02-15,Beauty,Face Wash,,25843.31,103373.24,Credit Card,Cancelled
+CUST0928,Maryam,Iqbal,maryam.iqbal588@example.com,+923231079186,Abbottabad,VIP,ORD00928,2024-04-10,Sports,Football,2.0,45943.61,91887.22,Debit Card,Completed
+CUST0929,Maham,Yousafzai,maham.yousafzai213@gmail.com,+923839720413,Abbottabad,Premium,ORD00929,2024-01-11,Clothing,Jacket,3.0,unknown,173184.45,Debit Card,Returned
+CUST0930,Maham,Khalid,maham.khalid727@outlook.com,+923237358917,Islamabad,VIP,ORD00930,2025-04-05,Beauty,Shampoo,2.0,27214.01,54428.02,JazzCash,Returned
+CUST0931,Maham,Afridi,maham.afridi349@outlook.com,+923371907995,Quetta,Premium,ORD00931,2024-01-26,Sports,Cricket Bat,5.0,33221.1,166105.5,EasyPaisa,Returned
+CUST0932,Hassan,Raza,hassan.raza34@gmail.com,+923677943476,Quetta,corporate,ORD00932,2025-06-07,Beauty,Face Wash,4.0,14658.64,58634.56,Credit Card,Cancelled
+CUST0933,Maryam,Siddiqui,maryam.siddiqui640@yahoo.com,+923670299588,Swat,Corporate,ORD00933,2024-03-01,Home & Kitchen,Desk Lamp,4.0,38514.56,154058.24,Cash,Cancelled
+CUST0934,Iqra,Mehmood,iqra.mehmood622@gmail.com,+923104131289,Abbottabad,Premium,ORD00934,2024-09-26,Books,Data Science Handbook,4.0,84125.4,336501.6,Cash,Cancelled
+CUST0935,Sara,Saeed,sara.saeed770@yahoo.com,+923449017351,Mardan,VIP,ORD00935,2026-04-16,Clothing,Jacket,4.0,65242.63,260970.52,EasyPaisa,Completed
+CUST0936,Hamza,Raza,hamza.raza775@example.com,+923307394485,Quetta,Premium,ORD00936,2026-04-07,Sports,Football,2.0,45380.09,90760.18,Bank Transfer,return
+CUST0937,Ayesha,Raza,ayesha.raza595@example.com,+923449113543,Abbottabad,Premium,ORD00937,2024-07-20,Home & Kitchen,Blender,2.0,64908.73,129817.46,Easy Paisa,Pending
+CUST0938,Usman,Iqbal,usman.iqbal333@yahoo.com,+923178733850,Quetta,Regular,ORD00938,2026-04-17,Sports,Dumbbells,1.0,42909.87,42909.87,Cash,Returned
+CUST0939,Iqra,Raza,,+923188131372,,Premium,ORD00939,2026-07-26,Clothing,Jacket,,72313.69,144627.38,Credit Card,Cancelled
+CUST0940,Ahmed,Khan,ahmed.khan618@example.com,+923259720591,Lahore,Corporate,ORD00940,2025-05-16,Clothing,Scarf,4.0,49201.79,196807.16,EasyPaisa,Completed
+CUST0941,Maham,Saeed,maham.saeed740@gmail.com,+923007390903,Peshawar,Corporate,ORD00941,2025-05-16,Home & Kitchen,Desk Lamp,2.0,74159.24,148318.48,Bank Transfer,Completed
+CUST0942,Noor,Siddiqui,noor.siddiqui493@gmail.com,+923314566696,Abbottabad,Regular,ORD00942,2024-02-18,Beauty,Sunscreen,5.0,45789.69,228948.45,Bank Transfer,Returned
+CUST0943,Noor,Khalid,noor.khalid174@outlook.com,+923443340540,Swat,Premium,ORD00943,2024-08-16,Electronics,Headphones,3.0,9032.05,27096.15,Bank Transfer,Pending
+CUST0944,Bilal,Ahmed,bilal.ahmed504@yahoo.com,+923812801709,Mardan,VIP,ORD00944,2026-07-27,Home & Kitchen,Cookware Set,1.0,54662.51,54662.51,EasyPaisa,Returned
+CUST0945,Hamza,Khalid,hamza.khalid37@yahoo.com,+923158939532,Faisalabad,VIP,ORD00945,2025-07-17,Books,Python Basics,5.0,59537.85,297689.25,Credit Card,Cancelled
+CUST0946,Zubair,Afridi,zubair.afridi731@example.com,+923722927518, Lahore ,Premium,ORD00946,16/09/2025,Beauty,Moisturizer,2.0,24930.75,49861.5, bank transfer ,Cancelled
+CUST0947,Omar,Siddiqui,omar.siddiqui599@gmail.com,+923278551365,Swat,Corporate,ORD00947,2025-09-12,Beauty,Shampoo,2.0,19566.05,39132.1,JazzCash,Pending
+CUST0948,Hira,Ali,,+923929225498,Quetta,Premium,ORD00948,2025-10-05,Clothing,Scarf,5.0,50009.73,250048.65,Bank Transfer,Pending
+CUST0949,Laiba,Yousafzai,laiba.yousafzai317@yahoo.com,+923240851021,Lahore,VIP,ORD00949,2025-12-02,Electronics,Smart Watch,1.0,56926.12,56926.12,EasyPaisa,Completed
+CUST0950,Hassan,Afridi,hassan.afridi208@outlook.com,+923713226657,Peshawar,Corporate,ORD00950,2025-04-12,Books,Python Basics,1.0,39177.52,39177.52,Debit Card,Completed
+CUST0951,Bilal,Raza,bilal.raza458@yahoo.com,+923262736302,Mardan,Premium,ORD00951,2024-06-11,Sports,Football,5.0,71999.83,359999.15,Credit Card,Returned
+CUST0952,Sara,Khan,sara.khan195@gmail.com,+923972961450,Lahore,VIP,ORD00952,2024-07-06,Sports,Yoga Mat,3.0,22773.44,68320.32,Credit Card,Pending
+CUST0953,Zainab,Iqbal,zainab.iqbal809@gmail.com,+923210910630,Quetta,Regular,ORD00953,2024-04-14,Sports,Cricket Bat,1.0,40699.68,61049.52,Cash,Returned
+CUST0954,Hassan,Ahmed,hassan.ahmed583@gmail.com,+923624610167,Abbottabad,Regular,ORD00954,2026-09-24,Sports,Cricket Bat,5.0,50199.6,250998.0,EasyPaisa,Pending
+CUST0955,Zubair,Khalid,zubair.khalid773@example.com,+923645699103,Mardan,Corporate,ORD00955,"Jan 02, 2024",Beauty,Moisturizer,4.0,52321.53,418572.24,Debit Card,Returned
+CUST0956,Danish,Siddiqui,danish.siddiqui282@outlook.com,+923672078335,Quetta,Regular,ORD00956,2025-05-24,Beauty,Moisturizer,5.0,25644.26,128221.3,Bank Transfer,Completed
+CUST0957,Hamza,Raza,hamza.raza690@outlook.com,+923101541586,Quetta,VIP,ORD00957,2024-05-14,Books,Data Science Handbook,2.0,42268.03,84536.06,Credit Card,Completed
+CUST0958,Zainab,Malik,missing-at-sign.com,+923995950833,Karachi,Premium,ORD00958,2026-08-24,Home & Kitchen,Cookware Set,3.0,42775.83,128327.49,Credit Card,Pending
+CUST0959,Omar,Khalid,omar.khalid980@example.com,+923701680220,Abbottabad,VIP,ORD00959,2024-11-17,Clothing,Jeans,5.0,72487.28,362436.4,Debit Card,Returned
+CUST0960,Maryam,Afridi,maryam.afridi316@example.com,+923604824173,Abbottabad,Corporate,ORD00960,2025-10-07,Clothing,T-Shirt,3.0,26203.19,78609.57,Bank Transfer,Completed
+CUST0961,Noor,Afridi,user@@gmail.com,+923223992251,Swat ,VIP,ORD00961,2025-07-15,Beauty,Sunscreen,4.0,68505.17,137010.34,Cash,Cancelled
+CUST0962,Noor,Khalid,noor.khalid633@example.com,+923919556198,Mardan,Regular,ORD00962,2025-02-12,Books,Python Basics,5.0,27851.81,139259.05,Credit Card,COMPLETED
+CUST0963,Hamza,Mehmood,hamza.mehmood800@example.com,+923738520660,Quetta,Premium,ORD00963,"Aug 20, 2026",Books,Business Strategy,5.0,80041.63,400208.15,JazzCash,Returned
+CUST0964,Ali,Ahmed,ali.ahmed946@outlook.com,+923119218400,Quetta,Premium,ORD00964,2026-01-26,Electronics,Wireless Mouse,3.0,54458.53,163375.59,Debit Card,Returned
+CUST0965,Usman,Saeed,usman.saeed91@example.com,+923263310130,,VIP,ORD00965,2025-02-13,Clothing,Scarf,5.0,50236.25,251181.25,JazzCash,Cancelled
+CUST0966,Ayesha,Shah,ayesha.shah766@yahoo.com,+923197718851,Swat ,Corporate,ORD00966,2026-01-09,Electronics,Headphones,3.0,74043.97,222131.91,Bank Transfer,Cancelled
+CUST0967,Hamza,Malik,hamza.malik766@gmail.com,+923150613697,Islamabad,Corporate,ORD00967,2025-06-06,Beauty,Shampoo,3.0,82579.43,495476.58,Bank Transfer,Returned
+CUST0968,Ali,Saeed,ali.saeed580@example.com,,Faisalabad,VIP,ORD00968,2026-02-03,Sports,Cricket Bat,5.0,5359.27,26796.35,CREDIT CARD,Cancelled
+CUST0969,Ahmed,Mehmood,ahmed.mehmood163@gmail.com,+923616247535,Quetta,Premium,ORD00969,2024-08-18,Electronics,Wireless Mouse,5.0,48159.75,240798.75,CREDIT CARD,Returned
+CUST0970,Bilal,Butt,bilal.butt187@outlook.com,+923487529337,Faisalabad,Corporate,ORD00970,2025-11-07,Books,Python Basics,2.0,75622.9,151245.8,Bank Transfer,Cancelled
+CUST0971,Ayesha,Iqbal,ayesha.iqbal155@outlook.com,+923918666268,Karachi,VIP,ORD00971,2025-10-22,Books,Novel,2.0,1849.37,3698.74,EasyPaisa,Pending
+CUST0972,Zubair,Afridi,zubair.afridi212@outlook.com,+923194977260,Islamabad,,ORD00972,2025-01-21,Beauty,Face Wash,2.0,73748.85,147497.7,Credit Card,cancel
+CUST0973,Ahmed,Afridi,ahmed.afridi168@example.com,+923291067723,Karachi,Premium,ORD00973,2025-02-17,Home & Kitchen,Cookware Set,2.0,78937.45,157874.9,Cash,Pending
+CUST0974,Saad,Ahmed,,+923428614334,Karachi,Premium,ORD00974,2026-02-18,Books,Novel,2.0,2404.67,4809.34,JazzCash,Completed
+CUST0975,Ahmed,Shah,,+923129233762,Quetta,VIP,ORD00975,2024-09-06,Sports,Dumbbells,5.0,77650.75,388253.75,Bank Transfer,Pending
+CUST0976,Hassan,Ahmed,hassan.ahmed17@gmail.com,+923408053172, Lahore ,Corporate,ORD00976,2024-08-17,Sports,Yoga Mat,3.0,30748.01,92244.03,Debit Card,Cancelled
+CUST0977,Maryam,Saeed,maryam.saeed87@example.com,+923940535366,Quetta,Vip,ORD00977,2025-04-14,Electronics,Keyboard,3.0,-500.0,111132.36,EasyPaisa,Cancelled
+CUST0978,Ali,Shah,ali.shah160@yahoo.com,+923746325953,Quetta,Regular,ORD00978,2024-09-19,Clothing,T-Shirt,1.0,15281.12,15281.12,JazzCash,Pending
+CUST0979,Maryam,Afridi,maryam.afridi179@yahoo.com,+923796680642,Lahore,VIP,ORD00979,2026-05-08,Sports,Yoga Mat,2.0,35410.77,70821.54,Credit Card,Completed
+CUST0980,Laiba,Malik,laiba.malik329@gmail.com,+923841028578,Peshawar,VIP,ORD00980,2025-06-27,Home & Kitchen,Blender,3.0,34459.7,103379.1,Bank Transfer,Completed
+CUST0981,Usman,Yousafzai,usman.yousafzai103@gmail.com,+923374377701,Karachi,Regular,ORD00981,"Dec 13, 2024",Electronics,Power Bank,5.0,45970.5,229852.5,CREDIT CARD,Completed
+CUST0982,Laiba,Butt,laiba.butt878@gmail.com,+923334396365,Quetta,Corporate,ORD00982,2026-06-20,Books,Business Strategy,5.0,72807.9,364039.5,Credit Card,Cancelled
+CUST0983,Iqra,Afridi,iqra.afridi767@yahoo.com,+923135112134,Karachi,Premium,ORD00983,2026-09-05,Sports,Football,1.0,56899.61,56899.61,Credit Card,Completed
+CUST0984,Fatima,Mehmood,fatima.mehmood232@outlook.com,,,VIP,ORD00984,2024-08-03,Books,Novel,5.0,24174.91,120874.55,EasyPaisa,Cancelled
+CUST0985,Usman,Afridi,usman.afridi928@example.com,+923678476227,Peshawar,Premium,ORD00985,2024-03-11,Books,Data Science Handbook,2.0,32011.82,64023.64,Cash,Pending
+CUST0986,Ali,Saeed,ali.saeed493@example.com,+923920927372,PESHAWAR,Premium,ORD00986,"Jan 24, 2024",Clothing,Scarf,3.0,13969.77,41909.31,Bank Transfer,Returned
+CUST0987,Hassan,Butt,,+923362124359,Karachi ,VIP,ORD00987,2024-08-29,Sports,Dumbbells,4.0,22522.69,90090.76,Bank Transfer,Returned
+CUST0988,Fatima,Ali,fatima.ali437@gmail.com,+923583384105,Lahore,Regular,ORD00988,2024-05-09,Home & Kitchen,Water Bottle,3.0,64937.08,194811.24,Bank Transfer,COMPLETED
+CUST0953,Zainab,Iqbal,zainab.iqbal809@gmail.com,+923210910630,Quetta,Regular,ORD00953,2024-04-14,Sports,Cricket Bat,1.0,40699.68,40699.68,Cash,Returned
+CUST0990,Usman,Saeed,usman.saeed763@outlook.com,+923564331521,Lahore,Regular,ORD00990,2025-02-10,Beauty,Sunscreen,1.0,19052.39,19052.39,JazzCash,Pending
+CUST0991,Danish,Shah,danish.shah156@example.com,+923921587453,Karachi,VIP,ORD00991,2025-04-08,Home & Kitchen,Blender,2.0,13704.05,27408.1,Bank Transfer,Cancelled
+CUST0992,Omar,Raza,omar.raza739@outlook.com,+923000379688,Islamabad,VIP,ORD00992,2025-10-21,Books,Business Strategy,4.0,75994.85,303979.4,Credit Card,Completed
+CUST0993,Ali,Khalid,ali.khalid401@yahoo.com,+923693728080,Abbottabad,Corporate,ORD00993,2024-11-24,Books,Data Science Handbook,4.0,12140.7,48562.8,Credit Card,Cancelled
+CUST0994,Ahmed,Malik,ahmed.malik758@yahoo.com,+923221009450,,Premium,ORD00994,2024-09-09,Home & Kitchen,Cookware Set,4.0,12152.32,48609.28,Debit Card,Completed
+CUST0995,Fatima,Raza,fatima.raza677@example.com,+923320857909,Islamabad,Corporate,ORD00995,2026-08-22,Home & Kitchen,Water Bottle,5.0,44679.42,223397.1,Cash,Cancelled
+CUST0996,Bilal,Khan,bilal.khan478@example.com,+923628115961,Lahore,Corporate,ORD00996,2024-08-19,Books,Business Strategy,3.0,71268.59,213805.77,Credit Card,Completed
+CUST0997,Ahmed,Mehmood,ahmed.mehmood507@example.com,+923452769142,Peshawar,Regular,ORD00997,2025-05-09,Sports,Dumbbells,3.0,81587.49,244762.47, bank transfer ,Cancelled
+CUST0998,Bilal,Ali,bilal.ali14@gmail.com,+923765680590,Quetta,Premium,ORD00998,2025-12-31,Sports,Cricket Bat,3.0,28118.31,84354.93,Credit Card,Returned
+CUST0999,Bilal,Ahmed,bilal.ahmed532@example.com,+923045205850,Islamabad,Regular,ORD00999,2026-02-08,Beauty,Face Wash,5.0,41596.3,207981.5,Cash,Pending
+CUST1000,Hira,Iqbal,hira.iqbal736@gmail.com,+923372915318,Quetta,Corporate,ORD01000,2026-05-13,Beauty,Face Wash,5.0,60363.62,301818.1,Bank Transfer,Returned
