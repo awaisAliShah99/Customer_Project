@@ -1,5 +1,6 @@
 pandas
 SQLAlchemy
 PyMySQL
+cryptography
 python-dotenv
 pytest
